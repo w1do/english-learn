@@ -1,0 +1,168 @@
+---
+import SignupLoginForm from '../components/forms/SignupLoginForm';
+import Footer from '../components/shared/footer/Footer.astro';
+---
+<!DOCTYPE html>
+<html lang="ru-RU" class="h-100">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/img/fav.png">
+    <title>Учить английский самостоятельно без репетитора — MySimpleEnglish</title>
+    <meta name="description" content="Онлайн-тренажёр английского: 100+ тем по уровням A1–B2, метод перевода предложений, прогресс сохраняется. Начните бесплатно прямо сейчас.">
+    <link href="/css/normalize.min.css" rel="stylesheet">
+    <link href="/css/datepicker.min.css" rel="stylesheet">
+    <link href="/css/slick.css" rel="stylesheet">
+    <link href="/css/nice-select.css" rel="stylesheet">
+    <link href="/css/jquery.fancybox.min.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+    <!-- Yandex.Metrika counter -->
+    <script is:inline type="text/javascript">
+        (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+            m[i].l = 1 * new Date();
+            for (var j = 0; j < document.scripts.length; j++) { if (document.scripts[j].src === r) { return; } }
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })(window, document, 'script', 'https://mc.yandex.ru/metrika/tag.js?id=108600487', 'ym');
+        ym(108600487, 'init', { ssr: true, webvisor: true, clickmap: true, ecommerce: "dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce: true, trackLinks: true });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/108600487" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+</head>
+<body class="registration-page">
+    <header class="header">
+        <div class="container">
+            <div class="header-flex">
+                <a class="logo" href="/"><img src="/img/logo.png" alt=""></a>
+                <div class="header-btns">
+                    <a class="btn btn-white modal-trigger" href="/" data-modal="modalLogin">Вход</a>
+                    <a class="btn btn-orange modal-trigger" href="/site/register" data-modal="modalRegistration">Регистрация</a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="wrapper">
+        <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+        if (window.matchMedia('(min-width: 1200px)').matches) {
+            const container = document.querySelector('.cover_video_bg');
+            if (container) {
+                const video = document.createElement('video');
+                video.autoplay = true;
+                video.muted = true;
+                video.loop = true;
+                video.playsInline = true;
+                video.preload = 'metadata';
+                video.poster = '/img/poster.png';
+                video.innerHTML = `<source src="/uploads/home.mp4" type="video/mp4">`;
+                container.appendChild(video);
+            }
+        }
+    });
+        </script>
+        <div class="cover_video_bg">
+            <img src="/img/home/section1_1-hd.png" alt="" class="mobile_view">
+        </div>
+        <div class="cover_outside_block">
+            <div class="cover_inside_block">
+                <SignupLoginForm client:load />
+            </div>
+        </div>
+    </div>
+
+    <Footer />
+
+    <div class="modal" id="modalLogin">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" alt=""></div>
+                <div class="title">Вход</div>
+                <div class="form-wrap">
+                    <form id="w1" action="/site/login" method="post">
+                        <div class="form-group field-loginform-email required">
+                            <p><input type="text" id="loginform-email" class="form-control" name="LoginForm[email]" placeholder="Email" aria-required="true"><span class="error-message"></span></p>
+                        </div>
+                        <div class="form-group field-loginform-password required">
+                            <p><input type="password" id="loginform-password" class="form-control" name="LoginForm[password]" placeholder="Password" aria-required="true"><span class="error-message"></span></p>
+                        </div>
+                        <button type="submit" class="btn btn-blue">Войти</button>
+                    </form>
+                    <div class="reg-by-social">
+                        <p>Вход через соцсети</p>
+                        <ul>
+                            <li><a href="/auth/social?authclient=yandex"><img src="/img/yandex.svg" alt="yandex"></a></li>
+                        </ul>
+                    </div>
+                    <p class="acceptance">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M17.5 5L10 12.5L6.875 9.375" stroke="#2E4373" stroke-width="2" stroke-miterlimit="10"></path><path d="M16.25 8.875V16.25H3.75V3.75H16.125L17.375 2.5H2.5V17.5H17.5V7.625L16.25 8.875Z" fill="#2E4373"></path></svg>
+                        Даю согласие на обработку <br><a href="/page/politika-konfidencialnosti" target="_blank">персональных данных</a>
+                    </p>
+                    <div class="links">
+                        <a href="#" class="modal-trigger" data-modal="modalRegistration">Зарегистрироваться</a>
+                        <a href="/request-password-reset" class="secondary">Забыли пароль?</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="modalRegistration">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" alt=""></div>
+                <div class="title">Регистрация</div>
+                <div class="form-wrap">
+                    <form id="signup-form-modal" action="/site/signup" method="post">
+                        <div class="form-group field-signupform-username required">
+                            <p><input type="text" class="form-control" name="SignupForm[username]" placeholder="Имя" aria-required="true"><span class="error-message"></span></p>
+                        </div>
+                        <div class="form-group field-signupform-email required">
+                            <p><input type="text" class="form-control" name="SignupForm[email]" placeholder="E-mail" aria-required="true"><span class="error-message"></span></p>
+                        </div>
+                        <div class="form-group field-signupform-password required">
+                            <p><input type="password" class="form-control" name="SignupForm[password]" placeholder="Пароль" aria-required="true"><span class="error-message"></span></p>
+                        </div>
+                        <button type="submit" class="btn btn-blue">Зарегистрироваться</button>
+                    </form>
+                    <p class="acceptance">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M17.5 5L10 12.5L6.875 9.375" stroke="#2E4373" stroke-width="2" stroke-miterlimit="10"></path>
+                            <path d="M16.25 8.875V16.25H3.75V3.75H16.125L17.375 2.5H2.5V17.5H17.5V7.625L16.25 8.875Z" fill="#2E4373"></path>
+                        </svg>
+                        Даю согласие на обработку <br><a href="/page/politika-konfidencialnosti" target="_blank">персональных данных</a>
+                    </p>
+                    <div class="links">
+                        <span>Есть аккаунт?</span>
+                        <a href="#" class="modal-trigger" data-modal="modalLogin">Войти</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="overlay-loader">
+        <div class="loader-container">
+            <div class="images">
+                <img src="/img/loader_1.png" alt="" class="active">
+                <img src="/img/loader_2.png" alt="">
+                <img src="/img/loader_3.png" alt="">
+                <img src="/img/loader_4.png" alt="">
+                <img src="/img/loader_5.png" alt="">
+                <img src="/img/loader_6.png" alt="">
+            </div>
+            <div class="spinner"></div>
+        </div>
+    </div>
+    <script is:inline src="/js/jquery.js"></script>
+    <script is:inline src="/js/datepicker.min.js"></script>
+    <script is:inline src="/js/slick.min.js"></script>
+    <script is:inline src="/js/jquery.nice-select.js"></script>
+    <script is:inline src="/js/confetti.browser.min.js"></script>
+    <script is:inline src="/js/jquery.fancybox.min.js"></script>
+    <script is:inline src="/js/scripts.js"></script>
+</body>
+</html>

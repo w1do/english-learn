@@ -1,0 +1,46 @@
+---
+import Header from '../components/shared/header/Header.astro';
+import Footer from '../components/shared/footer/Footer.astro';
+
+interface Props {
+    title: string;
+    description?: string;
+    bodyClass?: string;
+    activePage?: string;
+    isGuest?: boolean;
+}
+const { title, description = '', bodyClass = 'cabinet-pages', activePage, isGuest = false } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="ru-RU" class="h-100">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/img/fav.png">
+    <title>{title}</title>
+    {description && <meta name="description" content={description}>}
+    <link href="/css/normalize.min.css" rel="stylesheet">
+    <link href="/css/datepicker.min.css" rel="stylesheet">
+    <link href="/css/slick.css" rel="stylesheet">
+    <link href="/css/nice-select.css" rel="stylesheet">
+    <link href="/css/jquery.fancybox.min.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+    <slot name="head" />
+</head>
+<body class={bodyClass}>
+    <Header activePage={activePage} isGuest={isGuest} />
+    <div class="wrapper">
+        <slot />
+    </div>
+
+    <Footer />
+    <slot name="footer" />
+    <script is:inline src="/js/jquery.js"></script>
+    <script is:inline src="/js/datepicker.min.js"></script>
+    <script is:inline src="/js/slick.min.js"></script>
+    <script is:inline src="/js/jquery.nice-select.js"></script>
+    <script is:inline src="/js/confetti.browser.min.js"></script>
+    <script is:inline src="/js/jquery.fancybox.min.js"></script>
+    <script is:inline src="/js/scripts.js"></script>
+</body>
+</html>

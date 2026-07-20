@@ -1,0 +1,2702 @@
+---
+title: Advanced Conditionals and Wishes
+date: 15.06.2026
+category: b2-prodvinutyj-uroven-6
+categoryName: B2 — Продвинутый уровень
+order: 4
+excerpt: Сложные условные предложения и конструкции с wish — продвинутая грамматика для уверенного уровня B2.
+image: /uploads/blog/preview/6a2fdf5b4193f.png
+---
+
+<p><strong>Цель урока:</strong> научиться говорить о прошлом, которое уже нельзя изменить, о настоящем результате прошлой ошибки, о прошлой ситуации из-за нынешнего качества человека, а также правильно использовать сложные условные связки, которые сильно меняют смысл предложения.</p>
+
+<p><strong>Это не тема</strong> &ldquo;просто выучить формулы&rdquo;. На уровне B2 важно чувствовать, какую реальность создаёт говорящий: реальную, возможную, невозможную, жалеющую, раздражённую, осторожную или принципиально неизменную.</p>
+
+<p>В этом уроке мы будем разбирать не только &ldquo;как построить предложение&rdquo;, но и &ldquo;почему носитель выбрал именно эту конструкцию&rdquo;, &ldquo;почему нельзя заменить её другой&rdquo;, &ldquo;как меняется смысл&rdquo; и &ldquo;как это звучит в живой речи&rdquo;.</p>
+
+<h3><strong>Карта урока</strong></h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:57px">
+			<p style="text-align:center"><strong>Блок</strong></p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Что изучаем</strong></p>
+			</td>
+			<td style="width:378px">
+			<p style="text-align:center"><strong>Главная идея</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px">
+			<p style="text-align:center">1</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">Third Conditional</p>
+			</td>
+			<td style="width:378px">
+			<p style="text-align:center">Воображаем другое прошлое: &ldquo;если бы тогда&hellip;, сейчас результат прошлого был бы другим&rdquo;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px">
+			<p style="text-align:center">2</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">Mixed Conditionals 1</p>
+			</td>
+			<td style="width:378px">
+			<p style="text-align:center">Прошлое условие &rarr; настоящий результат: &ldquo;если бы я тогда&hellip;, сейчас было бы&hellip;&rdquo;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px">
+			<p style="text-align:center">3</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">Mixed Conditionals 2</p>
+			</td>
+			<td style="width:378px">
+			<p style="text-align:center">Настоящее качество/состояние &rarr; прошлый результат: &ldquo;если бы он был другим человеком, тогда бы&hellip;&rdquo;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px">
+			<p style="text-align:center">4</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">I wish / if only</p>
+			</td>
+			<td style="width:378px">
+			<p style="text-align:center">Желание изменить настоящее, прошлое или чужое поведение</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px">
+			<p style="text-align:center">5</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">in case</p>
+			</td>
+			<td style="width:378px">
+			<p style="text-align:center">Предосторожность: делаю что-то заранее, потому что это может понадобиться</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px">
+			<p style="text-align:center">6</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">provided that / as long as</p>
+			</td>
+			<td style="width:378px">
+			<p style="text-align:center">Условие-договор: &ldquo;только при условии, что&hellip;&rdquo;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px">
+			<p style="text-align:center">7</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">even if</p>
+			</td>
+			<td style="width:378px">
+			<p style="text-align:center">Даже если условие сработает, решение/результат не изменится</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px">
+			<p style="text-align:center">8</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">B2-сравнения</p>
+			</td>
+			<td style="width:378px">
+			<p style="text-align:center">Тонкие различия между похожими союзами и временами</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Главная мысль</strong> всей темы: conditionals &mdash; это не только &ldquo;if&rdquo;. Это способ показать отношение говорящего к реальности.</p>
+
+<ul>
+	<li>Если ситуация реальная или возможная &mdash; английский использует простые условные модели</li>
+	<li>Если ситуация невозможная сейчас &mdash; английский уходит в Past Simple после if, даже если речь о настоящем</li>
+	<li>Если ситуация невозможная в прошлом &mdash; английский уходит в Past Perfect после if</li>
+	<li>Если прошлое и настоящее смешиваются &mdash; появляется Mixed Conditional</li>
+	<li>Если говорящий не просто описывает условие, а выражает сожаление, раздражение или мечту &mdash; появляются I wish и if only</li>
+	<li>Если говорящий защищается от возможной проблемы &mdash; появляется in case</li>
+	<li>Если условие звучит как договор или строгая граница &mdash; появляются provided that и as long as</li>
+	<li>Если условие не меняет решение &mdash; появляется even if</li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Third Conditional &mdash; &ldquo;если бы тогда&hellip;, то бы&hellip;&rdquo;</strong></h2>
+</div>
+
+<p><strong>Third</strong><strong> Conditional</strong> нужен, когда говорящий представляет другое прошлое. Событие уже произошло или не произошло. Вернуться назад нельзя. Поэтому вся конструкция звучит как сожаление, анализ ошибки, упрёк, оправдание или размышление о другой версии прошлого.</p>
+
+<p>Русская логика часто говорит просто: &ldquo;Если бы я знал, я бы не пошёл&rdquo;. Английская логика требует точнее: условие в прошлом должно быть Past Perfect, а результат в прошлом &mdash; would have + V3.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center"><strong>Часть</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Форма</strong></p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center"><strong>Что означает</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">Условие</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">If + Past Perfect</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Нереальное прошлое: этого не было или было наоборот</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">Результат</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">would have + V3</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Воображаемый результат в прошлом</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">Модальность результата</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">could have / might have + V3</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Мог бы / возможно бы</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">Отрицание</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">would not have + V3</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Воображаемый результат, который не случился бы</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">Порядок</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">If-clause + comma + main clause или наоборот</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Запятая обычно ставится, когда if-часть стоит в начале</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><img alt="" src="/uploads/files/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%20If%20%2B%20had%20%2B%20V3%2C%20subject%20%2B%20would%20have%20%2B%20V3.png" style="width:768px"></p>
+
+<p><strong>Формула:</strong> If + had + V3, subject + would have + V3</p>
+
+<p>Пример: If I had known the truth, I would have acted differently</p>
+
+<p>Смысл: я не знал правду, поэтому тогда поступил не так. Сейчас я мысленно переписываю прошлое.</p>
+
+<p><strong>Примеры Third</strong><strong> Conditional</strong><strong>:</strong></p>
+
+<p><strong>RU</strong>: Если бы я знал об этом раньше, я бы изменил план<br>
+<strong>EN</strong>: <a href="/uploads/files/If%20I%20had%20known%20about%20it%20earlier%2C%20I%20would%20have%20changed%20the%20plan.mp3">If I had known about it earlier, I would have changed the plan</a><br>
+<em>Логика: я не знал, поэтому план не изменил</em></p>
+
+<p><strong>RU</strong>: Если бы она позвонила мне вчера, я бы помог ей<br>
+<strong>EN</strong>:<a href="/uploads/files/If%20she%20had%20called%20me%20yesterday%2C%20I%20would%20have%20helped%20her.mp3"> If she had called me yesterday, I would have helped her</a><br>
+<em>Логика: она не позвонила, поэтому помощи не было</em></p>
+
+<p><strong>RU</strong>: Если бы мы вышли раньше, мы бы не опоздали<br>
+<strong>EN</strong>: <a href="/uploads/files/If%20we%20had%20left%20earlier%2C%20we%20would%20not%20have%20been%20late.mp3">If we had left earlier, we would not have been late</a><br>
+<em>Логика: мы вышли поздно, поэтому опоздали</em></p>
+
+<p><strong>RU</strong>: Если бы они проверили договор, они бы заметили ошибку<br>
+<strong>EN</strong>: <a href="/uploads/files/If%20they%20had%20checked%20the%20contract%2C%20they%20would%20have%20noticed%20the%20mistake.mp3">If they had checked the contract, they would have noticed the mistake</a><br>
+<em>Логика: они не проверили договор</em></p>
+
+<p><strong>RU</strong>: Если бы он послушал совет, он бы не потерял деньги<br>
+<strong>EN</strong>: <a href="/uploads/files/If%20he%20had%20listened%20to%20the%20advice%2C%20he%20would%20not%20have%20lost%20money.mp3">If he had listened to the advice, he would not have lost money</a><br>
+<em>Логика: совет был, но он его не послушал</em></p>
+
+<p><strong>RU</strong>: Если бы ты сказал мне правду, я бы понял тебя<br>
+<strong>EN</strong>: <a href="/uploads/files/If%20you%20had%20told%20me%20the%20truth%2C%20I%20would%20have%20understood%20you.mp3">If you had told me the truth, I would have understood you</a><br>
+<em>Логика: правду не сказали, понимания не случилось</em></p>
+
+<p><strong>RU: </strong>Если бы погода была лучше, мы бы поехали за город<br>
+<strong>EN: </strong><a href="/uploads/files/If%20the%20weather%20had%20been%20better%2C%20we%20would%20have%20gone%20to%20the%20countryside.mp3">If the weather had been better, we would have gone to the countryside</a><br>
+<em>Логика: погода была плохая</em></p>
+
+<p><strong>RU: </strong>Если бы я сохранил файл, я бы не потерял работу<br>
+<strong>EN: </strong><a href="/uploads/files/If%20I%20had%20saved%20the%20file%2C%20I%20would%20not%20have%20lost%20the%20work.mp3">If I had saved the file, I would not have lost the work</a><br>
+<em>Логика: файл не был сохранён</em></p>
+
+<p><strong>RU: </strong>Если бы врач пришёл раньше, пациент мог бы выжить<br>
+<strong>EN: </strong><a href="/uploads/files/If%20the%20doctor%20had%20arrived%20earlier%2C%20the%20patient%20might%20have%20survived.mp3">If the doctor had arrived earlier, the patient might have survived</a><br>
+<em>Логика: might показывает не гарантию, а возможность</em></p>
+
+<p><strong>RU</strong>: Если бы команда тренировалась больше, она могла бы выиграть<br>
+<strong>EN</strong>: <a href="/uploads/files/If%20the%20team%20had%20trained%20more%2C%20it%20could%20have%20won.mp3">If the team had trained more, it could have won</a><br>
+<em>Логика: </em><em>could</em><em> показывает возможность/способность</em></p>
+
+<p><strong>Почему нельзя</strong> сказать If I knew about it earlier, I would change the plan?</p>
+
+<p>Потому что If I knew звучит как нереальное настоящее: &ldquo;если бы я сейчас знал&rdquo;. А earlier тянет нас в прошлое. Если говорящий имеет в виду &ldquo;я тогда не знал&rdquo;, английскому нужен Past Perfect: If I had known.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center"><strong>Предложение</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Как звучит</strong></p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center">If I knew the answer, I would tell you</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">нереальное настоящее</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">я сейчас не знаю ответ</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center">If I had known the answer, I would have told you</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">нереальное прошлое</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">я тогда не знал ответ</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center">If he studied more, he would pass the exam</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">сейчас/вообще он не учится достаточно</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">результат относится к возможному/воображаемому настоящему или будущему</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center">If he had studied more, he would have passed the exam</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">он не учился достаточно тогда</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">экзамен уже был, он не сдал</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Как звучит</strong> в живой речи и фильмах:</p>
+
+<ul>
+	<li>If I had known&hellip; &mdash; часто звучит как сожаление или оправдание</li>
+	<li>You would have done the same &mdash; часто звучит как защита себя: &ldquo;ты бы поступил так же&rdquo;</li>
+	<li>It would have been different &mdash; звучит как грустная мысль о другой версии прошлого</li>
+	<li>We could have avoided this &mdash; звучит как анализ ошибки: &ldquo;мы могли этого избежать&rdquo;</li>
+	<li>He might have survived &mdash; звучит осторожно, без стопроцентной уверенности</li>
+</ul>
+
+<p>B2-нюанс: would have + V3 не всегда значит &ldquo;жалею&rdquo;. Иногда это спокойный аналитический вывод: если бы фактор А был другим, результат Б тоже был бы другим. В бизнесе, расследованиях, медицине, спорте и отношениях эта конструкция звучит очень естественно.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>would have / could have / might have / should have в Third Conditional</strong></h2>
+</div>
+
+<p><strong>В главной части</strong> Third Conditional можно менять модальный оттенок. Это уже B2-уровень, потому что меняется не грамматика, а отношение говорящего к вероятности, способности, обязанности или критике.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Форма</strong></p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center"><strong>Русская логика</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Оттенок смысла</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">would have + V3</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">бы сделал</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">результат был бы почти ожидаемым</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I would have helped you</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">could have + V3</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">мог бы сделать</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">была возможность или способность</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I could have helped you</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">might have + V3</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">возможно, сделал бы</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">неуверенный возможный результат</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I might have helped you</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">should have + V3</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">надо было сделать</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">критика или сожаление о правильном действии</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I should have helped you</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Как меняется смысл через модальные глаголы:</strong></p>
+
+<p><strong>RU</strong>: Если бы ты попросил, я бы помог тебе<br>
+<a href="/uploads/files/If%20you%20had%20asked%2C%20I%20would%20have%20helped%20you.mp3"><strong>EN</strong>: If you had asked, I would have helped you</a><br>
+<em>Логика: говорящий уверен в результате</em></p>
+
+<p><strong>RU</strong>: Если бы ты попросил, я мог бы помочь тебе<br>
+<a href="/uploads/files/If%20you%20had%20asked%2C%20I%20could%20have%20helped%20you.mp3"><strong>EN</strong>: If you had asked, I could have helped you</a><br>
+<em>Логика: была возможность помочь</em></p>
+
+<p><strong>RU</strong>: Если бы ты попросил, я, возможно, помог бы тебе<br>
+<a href="/uploads/files/If%20you%20had%20asked%2C%20I%20might%20have%20helped%20you.mp3"><strong>EN</strong>: If you had asked, I might have helped you</a><br>
+<em>Логика: не стопроцентно</em></p>
+
+<p><strong>RU</strong>: Мне надо было помочь тебе<br>
+<a href="/uploads/files/I%20should%20have%20helped%20you.mp3"><strong>EN</strong>: I should have helped you</a><br>
+<em>Логика: это уже не условие, а сожаление/самокритика</em></p>
+
+<p><strong>RU</strong>: Если бы мы проверили данные, мы могли бы избежать ошибки<br>
+<a href="/uploads/files/If%20we%20had%20checked%20the%20data%2C%20we%20could%20have%20avoided%20the%20mistake.mp3"><strong>EN</strong>: If we had checked the data, we could have avoided the mistake</a><br>
+<em>Логика: ошибка была предотвратима</em></p>
+
+<p><strong>RU</strong>: Если бы он говорил медленнее, они, возможно, поняли бы его<br>
+<a href="/uploads/files/If%20he%20had%20spoken%20more%20slowly%2C%20they%20might%20have%20understood%20him.mp3"><strong>EN</strong>: If he had spoken more slowly, they might have understood him</a><br>
+<em>Логика: понимание было возможным, но не гарантированным</em></p>
+
+<p>Тонкая разница: &ldquo;could have&rdquo; часто звучит как &ldquo;шанс был&rdquo;, а &ldquo;would have&rdquo; звучит как &ldquo;результат был бы&rdquo;. Поэтому в реальной речи If I had known, I could have helped you мягче, чем If I had known, I would have helped you. Первое говорит о возможности, второе &mdash; почти об обещанном результате.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Mixed Conditional 1 &mdash; прошлое условие &rarr; настоящий результат</strong></h2>
+</div>
+
+<p><strong>Mixed</strong><strong> Conditional</strong> появляется, когда две части предложения живут в разных временах по смыслу. Самый частый тип: условие относится к прошлому, а результат &mdash; к настоящему.</p>
+
+<p>Это нужно, когда человек говорит: &ldquo;Если бы тогда произошло иначе, сейчас моя жизнь, состояние, работа, отношения или ситуация были бы другими&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center"><strong>Часть</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Форма</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Время по смыслу</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">Условие</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">If + Past Perfect</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">прошлое</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">If I had taken that job</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">Результат</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">would + V1 / would be</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">настоящее</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">I would live in London now</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">Отрицание</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">would not + V1</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">настоящее</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">I would not be so stressed now</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">Возможность</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">could / might + V1</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">настоящее</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">I could speak better now</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><img alt="" src="/uploads/files/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%20If%20%2B%20had%20%2B%20V3%2C%20subject%20%2B%20would%20%2B%20V1%20now.png" style="width:768px"></p>
+
+<p><strong>Формула:</strong> If + had + V3, subject + would + V1 now</p>
+
+<p>Пример:</p>
+
+<p><a href="/uploads/files/If%20I%20had%20learned%20English%20earlier%2C%20I%20would%20speak%20more%20confidently%20now.mp3">If I had learned English earlier, I would speak more confidently now</a></p>
+
+<p>Смысл: я не начал учить английский раньше, поэтому сейчас говорю менее уверенно.</p>
+
+<p><strong>Примеры Mixed</strong><strong> Conditional</strong><strong> 1:</strong></p>
+
+<p><strong>RU</strong>: Если бы я начал раньше, я бы сейчас говорил увереннее<br>
+<a href="/uploads/files/If%20I%20had%20started%20earlier%2C%20I%20would%20speak%20more%20confidently%20now.mp3"><strong>EN</strong>: If I had started earlier, I would speak more confidently now</a><br>
+<em>Логика: прошлая ошибка влияет на настоящее</em></p>
+
+<p><strong>RU</strong>: Если бы он не потратил все деньги, он бы сейчас не был в долгах<br>
+<a href="/uploads/files/If%20he%20had%20not%20spent%20all%20the%20money%2C%20he%20would%20not%20be%20in%20debt%20now.mp3"><strong>EN</strong>: If he had not spent all the money, he would not be in debt now</a><br>
+<em>Логика: результат виден сейчас</em></p>
+
+<p><strong>RU</strong>: Если бы мы купили дом тогда, мы бы сейчас жили у моря<br>
+<a href="/uploads/files/If%20we%20had%20bought%20the%20house%20then%2C%20we%20would%20live%20by%20the%20sea%20now.mp3"><strong>EN</strong>: If we had bought the house then, we would live by the sea now</a><br>
+<em>Логика: решение в прошлом изменило бы настоящее</em></p>
+
+<p><strong>RU</strong>: Если бы она выбрала другую профессию, она бы сейчас была счастливее<br>
+<a href="/uploads/files/If%20she%20had%20chosen%20another%20profession%2C%20she%20would%20be%20happier%20now.mp3"><strong>EN</strong>: If she had chosen another profession, she would be happier now</a><br>
+<em>Логика: профессия выбрана в прошлом, состояние сейчас</em></p>
+
+<p><strong>RU</strong>: Если бы ты тренировался каждый день, ты бы сейчас был сильнее<br>
+<a href="/uploads/files/If%20you%20had%20trained%20every%20day%2C%20you%20would%20be%20stronger%20now.mp3"><strong>EN</strong>: If you had trained every day, you would be stronger now</a><br>
+<em>Логика: накопленный результат</em></p>
+
+<p><strong>RU</strong>: Если бы они не закрыли проект, мы бы сейчас работали вместе<br>
+<a href="/uploads/files/If%20they%20had%20not%20closed%20the%20project%2C%20we%20would%20be%20working%20together%20now.mp3"><strong>EN</strong>: If they had not closed the project, we would be working together now</a><br>
+<em>Логика: можно использовать </em><em>would</em> <em>be</em> <em>working</em><em> для процесса сейчас</em></p>
+
+<p><strong>RU</strong>: Если бы я сохранил номер, я бы сейчас мог ему позвонить<br>
+<a href="/uploads/files/If%20I%20had%20saved%20the%20number%2C%20I%20could%20call%20him%20now.mp3"><strong>EN</strong>: If I had saved the number, I could call him now</a><br>
+<em>Логика: прошлое действие дало бы нынешнюю возможность</em></p>
+
+<p><strong>RU</strong>: Если бы она не переехала, мы бы сейчас часто виделись<br>
+<a href="/uploads/files/If%20she%20had%20not%20moved%20away%2C%20we%20would%20see%20each%20other%20often%20now.mp3"><strong>EN</strong>: If she had not moved away, we would see each other often now</a><br>
+<em>Логика: прошлый переезд меняет нынешнюю привычку</em></p>
+
+<p><strong>RU</strong>: Если бы он прислушался к врачу, он бы сейчас чувствовал себя лучше<br>
+<a href="/uploads/files/If%20he%20had%20listened%20to%20the%20doctor%2C%20he%20would%20feel%20better%20now.mp3"><strong>EN</strong>: If he had listened to the doctor, he would feel better now</a><br>
+<em>Логика: состояние сейчас</em></p>
+
+<p><strong>RU</strong>: Если бы компания инвестировала раньше, она бы сейчас была впереди конкурентов<br>
+<a href="/uploads/files/If%20the%20company%20had%20invested%20earlier%2C%20it%20would%20be%20ahead%20of%20its%20competitors%20now.mp3"><strong>EN</strong>: If the company had invested earlier, it would be ahead of its competitors now</a><br>
+<em>Логика: бизнес-результат сейчас</em></p>
+
+<p><strong>Почему это</strong> не обычный Third Conditional?</p>
+
+<p>В Third Conditional результат тоже находится в прошлом: If I had started earlier, I would have finished earlier. Это значит: &ldquo;я бы закончил раньше тогда&rdquo;. В Mixed Conditional результат сейчас: If I had started earlier, I would be free now. Это значит: &ldquo;я бы сейчас был свободен&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Предложение</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Тип</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If I had studied harder, I would have passed the exam</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">Third Conditional</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">экзамен уже был, результат тоже в прошлом</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If I had studied harder, I would have a better job now</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">Mixed Conditional 1</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">учёба в прошлом &rarr; работа сейчас</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If she had saved more money, she would have bought the car</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">Third Conditional</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">покупка машины могла случиться в прошлом</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If she had saved more money, she would not be worried now</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">Mixed Conditional 1</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">финансовое состояние сейчас было бы другим</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Mixed Conditional 2 &mdash; настоящее качество &rarr; прошлый результат</strong></h2>
+</div>
+
+<p><strong>Второй важный</strong> тип Mixed Conditional работает наоборот: условие относится к настоящему или постоянному качеству человека, а результат относится к прошлому.</p>
+
+<p>Это звучит так: &ldquo;Если бы он был более осторожным человеком, он бы тогда не сделал ошибку&rdquo;. Качество человека рассматривается как настоящее/постоянное, а ошибка произошла в прошлом.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center"><strong>Часть</strong></p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Форма</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Время по смыслу</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Условие</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">If + Past Simple</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">нереальное настоящее / постоянное качество</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">If he were more careful</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Результат</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">would have + V3</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">воображаемое прошлое</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">he would not have made that mistake</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Формальный вариант</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">If I were / If he were</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">сослагательное were</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">If I were more patient</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Разговорный вариант</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">If I was / If he was</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">часто в разговорной речи</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">If he was more careful</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><img alt="" src="/uploads/files/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%20If%20%2B%20Past%20Simple%2C%20subject%20%2B%20would%20have%20%2B%20V3.png" style="width:768px"></p>
+
+<p><strong>Формула:</strong> If + Past Simple, subject + would have + V3</p>
+
+<p>Пример:</p>
+
+<p><a href="/uploads/files/If%20he%20were%20more%20responsible%2C%20he%20would%20not%20have%20missed%20the%20deadline.mp3">If he were more responsible, he would not have missed the deadline</a></p>
+
+<p>Смысл: он не такой ответственный человек сейчас/вообще, поэтому тогда пропустил дедлайн.</p>
+
+<p><strong>Примеры Mixed</strong><strong> Conditional</strong><strong> 2:</strong></p>
+
+<p><strong>RU</strong>: Если бы он был внимательнее, он бы не сделал эту ошибку<br>
+<a href="/uploads/files/If%20he%20were%20more%20careful%2C%20he%20would%20not%20have%20made%20this%20mistake.mp3"><strong>EN</strong>: If he were more careful, he would not have made this mistake</a><br>
+<em>Логика: качество сейчас/вообще &rarr; результат тогда</em></p>
+
+<p><strong>RU</strong>: Если бы она была смелее, она бы приняла то предложение<br>
+<a href="/uploads/files/If%20she%20were%20braver%2C%20she%20would%20have%20accepted%20that%20offer.mp3"><strong>EN</strong>: If she were braver, she would have accepted that offer</a><br>
+<em>Логика: характер влияет на прошлое решение</em></p>
+
+<p><strong>RU</strong>: Если бы ты был терпеливее, ты бы не сказал это вчера<br>
+<a href="/uploads/files/If%20you%20were%20more%20patient%2C%20you%20would%20not%20have%20said%20that%20yesterday.mp3"><strong>EN</strong>: If you were more patient, you would not have said that yesterday</a><br>
+<em>Логика: черта характера &rarr; прошлые слова</em></p>
+
+<p><strong>RU</strong>: Если бы я был богаче, я бы купил эту квартиру тогда<br>
+<a href="/uploads/files/If%20I%20were%20richer%2C%20I%20would%20have%20bought%20that%20apartment%20then.mp3"><strong>EN</strong>: If I were richer, I would have bought that apartment then</a><br>
+<em>Логика: нынешнее состояние/статус &rarr; прошлый результат</em></p>
+
+<p><strong>RU</strong>: Если бы он лучше понимал людей, он бы не доверился им<br>
+<a href="/uploads/files/If%20he%20understood%20people%20better%2C%20he%20would%20not%20have%20trusted%20them.mp3"><strong>EN</strong>: If he understood people better, he would not have trusted them</a><br>
+<em>Логика: общее умение &rarr; прошлое решение</em></p>
+
+<p><strong>RU</strong>: Если бы команда была более дисциплинированной, она бы выиграла тот матч<br>
+<a href="/uploads/files/If%20the%20team%20were%20more%20disciplined%2C%20it%20would%20have%20won%20that%20match.mp3"><strong>EN</strong>: If the team were more disciplined, it would have won that match</a><br>
+<em>Логика: качество команды &rarr; прошлый результат</em></p>
+
+<p><strong>RU</strong>: Если бы она не была такой упрямой, она бы извинилась сразу<br>
+<a href="/uploads/files/If%20she%20were%20not%20so%20stubborn%2C%20she%20would%20have%20apologized%20immediately.mp3"><strong>EN</strong>: If she were not so stubborn, she would have apologized immediately</a><br>
+<em>Логика: характер &rarr; прошлое поведение</em></p>
+
+<p><strong>RU</strong>: Если бы ты знал английский лучше, ты бы понял тот фильм без субтитров<br>
+<a href="/uploads/files/If%20you%20knew%20English%20better%2C%20you%20would%20have%20understood%20that%20film%20without%20subtitles.mp3"><strong>EN</strong>: If you knew English better, you would have understood that film without subtitles</a><br>
+<em>Логика: уровень знания сейчас/вообще &rarr; прошлый опыт</em></p>
+
+<p><strong>RU</strong>: Если бы он был честнее, он бы рассказал всё раньше<br>
+<a href="/uploads/files/If%20he%20were%20more%20honest%2C%20he%20would%20have%20told%20everything%20earlier.mp3"><strong>EN</strong>: If he were more honest, he would have told everything earlier</a><br>
+<em>Логика: качество личности &rarr; прошлое действие</em></p>
+
+<p><strong>RU</strong>: Если бы я был менее импульсивным, я бы не купил это<br>
+<a href="/uploads/files/If%20I%20were%20less%20impulsive%2C%20I%20would%20not%20have%20bought%20it.mp3"><strong>EN</strong>: If I were less impulsive, I would not have bought it</a><br>
+<em>Логика: личное качество &rarr; прошлый поступок</em></p>
+
+<p>B2-нюанс: этот тип часто звучит как оценка характера. Поэтому он может быть жёстким. If you were more responsible, you would have done it on time звучит не просто как грамматика, а как критика человека.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:132px">
+			<p style="text-align:center"><strong>Звучит мягко или жёстко</strong></p>
+			</td>
+			<td style="width:208px">
+			<p style="text-align:center"><strong>Почему</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If you had planned better, you would have finished it on time</p>
+			</td>
+			<td style="width:132px">
+			<p style="text-align:center">мягче</p>
+			</td>
+			<td style="width:208px">
+			<p style="text-align:center">критика конкретного действия в прошлом</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If you were more responsible, you would have finished it on time</p>
+			</td>
+			<td style="width:132px">
+			<p style="text-align:center">жёстче</p>
+			</td>
+			<td style="width:208px">
+			<p style="text-align:center">критика личности/качества</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If he had checked the figures, he would not have made the mistake</p>
+			</td>
+			<td style="width:132px">
+			<p style="text-align:center">нейтральнее</p>
+			</td>
+			<td style="width:208px">
+			<p style="text-align:center">он не проверил цифры</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If he were more careful, he would not have made the mistake</p>
+			</td>
+			<td style="width:132px">
+			<p style="text-align:center">личнее</p>
+			</td>
+			<td style="width:208px">
+			<p style="text-align:center">он сам по себе недостаточно внимательный</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>I wish / if only &mdash; сожаление, мечта, раздражение</strong></h2>
+</div>
+
+<p><strong>I</strong><strong> wish</strong> и if only нужны, когда говорящий не просто строит условие, а эмоционально хочет, чтобы реальность была другой. Это может быть желание изменить настоящее, сожаление о прошлом или раздражение из-за чужого поведения.</p>
+
+<p>If only сильнее, эмоциональнее и драматичнее, чем I wish. В русском это часто ближе к &ldquo;эх, если бы только&hellip;&rdquo;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center"><strong>Конструкция</strong></p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center"><strong>Время после wish</strong></p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center"><strong>Что означает</strong></p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center">I wish + Past Simple</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">Past Simple</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">жаль, что сейчас не так</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">I wish I knew the answer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center">I wish + Past Perfect</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">had + V3</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">жаль, что тогда было не так</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">I wish I had known the answer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center">I wish + would + V1</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">would + V1</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">раздражение/желание, чтобы кто-то изменил поведение</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">I wish he would listen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center">If only + Past Simple</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">Past Simple</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">сильное желание изменить настоящее</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">If only I had more time</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center">If only + Past Perfect</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">had + V3</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">сильное сожаление о прошлом</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">If only I had listened to you</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Главная ловушка</strong>: после I wish английский часто использует &ldquo;прошедшую форму&rdquo;, но смысл не всегда прошлый. Past Simple после wish обычно говорит о настоящем нереальном желании.</p>
+
+<p><strong>Примеры I</strong><strong> wish</strong><strong> с настоящим и прошлым:</strong></p>
+
+<p><strong>RU</strong>: Жаль, что я не знаю ответ<br>
+<a href="/uploads/files/I%20wish%20I%20knew%20the%20answer.mp3"><strong>EN</strong>: I wish I knew the answer</a><br>
+<em>Логика: сейчас не знаю</em></p>
+
+<p><strong>RU</strong>: Жаль, что у меня нет больше времени<br>
+<a href="/uploads/files/I%20wish%20I%20had%20more%20time.mp3"><strong>EN</strong>: I wish I had more time</a><br>
+<em>Логика: сейчас времени мало</em></p>
+
+<p><strong>RU</strong>: Жаль, что он не здесь<br>
+<a href="/uploads/files/I%20wish%20he%20were%20here.mp3"><strong>EN</strong>: I wish he were here</a><br>
+<em>Логика: его сейчас здесь нет</em></p>
+
+<p><strong>RU</strong>: Жаль, что она не понимает меня<br>
+<a href="/uploads/files/I%20wish%20she%20understood%20me.mp3"><strong>EN</strong>: I wish she understood me</a><br>
+<em>Логика: сейчас не понимает</em></p>
+
+<p><strong>RU</strong>: Жаль, что мы не живём ближе<br>
+<a href="/uploads/files/I%20wish%20we%20lived%20closer.mp3"><strong>EN</strong>: I wish we lived closer</a><br>
+<em>Логика: сейчас живём далеко</em></p>
+
+<p><strong>RU</strong>: Жаль, что я тогда не знал правду<br>
+<a href="/uploads/files/I%20wish%20I%20had%20known%20the%20truth%20then.mp3"><strong>EN</strong>: I wish I had known the truth then</a><br>
+<em>Логика: сожаление о прошлом</em></p>
+
+<p><strong>RU</strong>: Жаль, что мы не купили этот дом<br>
+<a href="/uploads/files/I%20wish%20we%20had%20bought%20that%20house.mp3"><strong>EN</strong>: I wish we had bought that house</a><br>
+<em>Логика: прошлая возможность упущена</em></p>
+
+<p><strong>RU</strong>: Жаль, что он сказал это<br>
+<a href="/uploads/files/I%20wish%20he%20had%20not%20said%20that.mp3"><strong>EN</strong>: I wish he had not said that</a><br>
+<em>Логика: он уже сказал</em></p>
+
+<p><strong>RU</strong>: Жаль, что ты не пришёл вчера<br>
+<a href="/uploads/files/I%20wish%20you%20had%20come%20yesterday.mp3"><strong>EN</strong>: I wish you had come yesterday</a><br>
+<em>Логика: ты не пришёл</em></p>
+
+<p><strong>RU</strong>: Жаль, что они не предупредили нас раньше<br>
+<a href="/uploads/files/I%20wish%20they%20had%20warned%20us%20earlier.mp3"><strong>EN</strong>: I wish they had warned us earlier</a><br>
+<em>Логика: предупреждения не было</em></p>
+
+<p><strong>I</strong><strong> wish</strong><strong> + would</strong> &mdash; отдельная логика</p>
+
+<p>Эта конструкция обычно не про обычное желание &ldquo;я хочу&rdquo;. Она часто выражает раздражение, нетерпение или желание, чтобы ситуация/человек наконец изменились. Особенно часто используется с другими людьми, погодой, шумом, техникой, привычками.</p>
+
+<p><strong>Примеры I</strong><strong> wish</strong><strong> + would</strong><strong>:</strong></p>
+
+<p><strong>RU</strong>: Жаль, что он меня не слушает / Хотелось бы, чтобы он наконец слушал меня<br>
+<a href="/uploads/files/I%20wish%20he%20would%20listen%20to%20me.mp3"><strong>EN</strong>: I wish he would listen to me</a><br>
+<em>Логика: раздражение из-за его поведения</em></p>
+
+<p><strong>RU</strong>: Жаль, что соседи не перестают шуметь<br>
+<a href="/uploads/files/I%20wish%20the%20neighbors%20would%20stop%20making%20noise.mp3"><strong>EN</strong>: I wish the neighbors would stop making noise</a><br>
+<em>Логика: говорящий раздражён</em></p>
+
+<p><strong>RU</strong>: Хотелось бы, чтобы дождь прекратился<br>
+<a href="/uploads/files/I%20wish%20it%20would%20stop%20raining.mp3"><strong>EN</strong>: I wish it would stop raining</a><br>
+<em>Логика: желание изменения ситуации</em></p>
+
+<p><strong>RU</strong>: Хотелось бы, чтобы ты перестал перебивать меня<br>
+<a href="/uploads/files/I%20wish%20you%20would%20stop%20interrupting%20me.mp3"><strong>EN</strong>: I wish you would stop interrupting me</a><br>
+<em>Логика: критика поведения</em></p>
+
+<p><strong>RU</strong>: Хотелось бы, чтобы компьютер уже заработал<br>
+<a href="/uploads/files/I%20wish%20the%20computer%20would%20start%20working.mp3"><strong>EN</strong>: I wish the computer would start working</a><br>
+<em>Логика: раздражение из-за техники</em></p>
+
+<p><strong>RU</strong>: Хотелось бы, чтобы она ответила наконец<br>
+<a href="/uploads/files/I%20wish%20she%20would%20finally%20reply.mp3"><strong>EN</strong>: I wish she would finally reply</a><br>
+<em>Логика: ожидание и раздражение</em></p>
+
+<p><strong>Почему нельзя</strong> сказать I wish I would know?</p>
+
+<p>Потому что I wish + would обычно не используется, когда говорящий контролирует собственное состояние или способность. Для &ldquo;жаль, что я не знаю&rdquo; нужно I wish I knew. Для прошлого &ldquo;жаль, что я не знал&rdquo; нужно I wish I had known.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Русская мысль</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Правильно</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Неправильно / хуже</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Почему</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Жаль, что я знаю мало</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish I knew more</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish I would know more</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">знание &mdash; состояние, не волевое поведение</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Жаль, что я тогда не знал</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish I had known then</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish I knew then</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">then + прошлое сожаление требует Past Perfect</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Жаль, что он не слушает</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish he would listen</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish he listened</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">оба возможны, но would подчёркивает раздражение и желание изменить поведение</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Жаль, что он не был там</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish he had been there</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish he were there</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">прошлое событие требует Past Perfect</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>I wish vs Conditionals &mdash; когда что выбирать</strong></h2>
+</div>
+
+<p><strong>Conditionals</strong> чаще объясняют причинно-следственную связь: &ldquo;если бы А, то Б&rdquo;. I wish чаще выражает эмоциональное отношение: &ldquo;жаль, что реальность не такая&rdquo;. В речи они могут описывать одну и ту же ситуацию, но с разным фокусом.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Ситуация</strong></p>
+			</td>
+			<td style="width:159px">
+			<p style="text-align:center"><strong>Conditional</strong></p>
+			</td>
+			<td style="width:159px">
+			<p style="text-align:center"><strong>Wish</strong></p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center"><strong>Разница</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Я не начал раньше, поэтому сейчас не говорю свободно</p>
+			</td>
+			<td style="width:159px">
+			<p style="text-align:center">If I had started earlier, I would speak fluently now</p>
+			</td>
+			<td style="width:159px">
+			<p style="text-align:center">I wish I had started earlier</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">conditional показывает результат, wish показывает сожаление</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Он не сказал правду, поэтому всё стало хуже</p>
+			</td>
+			<td style="width:159px">
+			<p style="text-align:center">If he had told the truth, things would have been better</p>
+			</td>
+			<td style="width:159px">
+			<p style="text-align:center">I wish he had told the truth</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">conditional анализирует последствия, wish выражает эмоцию</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Я сейчас не знаю ответ</p>
+			</td>
+			<td style="width:159px">
+			<p style="text-align:center">If I knew the answer, I would tell you</p>
+			</td>
+			<td style="width:159px">
+			<p style="text-align:center">I wish I knew the answer</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">conditional связывает знание с действием, wish просто жалеет о незнании</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Она постоянно опаздывает</p>
+			</td>
+			<td style="width:159px">
+			<p style="text-align:center">If she were more punctual, we would not waste time</p>
+			</td>
+			<td style="width:159px">
+			<p style="text-align:center">I wish she would stop being late</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">conditional оценивает качество, wish звучит как раздражение</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Как думать</strong> носителю:</p>
+
+<ul>
+	<li>Если главное &mdash; результат и причинно-следственная связь, выбирай conditional</li>
+	<li>Если главное &mdash; сожаление или эмоция, выбирай I wish / if only</li>
+	<li>Если хочешь звучать драматичнее, используй if only</li>
+	<li>Если хочешь критиковать чужое повторяющееся поведение, часто подойдёт I wish + would</li>
+	<li>Если хочешь показать влияние прошлого на настоящее, используй mixed conditional</li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>in case &mdash; &ldquo;на случай если&rdquo;, а не просто &ldquo;если&rdquo;</strong></h2>
+</div>
+
+<p><strong>In</strong><strong> case</strong> &mdash; одна из самых важных B2-связок, потому что русские часто переводят её как обычное &ldquo;если&rdquo;. Но это не простое if. In case означает: я делаю действие заранее, чтобы быть готовым к возможной ситуации.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:76px">
+			<p style="text-align:center"><strong>Союз</strong></p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center"><strong>Русская логика</strong></p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center"><strong>Что реально означает</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:76px">
+			<p style="text-align:center">if</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">если</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">действие зависит от условия</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">Call me if you need help</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:76px">
+			<p style="text-align:center">in case</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">на случай если</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">действие делается заранее как защита/подготовка</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">Take my number in case you need help</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Сравни:</strong></p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Предложение</strong></p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">Call me if you need help</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">позвони мне только если помощь реально понадобится</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">Take my number in case you need help</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">возьми номер сейчас заранее, потому что помощь может понадобиться</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">I will buy some food if they come</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">я куплю еду, только если они придут</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">I will buy some food in case they come</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">я куплю еду заранее, потому что они могут прийти</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Примеры in</strong><strong> case</strong><strong>:</strong></p>
+
+<p><strong>RU</strong>: Возьми зонт на случай если пойдёт дождь<br>
+<a href="/uploads/files/Take%20an%20umbrella%20in%20case%20it%20rains.mp3"><strong>EN</strong>: Take an umbrella in case it rains</a><br>
+<em>Логика: зонт берём заранее</em></p>
+
+<p><strong>RU</strong>: Я сохраню копию на случай если файл исчезнет<br>
+<a href="/uploads/files/I%20will%20save%20a%20copy%20in%20case%20the%20file%20disappears.mp3"><strong>EN</strong>: I will save a copy in case the file disappears</a><br>
+<em>Логика: предосторожность</em></p>
+
+<p><strong>RU</strong>: Она взяла паспорт на случай если его попросят<br>
+<a href="/uploads/files/She%20took%20her%20passport%20in%20case%20they%20asked%20for%20it.mp3"><strong>EN</strong>: She took her passport in case they asked for it</a><br>
+<em>Логика: паспорт взят заранее</em></p>
+
+<p><strong>RU</strong>: Мы приехали раньше на случай если будет пробка<br>
+<a href="/uploads/files/We%20arrived%20earlier%20in%20case%20there%20was%20traffic.mp3"><strong>EN</strong>: We arrived earlier in case there was traffic</a><br>
+<em>Логика: подготовка к возможной проблеме</em></p>
+
+<p><strong>RU</strong>: Оставь дверь открытой на случай если он вернётся<br>
+<a href="/uploads/files/Leave%20the%20door%20open%20in%20case%20he%20comes%20back.mp3"><strong>EN</strong>: Leave the door open in case he comes back</a><br>
+<em>Логика: условие возможно</em></p>
+
+<p><strong>RU</strong>: Я записал адрес на случай если интернет перестанет работать<br>
+<a href="/uploads/files/I%20wrote%20down%20the%20address%20in%20case%20the%20internet%20stopped%20working.mp3"><strong>EN</strong>: I wrote down the address in case the internet stopped working</a><br>
+<em>Логика: защита от проблемы</em></p>
+
+<p><strong>RU</strong>: Держи телефон рядом на случай если мне понадобится помощь<br>
+<a href="/uploads/files/Keep%20your%20phone%20nearby%20in%20case%20I%20need%20help.mp3"><strong>EN</strong>: Keep your phone nearby in case I need help</a><br>
+<em>Логика: готовность заранее</em></p>
+
+<p><strong>RU</strong>: Они взяли наличные на случай если карта не сработает<br>
+<a href="/uploads/files/They%20took%20cash%20in%20case%20the%20card%20did%20not%20work.mp3"><strong>EN</strong>: They took cash in case the card did not work</a><br>
+<em>Логика: действие до возможной проблемы</em></p>
+
+<p><strong>RU</strong>: Я отправлю тебе скриншот на случай если ссылка сломается<br>
+<a href="/uploads/files/I%20will%20send%20you%20a%20screenshot%20in%20case%20the%20link%20breaks.mp3"><strong>EN</strong>: I will send you a screenshot in case the link breaks</a><br>
+<em>Логика: резервный вариант</em></p>
+
+<p><strong>RU</strong>: Мы оставили запасной ключ на случай если кто-то потеряет основной<br>
+<a href="/uploads/files/We%20left%20a%20spare%20key%20in%20case%20someone%20loses%20the%20main%20one.mp3"><strong>EN</strong>: We left a spare key in case someone loses the main one</a><br>
+<em>Логика: предосторожность</em></p>
+
+<p><strong>Почему нельзя</strong> заменить in case на if?</p>
+
+<p>Потому что if часто означает &ldquo;сделаю действие после того, как условие случится&rdquo;. In case означает &ldquo;сделаю действие заранее, потому что условие может случиться&rdquo;. Это разница между реакцией и подготовкой.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>provided that / providing that &mdash; строго при условии, что</strong></h2>
+</div>
+
+<p><strong>Provided</strong><strong> that</strong> и providing that означают &ldquo;при условии, что&rdquo;. Это более формальная и строгая версия if. Часто звучит как договор, правило, ограничение, юридическое условие, бизнес-условие или серьёзная договорённость.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center"><strong>Форма</strong></p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center"><strong>Стиль</strong></p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+			<td style="width:208px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">if</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">нейтральный</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">если</p>
+			</td>
+			<td style="width:208px">
+			<p style="text-align:center">You can join us if you agree</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">provided that</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">строже / формальнее</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">только при условии, что</p>
+			</td>
+			<td style="width:208px">
+			<p style="text-align:center">You can join us provided that you agree to the rules</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">providing that</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">чуть менее формально, но похоже</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">при условии, что</p>
+			</td>
+			<td style="width:208px">
+			<p style="text-align:center">You can join us providing that you agree to the rules</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Примеры provided that:</strong></p>
+
+<p><strong>RU: </strong>Ты можешь остаться при условии, что будешь соблюдать правила<br>
+<a href="/uploads/files/You%20can%20stay%20provided%20that%20you%20follow%20the%20rules.mp3"><strong>EN: </strong>You can stay provided that you follow the rules</a><br>
+<em>Логика: строгое условие</em></p>
+
+<p><strong>RU: </strong>Мы подпишем договор при условии, что цена не изменится<br>
+<a href="/uploads/files/We%20will%20sign%20the%20contract%20provided%20that%20the%20price%20does%20not%20change.mp3"><strong>EN: </strong>We will sign the contract provided that the price does not change</a><br>
+<em>Логика: деловая логика</em></p>
+
+<p><strong>RU</strong>: Она согласится при условии, что ей дадут больше времени<br>
+<a href="/uploads/files/She%20will%20agree%20provided%20that%20they%20give%20her%20more%20time.mp3"><strong>EN</strong>: She will agree provided that they give her more time</a><br>
+<em>Логика: согласие зависит от условия</em></p>
+
+<p><strong>RU</strong>: Проект можно запустить при условии, что тесты пройдут успешно<br>
+<a href="/uploads/files/The%20project%20can%20be%20launched%20provided%20that%20the%20tests%20are%20successful.mp3"><strong>EN</strong>: The project can be launched provided that the tests are successful</a><br>
+<em>Логика: формальное условие</em></p>
+
+<p><strong>RU</strong>: Ты получишь доступ при условии, что оплатишь подписку<br>
+<a href="/uploads/files/You%20will%20get%20access%20provided%20that%20you%20pay%20for%20the%20subscription.mp3"><strong>EN</strong>: You will get access provided that you pay for the subscription</a><br>
+<em>Логика: условие доступа</em></p>
+
+<p><strong>RU</strong>: Мы поедем завтра при условии, что дорога будет открыта<br>
+<a href="/uploads/files/We%20will%20go%20tomorrow%20provided%20that%20the%20road%20is%20open.mp3"><strong>EN</strong>: We will go tomorrow provided that the road is open</a><br>
+<em>Логика: план зависит от условия</em></p>
+
+<p><strong>RU</strong>: Они примут предложение при условии, что сроки будут реальными<br>
+<a href="/uploads/files/They%20will%20accept%20the%20offer%20provided%20that%20the%20deadlines%20are%20realistic.mp3"><strong>EN</strong>: They will accept the offer provided that the deadlines are realistic</a><br>
+<em>Логика: условие переговоров</em></p>
+
+<p><strong>RU</strong>: Я помогу тебе при условии, что ты скажешь правду<br>
+<a href="/uploads/files/I%20will%20help%20you%20provided%20that%20you%20tell%20the%20truth.mp3"><strong>EN</strong>: I will help you provided that you tell the truth</a><br>
+<em>Логика: строгая граница</em></p>
+
+<p><strong>RU</strong>: Он может работать удалённо при условии, что будет доступен онлайн<br>
+<a href="/uploads/files/He%20can%20work%20remotely%20provided%20that%20he%20is%20available%20online.mp3"><strong>EN</strong>: He can work remotely provided that he is available online</a><br>
+<em>Логика: рабочее правило</em></p>
+
+<p><strong>RU</strong>: Мы продолжим сотрудничество при условии, что качество останется высоким<br>
+<a href="/uploads/files/We%20will%20continue%20the%20partnership%20provided%20that%20the%20quality%20remains%20high.mp3"><strong>EN</strong>: We will continue the partnership provided that the quality remains high</a><br>
+<em>Логика: бизнес-условие</em></p>
+
+<p>B2-нюанс: provided that звучит намного жёстче, чем if. Если сказать I will help you if you tell the truth &mdash; это обычное условие. Если сказать I will help you provided that you tell the truth &mdash; это уже звучит как граница, договор или предупреждение.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>as long as &mdash; &ldquo;пока / при условии, что&rdquo;, но мягче и разговорнее</strong></h2>
+</div>
+
+<p><strong>As</strong><strong> long</strong><strong> as</strong> тоже может означать &ldquo;при условии, что&rdquo;, но оно часто звучит более живо, разговорно и естественно, чем provided that. Оно показывает границу: &ldquo;мне нормально, пока это условие выполняется&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center"><strong>Союз</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Оттенок</strong></p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Когда использовать</strong></p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">if</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">нейтрально</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">обычное условие</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">You can use my car if you drive carefully</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">as long as</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">разговорная граница</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">мне окей, пока условие выполняется</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">You can use my car as long as you drive carefully</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">provided that</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">строгий договор</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">официальное/деловое условие</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">You can use the company car provided that you follow the policy</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Примеры as long as:</strong></p>
+
+<p><strong>RU: </strong>Ты можешь взять мою машину, пока будешь вести аккуратно<br>
+<a href="/uploads/files/You%20can%20take%20my%20car%20as%20long%20as%20you%20drive%20carefully.mp3"><strong>EN: </strong>You can take my car as long as you drive carefully</a><br>
+<em>Логика: условие-разрешение</em></p>
+
+<p><strong>RU: </strong>Я не против, пока ты честен со мной<br>
+<a href="/uploads/files/I%20do%20not%20mind%20as%20long%20as%20you%20are%20honest%20with%20me.mp3"><strong>EN: </strong>I do not mind as long as you are honest with me</a><br>
+<em>Логика: граница в отношениях</em></p>
+
+<p><strong>RU: </strong>Мы можем начать сейчас, если все готовы<br>
+<a href="/uploads/files/We%20can%20start%20now%20as%20long%20as%20everyone%20is%20ready.mp3"><strong>EN: </strong>We can start now as long as everyone is ready</a><br>
+<em>Логика: практичное условие</em></p>
+
+<p><strong>RU: </strong>Ты можешь работать дома, пока делаешь работу вовремя<br>
+<a href="/uploads/files/You%20can%20work%20from%20home%20as%20long%20as%20you%20do%20the%20work%20on%20time.mp3"><strong>EN: </strong>You can work from home as long as you do the work on time</a><br>
+<em>Логика: разрешение с условием</em></p>
+
+<p><strong>RU: </strong>Я пойду с вами, если мы не останемся слишком поздно<br>
+<a href="/uploads/files/I%20will%20go%20with%20you%20as%20long%20as%20we%20do%20not%20stay%20too%20late.mp3"><strong>EN: </strong>I will go with you as long as we do not stay too late</a><br>
+<em>Логика: личная граница</em></p>
+
+<p><strong>RU: </strong>Он будет помогать, пока его уважают<br>
+<a href="/uploads/files/He%20will%20help%20as%20long%20as%20people%20respect%20him.mp3"><strong>EN: </strong>He will help as long as people respect him</a><br>
+<em>Логика: условие поведения</em></p>
+
+<p><strong>RU: </strong>Можно использовать этот материал, пока ты указываешь источник<br>
+<a href="/uploads/files/You%20can%20use%20this%20material%20as%20long%20as%20you%20mention%20the%20source.mp3"><strong>EN: </strong>You can use this material as long as you mention the source</a><br>
+<em>Логика: условие использования</em></p>
+
+<p><strong>RU: </strong>Мы останемся друзьями, пока говорим честно<br>
+<a href="/uploads/files/We%20will%20stay%20friends%20as%20long%20as%20we%20speak%20honestly.mp3"><strong>EN: </strong>We will stay friends as long as we speak honestly</a><br>
+<em>Логика: условие отношений</em></p>
+
+<p><strong>RU: </strong>Она согласна ждать, пока есть реальный прогресс<br>
+<a href="/uploads/files/She%20is%20willing%20to%20wait%20as%20long%20as%20there%20is%20real%20progress.mp3"><strong>EN: </strong>She is willing to wait as long as there is real progress</a><br>
+<em>Логика: терпение имеет границу</em></p>
+
+<p><strong>RU: </strong>Этот план сработает, если все будут следовать инструкции<br>
+<a href="/uploads/files/This%20plan%20will%20work%20as%20long%20as%20everyone%20follows%20the%20instructions.mp3"><strong>EN: </strong>This plan will work as long as everyone follows the instructions</a><br>
+<em>Логика: план зависит от дисциплины</em></p>
+
+<p><strong>Разница</strong> между as long as и while:</p>
+
+<p>As long as может означать &ldquo;пока выполняется условие&rdquo;. While чаще просто показывает одновременность: &ldquo;в то время как&rdquo;. Поэтому I will wait as long as you need me &mdash; &ldquo;я буду ждать, пока я тебе нужен&rdquo;. I was waiting while you were talking &mdash; &ldquo;я ждал, пока ты говорил&rdquo;.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>even if &mdash; &ldquo;даже если&rdquo;, условие не меняет результат</strong></h2>
+</div>
+
+<p><strong>Even</strong><strong> if</strong> показывает, что возможное условие не изменит решение, результат, отношение или факт. Это очень сильная связка для принципиальной позиции: &ldquo;даже если это случится, мой вывод останется тем же&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center"><strong>Союз</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Что делает</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">if</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">результат зависит от условия</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">I will go if it rains</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">дождь влияет на решение</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">even if</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">результат НЕ зависит от условия</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">I will go even if it rains</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">дождь не остановит меня</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:113px">
+			<p style="text-align:center">unless</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">если не / кроме случая</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">I will go unless it rains</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">я пойду, если дождя не будет</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Примеры even</strong><strong> if</strong><strong>:</strong></p>
+
+<p><strong>RU</strong>: Я пойду туда, даже если будет дождь<br>
+<a href="/uploads/files/I%20will%20go%20there%20even%20if%20it%20rains.mp3"><strong>EN</strong>: I will go there even if it rains</a><br>
+<em>Логика: дождь не изменит решение</em></p>
+
+<p><strong>RU</strong>: Она не простит его, даже если он извинится<br>
+<a href="/uploads/files/She%20will%20not%20forgive%20him%20even%20if%20he%20apologizes.mp3"><strong>EN</strong>: She will not forgive him even if he apologizes</a><br>
+<em>Логика: извинение не изменит результат</em></p>
+
+<p><strong>RU</strong>: Мы продолжим, даже если будет трудно<br>
+<a href="/uploads/files/We%20will%20continue%20even%20if%20it%20is%20difficult.mp3"><strong>EN</strong>: We will continue even if it is difficult</a><br>
+<em>Логика: трудность не остановит</em></p>
+
+<p><strong>RU</strong>: Он не поверит тебе, даже если ты покажешь доказательства<br>
+<a href="/uploads/files/He%20will%20not%20believe%20you%20even%20if%20you%20show%20him%20proof.mp3"><strong>EN</strong>: He will not believe you even if you show him proof</a><br>
+<em>Логика: доказательства не изменят его мнение</em></p>
+
+<p><strong>RU</strong>: Я не куплю это, даже если цена упадёт<br>
+<a href="/uploads/files/I%20will%20not%20buy%20it%20even%20if%20the%20price%20drops.mp3"><strong>EN</strong>: I will not buy it even if the price drops</a><br>
+<em>Логика: скидка не меняет решение</em></p>
+
+<p><strong>RU</strong>: Они останутся вместе, даже если все будут против<br>
+<a href="/uploads/files/They%20will%20stay%20together%20even%20if%20everyone%20is%20against%20them.mp3"><strong>EN</strong>: They will stay together even if everyone is against them</a><br>
+<em>Логика: давление не изменит выбор</em></p>
+
+<p><strong>RU</strong>: Ты должен сказать правду, даже если это будет неприятно<br>
+<a href="/uploads/files/You%20should%20tell%20the%20truth%20even%20if%20it%20is%20unpleasant.mp3"><strong>EN</strong>: You should tell the truth even if it is unpleasant</a><br>
+<em>Логика: неприятность не отменяет правильное действие</em></p>
+
+<p><strong>RU</strong>: Мы не сдадимся, даже если потеряем первый раунд<br>
+<a href="/uploads/files/We%20will%20not%20give%20up%20even%20if%20we%20lose%20the%20first%20round.mp3"><strong>EN</strong>: We will not give up even if we lose the first round</a><br>
+<em>Логика: первое поражение не меняет стратегию</em></p>
+
+<p><strong>RU</strong>: Я помогу ему, даже если он не попросит<br>
+<a href="/uploads/files/I%20will%20help%20him%20even%20if%20he%20does%20not%20ask.mp3"><strong>EN</strong>: I will help him even if he does not ask</a><br>
+<em>Логика: просьба не обязательна</em></p>
+
+<p><strong>RU</strong>: Она будет тренироваться, даже если у неё мало времени<br>
+<a href="/uploads/files/She%20will%20train%20even%20if%20she%20has%20little%20time.mp3"><strong>EN</strong>: She will train even if she has little time</a><br>
+<em>Логика: мало времени не остановит</em></p>
+
+<p>B2-нюанс: even if часто звучит сильнее emotionally, чем if. Сравни: I will support you if you fail &mdash; &ldquo;я поддержу тебя, если ты провалишься&rdquo;. I will support you even if you fail &mdash; &ldquo;я поддержу тебя даже в плохом сценарии&rdquo;. Второе звучит как верность, принцип или сильное обещание.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Большое сравнение условных связок B2</strong></h2>
+</div>
+
+<p><strong>На уровне B</strong><strong>2</strong> важно не просто знать перевод, а видеть внутреннюю функцию каждой связки. Ниже &mdash; таблица, которая помогает выбирать союз не по русскому слову, а по смыслу ситуации.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:94px">
+			<p style="text-align:center"><strong>Связка</strong></p>
+			</td>
+			<td style="width:106px">
+			<p style="text-align:center"><strong>Базовый перевод</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Внутренняя функция</strong></p>
+			</td>
+			<td style="width:144px">
+			<p style="text-align:center"><strong>Типичная ситуация</strong></p>
+			</td>
+			<td style="width:147px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:94px">
+			<p style="text-align:center">if</p>
+			</td>
+			<td style="width:106px">
+			<p style="text-align:center">если</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">обычное условие</p>
+			</td>
+			<td style="width:144px">
+			<p style="text-align:center">план, решение, результат зависит от условия</p>
+			</td>
+			<td style="width:147px">
+			<p style="text-align:center">Call me if you need help</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:94px">
+			<p style="text-align:center">in case</p>
+			</td>
+			<td style="width:106px">
+			<p style="text-align:center">на случай если</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">предосторожность заранее</p>
+			</td>
+			<td style="width:144px">
+			<p style="text-align:center">беру/делаю что-то до возможной проблемы</p>
+			</td>
+			<td style="width:147px">
+			<p style="text-align:center">Take water in case you get thirsty</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:94px">
+			<p style="text-align:center">provided that</p>
+			</td>
+			<td style="width:106px">
+			<p style="text-align:center">при условии, что</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">строгая формальная граница</p>
+			</td>
+			<td style="width:144px">
+			<p style="text-align:center">договор, правило, доступ, разрешение</p>
+			</td>
+			<td style="width:147px">
+			<p style="text-align:center">You can enter provided that you have a pass</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:94px">
+			<p style="text-align:center">as long as</p>
+			</td>
+			<td style="width:106px">
+			<p style="text-align:center">пока / при условии, что</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">условие-граница, часто разговорное</p>
+			</td>
+			<td style="width:144px">
+			<p style="text-align:center">разрешение или согласие с условием</p>
+			</td>
+			<td style="width:147px">
+			<p style="text-align:center">You can stay as long as you are quiet</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:94px">
+			<p style="text-align:center">even if</p>
+			</td>
+			<td style="width:106px">
+			<p style="text-align:center">даже если</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">условие не меняет результат</p>
+			</td>
+			<td style="width:144px">
+			<p style="text-align:center">принципиальное решение, обещание, отказ</p>
+			</td>
+			<td style="width:147px">
+			<p style="text-align:center">I will go even if I am tired</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:94px">
+			<p style="text-align:center">unless</p>
+			</td>
+			<td style="width:106px">
+			<p style="text-align:center">если не</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">исключение / отрицательное условие</p>
+			</td>
+			<td style="width:144px">
+			<p style="text-align:center">результат случится, кроме одного случая</p>
+			</td>
+			<td style="width:147px">
+			<p style="text-align:center">I will go unless it rains</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Практическая логика</strong> выбора:</p>
+
+<ul>
+	<li>Хочешь сказать обычное &ldquo;если&rdquo; &mdash; используй if</li>
+	<li>Хочешь сказать &ldquo;заранее на всякий случай&rdquo; &mdash; используй in case</li>
+	<li>Хочешь звучать строго или официально &mdash; используй provided that</li>
+	<li>Хочешь дать разрешение с понятной границей &mdash; используй as long as</li>
+	<li>Хочешь показать, что условие не изменит результат &mdash; используй even if</li>
+	<li>Хочешь сказать &ldquo;если не / кроме случая&rdquo; &mdash; используй unless</li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Времена после if / in case / provided that / as long as / even if</strong></h2>
+</div>
+
+<p><strong>Очень важное правило</strong>: после этих условных связок в будущем значении английский обычно не ставит will в придаточной части. Русский говорит &ldquo;если будет&rdquo;, а английский часто говорит if it is, if it rains, if he comes.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Русская мысль</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Правильно</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Неправильно</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Почему</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Если он придёт завтра</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">if he comes tomorrow</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">if he will come tomorrow</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">после if для будущего обычно Present Simple</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">На случай если пойдёт дождь</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">in case it rains</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">in case it will rain</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">in case работает как условная связка</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">При условии, что цена не изменится</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">provided that the price does not change</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">provided that the price will not change</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">будущее условие выражается Present Simple</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Пока он будет честен</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">as long as he is honest</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">as long as he will be honest</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">условие на будущее без will</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Даже если будет трудно</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">even if it is difficult</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">even if it will be difficult</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">условная часть без will</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Но will возможен, если он не просто показывает будущее, а выражает готовность, отказ, обещание или волю. Например: If you will wait here, I will call the manager. Это формально значит &ldquo;если вы готовы подождать здесь&hellip;&rdquo;. Но для обычного будущего условия новичку и B2-ученику безопаснее держать правило: после if/in case/provided that/as long as/even if &mdash; Present Simple.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Реальные mini-сценарии: как мысль разворачивается в речи</strong></h2>
+</div>
+
+<p><strong>Ниже</strong> не отдельные случайные предложения, а мини-ситуации. Именно так advanced conditionals работают в реальной речи: человек не &ldquo;показывает грамматику&rdquo;, а объясняет прошлое, настоящее, сожаление, границы и риски.</p>
+
+<h3><strong>Сценарий 1. Ошибка в бизнесе</strong></h3>
+
+<p><strong>RU</strong>: Если бы мы проверили цифры раньше, мы бы не отправили неправильный отчёт<br>
+<a href="/uploads/files/If%20we%20had%20checked%20the%20figures%20earlier%2C%20we%20would%20not%20have%20sent%20the%20wrong%20report.mp3"><strong>EN</strong>: If we had checked the figures earlier, we would not have sent the wrong report</a><br>
+<em>Логика: классический </em><em>Third</em> <em>Conditional</em><em>: ошибка в прошлом</em></p>
+
+<p><strong>RU: </strong>Если бы мы проверили цифры раньше, мы бы сейчас не объяснялись перед клиентом<br>
+<a href="/uploads/files/If%20we%20had%20checked%20the%20figures%20earlier%2C%20we%20would%20not%20be%20explaining%20ourselves%20to%20the%20client%20now.mp3"><strong>EN: </strong>If we had checked the figures earlier, we would not be explaining ourselves to the client now</a><br>
+<em>Логика: Mixed Conditional: прошлое &rarr; настоящее</em></p>
+
+<p><strong>RU: </strong>Я сохраню отдельную копию на случай если таблица снова сломается<br>
+<a href="/uploads/files/I%20will%20save%20a%20separate%20copy%20in%20case%20the%20spreadsheet%20breaks%20again.mp3"><strong>EN: </strong>I will save a separate copy in case the spreadsheet breaks again</a><br>
+<em>Логика: in case = защита заранее</em></p>
+
+<p><strong>RU: </strong>Мы продолжим работу при условии, что все данные будут подтверждены<br>
+<a href="/uploads/files/We%20will%20continue%20the%20work%20provided%20that%20all%20the%20data%20is%20confirmed.mp3"><strong>EN: </strong>We will continue the work provided that all the data is confirmed</a><br>
+<em>Логика: provided that = строгая граница</em></p>
+
+<h3><strong>Сценарий 2. Отношения и сожаление</strong></h3>
+
+<p><strong>RU</strong>: Жаль, что я не сказал это раньше<br>
+<a href="/uploads/files/I%20wish%20I%20had%20said%20it%20earlier.mp3"><strong>EN</strong>: I wish I had said it earlier</a><br>
+<em>Логика: сожаление о прошлом</em></p>
+
+<p><strong>RU</strong>: Если бы я был честнее, я бы не потерял её доверие<br>
+<a href="/uploads/files/If%20I%20were%20more%20honest%2C%20I%20would%20not%20have%20lost%20her%20trust.mp3"><strong>EN</strong>: If I were more honest, I would not have lost her trust</a><br>
+<em>Логика: качество личности &rarr; прошлый результат</em></p>
+
+<p><strong>RU</strong>: Я поговорю с ней, даже если разговор будет тяжёлым<br>
+<a href="/uploads/files/I%20will%20talk%20to%20her%20even%20if%20the%20conversation%20is%20difficult.mp3"><strong>EN</strong>: I will talk to her even if the conversation is difficult</a><br>
+<em>Логика: </em><em>even</em> <em>if</em><em> = трудность не остановит</em></p>
+
+<p><strong>RU: </strong>Я не против начать сначала, пока мы говорим правду<br>
+<a href="/uploads/files/I%20do%20not%20mind%20starting%20again%20as%20long%20as%20we%20tell%20the%20truth.mp3"><strong>EN: </strong>I do not mind starting again as long as we tell the truth</a><br>
+<em>Логика: as long as = условие-граница</em></p>
+
+<h3><strong>Сценарий 3. Путешествие</strong></h3>
+
+<p><strong>RU: </strong>Если бы мы купили билеты раньше, они были бы дешевле<br>
+<a href="/uploads/files/If%20we%20had%20bought%20the%20tickets%20earlier%2C%20they%20would%20have%20been%20cheaper.mp3"><strong>EN: </strong>If we had bought the tickets earlier, they would have been cheaper</a><br>
+<em>Логика: Third Conditional</em></p>
+
+<p><strong>RU: </strong>Если бы мы купили билеты раньше, мы бы сейчас не волновались<br>
+<a href="/uploads/files/If%20we%20had%20bought%20the%20tickets%20earlier%2C%20we%20would%20not%20be%20worried%20now.mp3"><strong>EN: </strong>If we had bought the tickets earlier, we would not be worried now</a><br>
+<em>Логика: Mixed Conditional</em></p>
+
+<p><strong>RU</strong>: Возьми наличные на случай если карта не сработает<br>
+<a href="/uploads/files/Take%20cash%20in%20case%20the%20card%20does%20not%20work.mp3"><strong>EN</strong>: Take cash in case the card does not work</a><br>
+<em>Логика: предосторожность</em></p>
+
+<p><strong>RU</strong>: Мы поедем при условии, что рейс не отменят<br>
+<a href="/uploads/files/We%20will%20go%20provided%20that%20the%20flight%20is%20not%20cancelled.mp3"><strong>EN</strong>: We will go provided that the flight is not cancelled</a><br>
+<em>Логика: формальное условие</em></p>
+
+<h3><strong>Сценарий 4. Обучение английскому</strong></h3>
+
+<p><strong>RU</strong>: Если бы я учил английский каждый день, я бы сейчас говорил свободнее<br>
+<a href="/uploads/files/If%20I%20had%20studied%20English%20every%20day%2C%20I%20would%20speak%20more%20fluently%20now.mp3"><strong>EN</strong>: If I had studied English every day, I would speak more fluently now</a><br>
+<em>Логика: прошлая привычка &rarr; нынешний уровень</em></p>
+
+<p><strong>RU</strong>: Жаль, что я не начал с простых предложений<br>
+<a href="/uploads/files/I%20wish%20I%20had%20started%20with%20simple%20sentences.mp3"><strong>EN</strong>: I wish I had started with simple sentences</a><br>
+<em>Логика: сожаление о методе</em></p>
+
+<p><strong>RU: </strong>Я буду повторять слова, даже если сегодня мало времени<br>
+<a href="/uploads/files/I%20will%20review%20the%20words%20even%20if%20I%20have%20little%20time%20today.mp3"><strong>EN: </strong>I will review the words even if I have little time today</a><br>
+<em>Логика: even if = принцип</em></p>
+
+<p><strong>RU: </strong>Я продолжу заниматься, пока вижу прогресс<br>
+<a href="/uploads/files/I%20will%20keep%20studying%20as%20long%20as%20I%20see%20progress.mp3"><strong>EN: </strong>I will keep studying as long as I see progress</a><br>
+<em>Логика: as long as = условие мотивации</em></p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Русская логика vs английская логика</strong></h2>
+</div>
+
+<p><strong>Главная трудность</strong> для русскоговорящего ученика: в русском &ldquo;если бы&rdquo; может одинаково звучать для настоящего и прошлого, а английский обязан показать время нереальности грамматически.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Русская фраза</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Что может означать</strong></p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center"><strong>Английский вариант</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Если бы я знал</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">сейчас не знаю</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">If I knew</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Если бы я знал тогда</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">тогда не знал</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">If I had known then</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Жаль, что я знаю мало</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">сейчас знаю мало</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">I wish I knew more</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Жаль, что я тогда знал мало</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">тогда знал мало</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">I wish I had known more then</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Если бы он был внимательнее</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">он сейчас/вообще невнимательный</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">If he were more careful</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Если бы он был внимательнее вчера</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">он вчера не был внимателен в конкретном моменте</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">If he had been more careful yesterday</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>В английском</strong> &ldquo;дистанция от реальности&rdquo; часто выражается через сдвиг назад:</p>
+
+<ul>
+	<li>реальное настоящее: I know</li>
+	<li>нереальное настоящее: If I knew / I wish I knew</li>
+	<li>реальное прошлое: I knew / I found out</li>
+	<li>нереальное прошлое: If I had known / I wish I had known</li>
+	<li>воображаемый прошлый результат: would have + V3</li>
+	<li>воображаемый настоящий результат: would + V1 / would be</li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Частые ошибки и как их исправлять</strong></h2>
+</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center"><strong>Ошибка</strong></p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center"><strong>Правильно</strong></p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center"><strong>Почему</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">If I would know, I would tell you</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">If I knew, I would tell you</p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center">после if в нереальном настоящем нужен Past Simple, не would</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">If I knew yesterday, I would tell you</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">If I had known yesterday, I would have told you</p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center">yesterday = прошлое, нужно Past Perfect + would have V3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">If I had known, I would tell you yesterday</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">If I had known, I would have told you yesterday</p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center">результат в прошлом требует would have V3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">I wish I know</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">I wish I knew</p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center">wish о нереальном настоящем требует Past Simple</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">I wish I knew it yesterday</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">I wish I had known it yesterday</p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center">сожаление о прошлом требует Past Perfect</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">I wish he stops talking</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">I wish he would stop talking</p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center">раздражение из-за поведения &rarr; would</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">Take umbrella if it rains</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">Take an umbrella in case it rains</p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center">зонт берут заранее, это in case</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">I will go even if it will rain</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">I will go even if it rains</p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center">после even if будущее условие выражается Present Simple</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">You can stay provided you will be quiet</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">You can stay provided that you are quiet</p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center">после provided that обычно Present Simple</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">I will help as long as you will be honest</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">I will help as long as you are honest</p>
+			</td>
+			<td style="width:212px">
+			<p style="text-align:center">условная часть без will</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Самый быстрый способ</strong> проверять себя:</p>
+
+<ol>
+	<li>Сначала спроси: это реальное условие или воображаемое?</li>
+	<li>Потом спроси: условие относится к настоящему или прошлому?</li>
+	<li>Потом спроси: результат относится к настоящему или прошлому?</li>
+	<li>Если условие прошлое и результат прошлый &mdash; Third Conditional</li>
+	<li>Если условие прошлое, а результат настоящий &mdash; Mixed Conditional 1</li>
+	<li>Если условие настоящее/качество, а результат прошлый &mdash; Mixed Conditional 2</li>
+	<li>Если главная эмоция &mdash; сожаление, используй I wish / if only</li>
+	<li>Если действие делается заранее на всякий случай &mdash; in case</li>
+	<li>Если условие звучит как строгая граница &mdash; provided that / as long as</li>
+	<li>Если условие не меняет результат &mdash; even if</li>
+</ol>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Длинные comparative blocks: как меняется смысл</strong></h2>
+</div>
+
+<p><strong>Одна и та же</strong> русская идея может звучать по-английски по-разному. На B2 важно видеть не только правильность, но и оттенок.</p>
+
+<h3><strong>Блок 1. &ldquo;Если бы я знал&rdquo;</strong></h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If I knew the truth, I would act differently</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Я сейчас не знаю правду; если бы знал, действовал бы иначе сейчас/в будущем</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If I had known the truth, I would have acted differently</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Я тогда не знал правду; тогда поступил бы иначе</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If I had known the truth, I would feel differently now</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Я тогда не знал правду; сейчас чувствовал бы иначе</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">I wish I knew the truth</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Жаль, что я сейчас не знаю правду</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">I wish I had known the truth</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Жаль, что я тогда не знал правду</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>Блок 2. &ldquo;Он осторожный / неосторожный&rdquo;</strong></h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If he had been more careful, he would not have broken it</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">конкретно тогда он был неосторожен</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">If he were more careful, he would not have broken it</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">он вообще неосторожный человек, и это привело к прошлой ошибке</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">I wish he were more careful</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">жаль, что он сейчас/вообще не осторожнее</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">I wish he would be more careful</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">разговорно возможно, но часто звучит как раздражение: пусть уже станет осторожнее</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>Блок 3. &ldquo;Дождь&rdquo;</strong></h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">I will stay home if it rains</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">я останусь дома только если пойдёт дождь</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">I will take an umbrella in case it rains</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">я возьму зонт заранее, потому что дождь возможен</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">I will go out even if it rains</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">я выйду, дождь не изменит решение</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">We will have the picnic provided that it does not rain</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">пикник будет только при условии, что дождя не будет</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">We can walk as long as it does not rain too hard</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">можем гулять, пока дождь не слишком сильный</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>B2-нюансы, которые делают речь взрослой</strong></h2>
+</div>
+
+<p><strong>1.</strong> <strong>Were после I/he/she/it звучит более аккуратно в нереальных условиях.</strong></p>
+
+<p>If I were you, I would wait. If he were more honest, he would have told us earlier. В разговорной речи можно услышать was, но were остаётся сильным стандартным вариантом для учебной, письменной и аккуратной речи.</p>
+
+<p><strong>2.</strong> <strong>If only эмоциональнее, чем I wish.</strong></p>
+
+<p>I wish I had listened звучит как сожаление. If only I had listened звучит сильнее: &ldquo;эх, если бы я только послушал&rdquo;.</p>
+
+<p><strong>3.</strong> <strong>Mixed Conditional часто показывает жизненные последствия.</strong></p>
+
+<p>If I had taken that chance, my life would be different now &mdash; это не просто грамматика, а типичная взрослая мысль о выборе, карьере, отношениях и времени.</p>
+
+<p><strong>4. In case &mdash; это не &ldquo;если&rdquo;, а &ldquo;страховка&rdquo;.</strong></p>
+
+<p>Take a charger in case your phone dies &mdash; зарядку берут до того, как телефон сел. Это очень естественная бытовая связка.</p>
+
+<p><strong>5.</strong> <strong>Provided that звучит как официальный фильтр.</strong></p>
+
+<p>You can access the course provided that your subscription is active &mdash; это не дружеское &ldquo;if&rdquo;, а правило доступа.</p>
+
+<p><strong>6. Even if добавляет характер.</strong></p>
+
+<p>I will continue even if nobody supports me звучит как сильная позиция. Это не просто условие, а готовность идти через плохой сценарий.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Главная итоговая таблица урока</strong></h2>
+</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center"><strong>Тема</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Формула</strong></p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center">Third Conditional</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">If + had V3, would have V3</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">другое прошлое</p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center">If I had known, I would have helped</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center">Mixed 1</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">If + had V3, would V1 now</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">прошлое условие &rarr; настоящий результат</p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center">If I had started earlier, I would be ready now</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center">Mixed 2</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">If + Past Simple, would have V3</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">качество/состояние сейчас &rarr; прошлый результат</p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center">If he were careful, he would not have made that mistake</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center">I wish + Past Simple</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish + V2</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">жаль, что сейчас не так</p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center">I wish I knew</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center">I wish + Past Perfect</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish + had V3</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">жаль, что тогда было не так</p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center">I wish I had known</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center">I wish + would</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">I wish + would V1</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">раздражение/желание изменения поведения</p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center">I wish he would listen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center">in case</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">main action + in case + Present/Past</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">на случай если, заранее</p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center">Take a jacket in case it gets cold</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center">provided that</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">result + provided that + condition</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">строго при условии</p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center">You can stay provided that you follow the rules</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center">as long as</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">result + as long as + condition</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">пока / если выполняется граница</p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center">You can stay as long as you are quiet</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:121px">
+			<p style="text-align:center">even if</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">result + even if + condition</p>
+			</td>
+			<td style="width:170px">
+			<p style="text-align:center">даже если условие случится, результат не меняется</p>
+			</td>
+			<td style="width:163px">
+			<p style="text-align:center">I will go even if it rains</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<p><strong>Короткий итог:</strong></p>
+
+<ul>
+	<li>Third Conditional нужен для воображаемого прошлого: If I had known, I would have helped</li>
+	<li>Mixed Conditional 1 нужен, когда прошлое влияет на настоящее: If I had started earlier, I would be ready now</li>
+	<li>Mixed Conditional 2 нужен, когда нынешнее качество объясняет прошлый результат: If he were more careful, he would not have made that mistake</li>
+	<li>I wish + Past Simple = жаль, что сейчас не так</li>
+	<li>I wish + Past Perfect = жаль, что тогда было не так</li>
+	<li>I wish + would = раздражение или желание, чтобы поведение/ситуация изменились</li>
+	<li>in case = действие заранее на случай возможной проблемы</li>
+	<li>provided that = строгое условие</li>
+	<li>as long as = условие-граница, часто мягче и разговорнее</li>
+	<li>even if = условие не меняет решение или результат</li>
+</ul>
+</div>
+
+<p><strong>Что изучать дальше:</strong></p>
+
+<ul>
+	<li>Unreal past and modal perfect в более сложных контекстах: should have done, could have done, need not have done</li>
+	<li>Advanced linking words: unless, otherwise, supposing, assuming, whether or not</li>
+	<li>Inversion in conditionals: Had I known, Were I you, Should you need help</li>
+	<li>Formal writing: provided that, subject to, on condition that</li>
+	<li>Subtle spoken English: I wish you would, If only, You could have told me</li>
+</ul>
+
+<p><strong>Мини-модель</strong> для запоминания:</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Вопрос к себе</strong></p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center"><strong>Ответ</strong></p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center"><strong>Конструкция</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Это другое прошлое?</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">Да</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Third Conditional</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Прошлое изменило бы настоящее?</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">Да</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Mixed Conditional 1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Настоящее качество изменило бы прошлое?</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">Да</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Mixed Conditional 2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Я просто жалею?</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">Да</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">I wish / if only</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Я делаю что-то заранее?</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">Да</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">in case</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Я ставлю строгую границу?</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">Да</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">provided that / as long as</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:189px">
+			<p style="text-align:center">Я говорю, что условие не важно?</p>
+			</td>
+			<td style="width:113px">
+			<p style="text-align:center">Да</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">even if</p>
+			</td>
+		</tr>
+	</tbody>
+</table>

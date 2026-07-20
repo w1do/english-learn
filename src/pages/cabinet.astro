@@ -1,0 +1,309 @@
+---
+import CabinetModule from '../components/cabinet/CabinetModule';
+import PageLayout from '../layouts/PageLayout.astro';
+---
+<PageLayout title="Обучение английскому языку с 0 до профи" activePage="cabinet">
+    <Fragment slot="head">
+        <meta name="csrf-param" content="_csrf-frontend">
+        <meta name="csrf-token" content="cnd8fEA8zTqsNsHjY_hbmHxPgJGKe1O9OuODzV2uz7I3HjMkBU6VD9UEqLYAkS3aDCvRpbkUCfhUu9m3Pt2p6g==">
+        <script is:inline src="https://www.google.com/recaptcha/api.js" async defer></script>
+    </Fragment>
+
+    <div class="container">
+        <CabinetModule client:load />
+    </div>
+
+    <div class="modal" id="modalCompletedOn">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" /></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Вы проходили эту тему <br><span class="history-time">0</span></div>
+                    <p>Вы прошли <span class="total">0</span> заданий</p>
+                    <div class="res">
+                        <p class="green"><span class="passed">0</span> верно</p>
+                        <p class="orange"><span class="fail">0</span> неверно</p>                    
+                    </div>
+                    <div class="btns">
+                        <a class="btn btn-blue repeat-all" href="javascript:void(0)" data-method="post" data-params='{"firstTask":1}'>Начать заново</a>                    <a class="btn btn-gray theme-more" href="javascript:void(0)">Продолжить</a>                                        <div class="btns">
+                            <a class="btn btn-link repeat-is-passed" href="javascript:void(0)" data-method="post" data-params='{"firstTask":1}'>Повторить верные</a>                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="modalEndLesson">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" /></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Вы действительно хотите закончить тренировку?</div>
+                    <p>Вы прошли <span class="total">0</span> заданий</p>
+                    <div class="res">
+                        <p class="green"><span class="passed">0</span> верно</p>
+                        <p class="orange"><span class="fail">0</span> неверно</p>
+                    </div>
+                    <div class="gray-text" style="margin-top: auto;">Весь текущий прогресс будет сохранен</div>
+                    <div class="btns">
+                        <button type="button" class="btn btn-blue end-lesson-modal modal-trigger"
+                            data-modal="modalSheduleRepeat">Закончить</button>
+                        <button type="button" class="btn btn-gray close-modal">Продолжить</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>    
+    <div class="modal" id="modalEndLessonAll">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" /></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Вы действительно хотите закончить тренировку?</div>
+                    <p>Вы прошли <span class="total">0</span> заданий</p>
+                    <div class="res">
+                        <p class="green"><span class="passed">0</span> верно</p>
+                        <p class="orange"><span class="fail">0</span> неверно</p>                    
+                    </div>
+                    <div class="btns">
+                        <a href="#" id="repeat-all-btn" class="btn btn-blue" style="color: #fff;"
+                            data-method="post" data-params='{"firstTask":1}'>Повторить все</a>
+                        <button type="button" class="btn btn-gray end-lesson-finish">Закончить</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="modalSaveTranslate">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" alt="Закрыть"></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Добавьте свой перевод</div>
+                    <p class="user-question-modal"></p>
+                    <p class="user-answer-modal"></p>
+                    <div class="form-wrap">
+                        <form action="">
+                            <div class="form-group">
+                                <p><textarea name="user-answer-input" placeholder="Введите свой вариант..."></textarea></p>
+                                <p class="user-answer-warning"></p>
+                            </div>
+                            <button type="submit" class="btn btn-blue user-answer-save">Сохранить</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="modalSuccessTranslate">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal user-answer-success"><img src="/img/close.svg" alt="Закрыть"></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Спасибо, Ваш альтернативный перевод добавлен, можете использовать его в следующий раз</div>
+                    <p class="user-question-modal"></p>
+                    <p class="user-answer-modal"></p>
+                    <div class="form-wrap">
+                        <button type="submit" class="btn btn-blue close-modal user-answer-success">Понял</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="modalRemindRepeat">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" /></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Поздравляем вы прошли тренировку полностью</div>
+                    <p>Вы прошли <span class="total">0</span> заданий</p>
+                    <div class="res">
+                        <p class="green"><span class="passed">0</span> верно</p>
+                        <p class="orange"><span class="fail">0</span> неверно</p>
+                    </div>
+                    <div class="gray-text" style="margin-top: auto;">Весь текущий прогресс будет сохранен</div>
+                    <div class="btns">
+                        <button type="button" class="btn btn-gray close-modal">Закрыть</button>
+                        <button type="button" class="btn btn-blue add-to-repeat modal-trigger"
+                            data-modal="modalSheduleRepeat" style="width: 264px;">Повторить
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="modalDemoCompleted">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" /></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Отличный старт! 🎉</div>
+                    <p>Вы успешно прошли пробную тему и уже сделали первый шаг к уверенному английскому</p>
+                    <p>Продолжайте обучение с полным доступом ко всем темам и базе из более 40000 упражнений</p>
+                    <div class="btns">
+                        <a class="btn btn-blue" href="/checkout">Получить полный доступ</a>                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="modalReturnTranslation">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" /></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Вернуть базовый перевод?</div>
+                    <div class="btns">
+                        <a class="btn btn-blue user-answer-reset" href="javascript:void(0)">Да</a>                    <button type="button" class="btn btn-gray close-modal">Позже</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>    
+    <div class="modal" id="modalQC">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" alt=""></div>
+                <div class="title">Добавить тему</div>
+                <div class="form-wrap">
+                    <form id="w0" action="/question/category/create" method="post">
+                        <input type="hidden" name="_csrf-frontend" value="cnd8fEA8zTqsNsHjY_hbmHxPgJGKe1O9OuODzV2uz7I3HjMkBU6VD9UEqLYAkS3aDCvRpbkUCfhUu9m3Pt2p6g==">                <div class="form-group field-questioncategoryform-title required">
+                        <p><input type="text" id="questioncategoryform-title" class="form-control" name="QuestionCategoryForm[title]" placeholder="Название вашей темы" aria-required="true"><span class="error-message"></span></p>
+                        </div>                <button type="submit" class="btn btn-blue">Сохранить</button>
+                    </form>            </div>
+            </div>
+        </div>
+    </div>    
+    <div class="modal" id="modalQuestion">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" alt=""></div>
+                <div class="title">Добавить вопрос</div>
+                <div class="form-wrap">
+                    <form id="w1" action="/question/create" method="post">
+                        <input type="hidden" name="_csrf-frontend" value="cnd8fEA8zTqsNsHjY_hbmHxPgJGKe1O9OuODzV2uz7I3HjMkBU6VD9UEqLYAkS3aDCvRpbkUCfhUu9m3Pt2p6g==">                <div class="form-group field-questionform-question required">
+                        <p><input type="text" id="questionform-question" class="form-control" name="QuestionForm[question]" placeholder="Вопрос" aria-required="true"><span class="error-message"></span></p>
+                        </div>                <div class="form-group field-questionform-answer required">
+                        <p><input type="text" id="questionform-answer" class="form-control" name="QuestionForm[answer]" placeholder="Ответ" aria-required="true"><span class="error-message"></span></p>
+                        </div>                <div class="form-group field-questionform-category_id required">
+                        <p><select id="questionform-category_id" class="form-control" name="QuestionForm[category_id]" aria-required="true">
+                        </select><span class="error-message"></span></p>
+                        </div>                <button type="submit" class="btn btn-blue">Сохранить</button>
+                    </form>            </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="modalSheduleRepeat">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" alt=""></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Давайте запланируем повторение!</div>
+                    <div class="btns">
+                        <button type="button" class="btn btn-blue modal-trigger" data-modal="modalChooseDate">Выбрать
+                            дату</button>
+                        <button type="button" class="btn btn-gray close-modal">Не повторять</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="modalChooseDate">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" alt=""></div>
+                <div class="dialog-wrap">
+                    <p>Выберите дату повторения</p>
+                    <div class="form-wrap">
+                        <div class="form-group">
+                            <div id="datepickerWrap" class="datepicker-wrap"></div>
+                        </div>
+                        <button type="submit" class="btn btn-blue">Подтвердить</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="modalFirstSolve">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" alt=""></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Решите данное предложение, чтобы перейти к следующему</div>
+                    <div class="btns">
+                        <button type="button" class="btn btn-blue close-modal">Я готов!</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="modalComplain">
+        <div class="modal-sandbox"></div>
+        <div class="modal-box">
+            <div class="modal-body">
+                <div class="close-modal"><img src="/img/close.svg" alt=""></div>
+                <div class="dialog-wrap">
+                    <div class="dialog-title">Нашли ошибку?</div>
+                    <p>Помогите нам ее испаравить</p>
+                    <div class="form-wrap">
+                        <form id="complain-form" action="/cabinet/complain-save" method="post">
+                            <div class="form-group">
+                                <textarea name="text" placeholder="Комментарий..." required></textarea>
+                            </div>
+                            <div class="form-group">
+                                <div class="g-recaptcha"
+                                    data-sitekey="6LfXD-YsAAAAAMht8_KC1yBnS4kP2l0oebpbzczs"></div>
+                            </div>
+                            <div class="complain-result text-error"></div>
+                            <button type="submit" class="btn btn-blue">Отправить</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="overlay-loader">
+        <div class="loader-container">
+            <div class="images">
+                <img src="/img/loader_1.png" alt="" class="active">
+                <img src="/img/loader_2.png" alt="">
+                <img src="/img/loader_3.png" alt="">
+                <img src="/img/loader_4.png" alt="">
+                <img src="/img/loader_5.png" alt="">
+                <img src="/img/loader_6.png" alt="">
+            </div>
+            <div class="spinner"></div>
+        </div>
+    </div>
+
+    <Fragment slot="footer">
+        <script is:inline src="/js/yii.js"></script>
+        <script is:inline src="/js/yii.validation.js"></script>
+        <script is:inline src="/js/yii.activeForm.js"></script>
+        <script is:inline>
+            jQuery(function ($) {
+                const modalRemindRepeat = $('#modalRemindRepeat');
+                const categoryData = $('#tasks-list');
+
+                if (categoryData.length && categoryData.data('isFavorited') === 'true') {
+                    modalRemindRepeat.find('.add-to-repeat').hide();
+                }
+                jQuery('#w0').yiiActiveForm([{"id":"questioncategoryform-title","name":"title","container":".field-questioncategoryform-title","input":"#questioncategoryform-title","error":".error-message","encodeError":false,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Поле не может быть пустым"});}}], []);
+                jQuery('#w1').yiiActiveForm([{"id":"questionform-question","name":"question","container":".field-questionform-question","input":"#questionform-question","error":".error-message","encodeError":false,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Поле не может быть пустым"});yii.validation.string(value, messages, {"message":"Значение «Вопрос» должно быть строкой.","max":255,"tooLong":"Значение «Вопрос» должно содержать максимум 255 символов.","skipOnEmpty":1});}},{"id":"questionform-answer","name":"answer","container":".field-questionform-answer","input":"#questionform-answer","error":".error-message","encodeError":false,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Поле не может быть пустым"});yii.validation.string(value, messages, {"message":"Значение «Ответ» должно быть строкой.","max":255,"tooLong":"Значение «Ответ» должно содержать максимум 255 символов.","skipOnEmpty":1});}},{"id":"questionform-transcription","name":"transcription","container":".field-questionform-transcription","input":"#questionform-transcription","error":".error-message","encodeError":false,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Транскрипция» должно быть строкой.","max":255,"tooLong":"Значение «Транскрипция» должно содержать максимум 255 символов.","skipOnEmpty":1});}},{"id":"questionform-category_id","name":"category_id","container":".field-questionform-category_id","input":"#questionform-category_id","error":".error-message","encodeError":false,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Поле не может быть пустым"});}}], []);
+            });
+        </script>
+    </Fragment>
+</PageLayout>

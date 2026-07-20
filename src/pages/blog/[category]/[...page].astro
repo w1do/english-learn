@@ -1,0 +1,61 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BlogLayout from '../../../layouts/BlogLayout.astro';
+import BlogCategories from '../../../components/blog/BlogCategories.astro';
+import ArticleCard from '../../../components/blog/ArticleCard.astro';
+import BlogPagination from '../../../components/blog/BlogPagination.astro';
+import { blogCategories } from '../../../lib/blog-categories';
+
+export async function getStaticPaths({ paginate }: any) {
+    const posts = await getCollection('blog');
+    return blogCategories.flatMap((category) => {
+        const categoryPosts = posts
+            .filter((post) => post.data.category === category.slug)
+            .sort((a, b) => a.data.order - b.data.order);
+        return paginate(categoryPosts, {
+            pageSize: 20,
+            params: { category: category.slug },
+        });
+    });
+}
+
+interface Props {
+    page: {
+        data: CollectionEntry<'blog'>[];
+        currentPage: number;
+        lastPage: number;
+        url: { prev?: string; next?: string };
+    };
+}
+
+const { category } = Astro.params;
+const { page } = Astro.props;
+const currentCategory = blogCategories.find((c) => c.slug === category)!;
+---
+
+<BlogLayout
+    title={`${currentCategory.name} — Блог MySimpleEnglish`}
+    description="Статьи об английском для самостоятельного изучения: полезные фразы, разбор грамматики, лайфхаки и методики. Читайте — и сразу тренируйтесь на платформе."
+>
+    <h1 class="page-title text-center">Блог MySimpleEnglish</h1>
+    <p class="page-subtitle text-center">Простые подходы к сложному английскому</p>
+    <BlogCategories categories={blogCategories} activeSlug={category} />
+    <div class="blog-list">
+        {page.data.map((post) => (
+            <ArticleCard
+                title={post.data.title}
+                excerpt={post.data.excerpt}
+                date={post.data.date}
+                image={post.data.image}
+                url={`/blog/${post.data.category}/${post.id.split('/').pop()}`}
+            />
+        ))}
+    </div>
+    <BlogPagination
+        currentPage={page.currentPage}
+        lastPage={page.lastPage}
+        prevUrl={page.url.prev}
+        nextUrl={page.url.next}
+        basePath={`/blog/${category}`}
+    />
+</BlogLayout>

@@ -1,0 +1,35 @@
+---
+interface Props {
+    currentPage: number;
+    lastPage: number;
+    prevUrl?: string;
+    nextUrl?: string;
+    basePath: string;
+}
+
+const { currentPage, lastPage, prevUrl, nextUrl, basePath } = Astro.props;
+
+function pageUrl(n: number) {
+    return n === 1 ? basePath : `${basePath}/${n}`;
+}
+---
+
+{lastPage > 1 && (
+    <ul class="pagination">
+        {prevUrl ? (
+            <li class="prev"><a href={prevUrl}>&laquo;</a></li>
+        ) : (
+            <li class="prev disabled"><span>&laquo;</span></li>
+        )}
+        {Array.from({ length: lastPage }, (_, i) => i + 1).map((n) => (
+            <li class={n === currentPage ? 'active' : ''}>
+                <a href={pageUrl(n)}>{n}</a>
+            </li>
+        ))}
+        {nextUrl ? (
+            <li class="next"><a href={nextUrl}>&raquo;</a></li>
+        ) : (
+            <li class="next disabled"><span>&raquo;</span></li>
+        )}
+    </ul>
+)}

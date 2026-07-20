@@ -1,0 +1,88 @@
+---
+import { videoLevels } from '../lib/videos-mock';
+import PageLayout from '../layouts/PageLayout.astro';
+---
+<PageLayout title="Видеоуроки по английскому - тренировка перевода по уровням" description="Короткие видео-карточки для тренировки перевода с русского на английский. Уровни от A1 до B2 - выбирайте свой уровень и занимайтесь в удобном темпе." activePage="videos">
+    <main class="page-videos">
+        <section>
+            <div class="container">
+                <h1 class="page-title">Видеоуроки по уровням</h1>
+                <p class="page-subtitle">Выбирайте уровень и тренируйте перевод по коротким видео-карточкам</p>
+                <div class="levels" id="levels-list">
+                    {videoLevels.map((level, i) => (
+                        <div class={`item${i === 0 ? ' active' : ''}`} data-level-id={level.id}>
+                            <div class="title">{level.title}</div>
+                            <p>{level.count}</p>
+                            {level.badge && <div class="badge">{level.badge}</div>}
+                            <a href="javascript:void(0)"></a>
+                        </div>
+                    ))}
+                </div>
+                <div class="box" id="videos-box">
+                    <div class="title" id="box-title">{videoLevels[0].title}</div>
+                    <p class="subtitle" id="box-subtitle">{videoLevels[0].count} коротких видео</p>
+                    <ul class="categories" style="display:none;">
+                        <li><a class="active" href="javascript:void(0)">Все темы</a></li>
+                    </ul>
+                    <div class="videos-list" id="videos-list">
+                        {videoLevels[0].videos.map(v => (
+                            <div class="item" data-id={v.id}>
+                                <a class="thumb" href={v.video} data-fancybox="">
+                                    <img src={v.thumb} alt={v.cards} />
+                                </a>
+                                <div class="title">{v.title}</div>
+                                <ul class="tags">
+                                    <li>{v.cards}</li>
+                                    <li>{v.duration}</li>
+                                </ul>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <Fragment slot="footer">
+        <script is:inline define:vars={{ videoLevels }}>
+            document.addEventListener('DOMContentLoaded', function () {
+                var levels = document.querySelectorAll('#levels-list .item');
+                var videosList = document.getElementById('videos-list');
+                var boxTitle = document.getElementById('box-title');
+                var boxSubtitle = document.getElementById('box-subtitle');
+
+                levels.forEach(function (el) {
+                    el.addEventListener('click', function () {
+                        var id = parseInt(el.getAttribute('data-level-id'));
+                        var level = videoLevels.find(function (l) { return l.id === id; });
+                        if (!level) return;
+
+                        levels.forEach(function (l) { l.classList.remove('active'); });
+                        el.classList.add('active');
+
+                        boxTitle.textContent = level.title;
+                        boxSubtitle.textContent = level.count + ' коротких видео';
+
+                        videosList.innerHTML = level.videos.map(function (v) {
+                            return '<div class="item" data-id="' + v.id + '">' +
+                                '<a class="thumb" href="' + v.video + '" data-fancybox="">' +
+                                '<img src="' + v.thumb + '" alt="' + v.cards + '">' +
+                                '</a>' +
+                                '<div class="title">' + v.title + '</div>' +
+                                '<ul class="tags"><li>' + v.cards + '</li><li>' + v.duration + '</li></ul>' +
+                                '</div>';
+                        }).join('');
+
+                        if (typeof $.fn.fancybox !== 'undefined') {
+                            $('[data-fancybox]').fancybox({ video: { autoStart: true } });
+                        }
+                    });
+                });
+
+                $('.videos-list .item .thumb').click(function () {
+                    // handled by fancybox
+                });
+            });
+        </script>
+    </Fragment>
+</PageLayout>

@@ -1,0 +1,25 @@
+---
+import PageLayout from './PageLayout.astro';
+
+interface Props {
+    title: string;
+    description?: string;
+    isArticle?: boolean;
+}
+
+const { title, description = '', isArticle = false } = Astro.props;
+---
+<PageLayout 
+    title={title} 
+    description={description} 
+    bodyClass={`cabinet-pages ${isArticle ? 'single-post' : ''}`}
+    activePage="blog"
+>
+    <main class="page-blog">
+        <section>
+            <div class={`container ${isArticle ? 'small' : ''}`}>
+                <slot />
+            </div>
+        </section>
+    </main>
+</PageLayout>

@@ -1,0 +1,2619 @@
+---
+title: Academic English Basics
+date: 18.06.2026
+category: b2-prodvinutyj-uroven-6
+categoryName: B2 — Продвинутый уровень
+order: 15
+excerpt: Спокойная, точная и логичная академическая речь. Как объяснять мысль, приводить доказательства и сравнивать идеи без лишней эмоциональности.
+image: /uploads/blog/preview/6a33d1676ab01.png
+---
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:329px">
+			<p style="text-align:center"><strong>Что ученик научится понимать</strong></p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center"><strong>Что ученик научится писать</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:329px">
+			<p style="text-align:center">как устроен академический абзац</p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center">topic sentence &mdash; главное предложение абзаца</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:329px">
+			<p style="text-align:center">почему академический стиль осторожнее разговорного</p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center">hedging: may, might, tend to, appear to, suggest</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:329px">
+			<p style="text-align:center">как связывать идеи логично</p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center">however, therefore, moreover, in contrast, as a result</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:329px">
+			<p style="text-align:center">как звучат доказательства и выводы</p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center">The evidence suggests that..., This may indicate that...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:329px">
+			<p style="text-align:center">как заменить простые разговорные слова</p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center">get &rarr; obtain, show &rarr; demonstrate, think &rarr; argue / suggest</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>Содержание урока</strong></h3>
+
+<ul>
+	<li>Что такое academic English простыми словами</li>
+	<li>Чем академический английский отличается от обычного английского</li>
+	<li>Главная логика академического предложения</li>
+	<li>Базовая структура академического абзаца</li>
+	<li>Topic sentence: главное предложение абзаца</li>
+	<li>Evidence: как говорить о доказательствах</li>
+	<li>Hedging: осторожный академический стиль</li>
+	<li>Linking words: как связывать идеи</li>
+	<li>Formal verbs: какие слова делают стиль взрослее</li>
+	<li>Passive and impersonal style: без &ldquo;я думаю&rdquo; на каждом шаге</li>
+	<li>Academic definitions: как давать определения</li>
+	<li>Comparing and contrasting: сравнение идей</li>
+	<li>Cause and effect: причина и результат</li>
+	<li>Mini-scenarios: как обычная мысль превращается в академическую</li>
+	<li>Частые ошибки русскоязычных учеников</li>
+	<li>Большой банк полезных академических фраз</li>
+	<li>Краткий итог и что изучать дальше</li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Что такое Academic English простыми словами</strong></h2>
+</div>
+
+<p>Academic English &mdash; это английский для учебных текстов, эссе, докладов, исследований, статей, экзаменационных ответов и серьёзных объяснений. Его задача &mdash; не звучать красиво, а звучать точно, логично и убедительно.</p>
+
+<p>В обычной речи человек часто говорит коротко: &ldquo;I think it is good&rdquo;, &ldquo;This is bad&rdquo;, &ldquo;People use it a lot&rdquo;. В академическом стиле мысль нужно сделать спокойнее, точнее и доказательнее: &ldquo;This approach may be useful in certain contexts&rdquo;, &ldquo;The results suggest that the method can be effective&rdquo;, &ldquo;This trend is common among young learners&rdquo;.</p>
+
+<p>Главное отличие: в academic English автор не просто говорит своё мнение. Он показывает, почему это мнение имеет смысл. Поэтому академическая речь часто использует доказательства, осторожные формулировки, связки, сравнения и нейтральные слова.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Не путай</strong></p>
+
+			<p>Academic English &mdash; это не &ldquo;самый сложный английский&rdquo;. Плохой академический текст может быть перегружен словами. Хороший академический текст понятный, точный и организованный.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center"><strong>Обычная речь</strong></p>
+			</td>
+			<td style="width:249px">
+			<p style="text-align:center"><strong>Академическая речь</strong></p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center"><strong>Что изменилось</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">I think this method is good</p>
+			</td>
+			<td style="width:249px">
+			<p style="text-align:center">This method may be effective in specific contexts</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">мнение стало осторожным и точным</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">A lot of students have this problem</p>
+			</td>
+			<td style="width:249px">
+			<p style="text-align:center">Many learners experience this difficulty</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">разговорное a lot of заменили на many, students на learners</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">This shows that the idea is right</p>
+			</td>
+			<td style="width:249px">
+			<p style="text-align:center">This evidence supports the argument</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">show заменили на supports, idea is right на argument</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">The problem is very big</p>
+			</td>
+			<td style="width:249px">
+			<p style="text-align:center">The problem is significant</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">very big заменили на significant</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">People need more practice</p>
+			</td>
+			<td style="width:249px">
+			<p style="text-align:center">Learners may require further practice</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">people стало learners, need стало may require</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">This thing helps students</p>
+			</td>
+			<td style="width:249px">
+			<p style="text-align:center">This approach can help learners develop accuracy</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">thing заменили на approach, мысль стала конкретнее</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Чем академический английский отличается от обычного английского</strong></h2>
+</div>
+
+<p>Самая частая ошибка &mdash; думать, что академический стиль делается только заменой слов на более &ldquo;умные&rdquo;. На самом деле стиль меняется на нескольких уровнях одновременно: словарь, грамматика, структура абзаца, логика доказательства и тон автора.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Уровень</strong></p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center"><strong>Обычный английский</strong></p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center"><strong>Academic English</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Словарь</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">get, make, big, good, bad</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">obtain, develop, significant, effective, problematic</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Тон</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">I am sure this is true</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">The evidence suggests that this may be true</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Структура</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">мысль идёт как разговор</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">сначала тезис, потом объяснение, потом пример или доказательство</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Грамматика</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">часто I / we / you</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">часто passive voice, noun phrases, impersonal phrases</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Связь идей</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">and, but, so</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">moreover, however, therefore, in contrast, as a result</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Доказательства</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">because I think so</p>
+			</td>
+			<td style="width:253px">
+			<p style="text-align:center">according to the data / this example indicates / previous research suggests</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Мышление носителя</strong></p>
+
+			<p>Когда носитель пишет академический текст, он думает не &ldquo;как бы сказать умнее&rdquo;, а &ldquo;как бы сделать мысль проверяемой, логичной и осторожной&rdquo;. Поэтому в академическом стиле так много слов типа suggests, may, appears, evidence, approach, factor, result, issue, context.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Главная логика академического предложения</strong></h2>
+</div>
+
+<p>Базовое академическое предложение часто строится вокруг четырёх элементов: тема, точное действие, ограничение и результат. В разговорной речи можно сказать просто &ldquo;It helps&rdquo;. В академической речи нужно показать: что именно помогает, кому помогает, в какой ситуации и какой результат даёт.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Элемент</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Вопрос</strong></p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Topic / тема</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">о чём предложение?</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">This method / This approach / This problem / This evidence</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Academic verb / действие</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">что делает тема?</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">suggests / indicates / supports / reduces / increases / affects</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Limit / ограничение</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">где, когда, у кого, в каких условиях?</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">in formal writing / among beginners / in this context</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Result / результат</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">к чему это приводит?</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">better accuracy / a clearer argument / a higher level of confidence</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<ul>
+	<li><a href="/uploads/files/This%20approach%20may%20improve%20students%E2%80%99%20confidence%20in%20academic%20writing.mp3"><strong>This approach may improve students&rsquo; confidence in academic writing</strong></a><br>
+	Этот подход может улучшить уверенность студентов в академическом письме<br>
+	<em>Комментарий: есть тема, осторожность may, результат и сфера</em></li>
+	<li><a href="/uploads/files/The%20results%20suggest%20that%20regular%20practice%20can%20improve%20accuracy.mp3"><strong>The</strong><strong> results</strong><strong> suggest</strong><strong> that</strong><strong> regular</strong><strong> practice</strong><strong> can</strong><strong> improve</strong><strong> accuracy</strong></a><br>
+	Результаты показывают, что регулярная практика может улучшить точность<br>
+	<em>Комментарий: </em><em>suggest</em><em> не звучит слишком категорично</em></li>
+	<li><a href="/uploads/files/This%20problem%20is%20particularly%20common%20among%20intermediate%20learners.mp3"><strong>This</strong><strong> problem</strong><strong> is</strong><strong> particularly</strong><strong> common</strong><strong> among</strong><strong> intermediate</strong><strong> learners</strong></a><br>
+	Эта проблема особенно часто встречается среди учеников среднего уровня<br>
+	<em>Комментарий: </em><em>common</em> <em>among</em><em> звучит академичнее, чем </em><em>many</em> <em>people</em> <em>have</em></li>
+	<li><a href="/uploads/files/The%20difference%20between%20the%20two%20methods%20is%20not%20always%20clear.mp3"><strong>The</strong><strong> difference</strong><strong> between</strong><strong> the</strong><strong> two</strong><strong> methods</strong><strong> is</strong><strong> not</strong><strong> always</strong><strong> clear</strong></a><br>
+	Разница между двумя методами не всегда ясна<br>
+	<em>Комментарий: спокойное сравнение без эмоций</em></li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Базовая структура академического абзаца</strong></h2>
+</div>
+
+<p>Академический абзац &mdash; это не набор красивых предложений. Это маленький логический блок. У него есть главная мысль, объяснение, пример или доказательство и мини-вывод. Если абзац не имеет главной мысли, читатель теряет нить.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Часть абзаца</strong></p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center"><strong>Функция</strong></p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Типовая фраза</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Topic sentence</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">сразу показывает главную мысль абзаца</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">One important factor is regular practice</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Explanation</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">объясняет, почему главная мысль важна</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">This is important because learners need repeated exposure</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Evidence / example</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">поддерживает мысль примером или данными</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">For example, short daily tasks can improve automaticity</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Comment / analysis</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">показывает, что пример означает</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">This suggests that consistency may be more useful than intensity</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Mini-conclusion</p>
+			</td>
+			<td style="width:227px">
+			<p style="text-align:center">закрывает абзац и связывает его с темой</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">Therefore, practice should be frequent and focused</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Простая модель абзаца</strong></p>
+
+			<p>Главная мысль &rarr; объяснение &rarr; пример / доказательство &rarr; анализ &rarr; маленький вывод. Если ученик запомнит только эту схему, его академические тексты сразу станут сильнее.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Topic sentence: главное предложение абзаца</strong></h2>
+</div>
+
+<p>Topic sentence &mdash; это первое или одно из первых предложений абзаца, которое говорит читателю: &ldquo;вот о чём будет этот абзац&rdquo;. В русском ученики часто начинают издалека, а в английском академическом письме лучше быстрее показывать главную мысль.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:208px">
+			<p style="text-align:center"><strong>Слабое начало</strong></p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Сильное academic начало</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Почему лучше</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px">
+			<p style="text-align:center">There are many things about English learning</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">One major challenge in English learning is the lack of regular practice</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">сразу ясно, какая именно проблема</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px">
+			<p style="text-align:center">People often study in different ways</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">Different learning methods can lead to different levels of progress</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">мысль стала конкретнее</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px">
+			<p style="text-align:center">This topic is very interesting</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">This topic is important because it affects learner motivation</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">интерес заменили на значимость</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px">
+			<p style="text-align:center">I want to talk about grammar</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">Grammar plays an important role in accurate communication</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">убрали I want to talk about</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<ul>
+	<li><a href="/uploads/files/Regular%20feedback%20is%20an%20important%20part%20of%20language%20development.mp3"><strong>Regular feedback is an important part of language development</strong></a><br>
+	Регулярная обратная связь является важной частью языкового развития<br>
+	<em>Комментарий: это хорошее начало абзаца о feedback</em></li>
+	<li><a href="/uploads/files/One%20possible%20reason%20for%20slow%20progress%20is%20limited%20exposure%20to%20natural%20English.mp3"><strong>One possible reason for slow progress is limited exposure to natural English</strong></a><br>
+	Одна возможная причина медленного прогресса &mdash; ограниченный контакт с естественным английским<br>
+	<em>Комментарий: possible reason делает стиль осторожным</em></li>
+	<li><a href="/uploads/files/Academic%20vocabulary%20helps%20learners%20express%20ideas%20more%20precisely.mp3"><strong>Academic vocabulary helps learners express ideas more precisely</strong></a><br>
+	Академическая лексика помогает ученикам выражать идеи точнее<br>
+	<em>Комментарий: сразу понятно, о чём абзац</em></li>
+	<li><a href="/uploads/files/The%20use%20of%20examples%20can%20make%20an%20argument%20clearer%20and%20more%20convincing.mp3"><strong>The use of examples can make an argument clearer and more convincing</strong></a><br>
+	Использование примеров может сделать аргумент яснее и убедительнее<br>
+	<em>Комментарий: noun phrase The use of examples звучит академично</em></li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Evidence: как говорить о доказательствах</strong></h2>
+</div>
+
+<p>В академическом стиле доказательство &mdash; это не обязательно научная статья. На уровне B1-B2 доказательством может быть пример, наблюдение, данные, результат, цитата, исследование, статистика или логическая причина. Главное &mdash; не оставлять утверждение голым.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center"><strong>Тип доказательства</strong></p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center"><strong>Английская фраза</strong></p>
+			</td>
+			<td style="width:238px">
+			<p style="text-align:center"><strong>Какой смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Example</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">For example, many learners remember words better in context</p>
+			</td>
+			<td style="width:238px">
+			<p style="text-align:center">простой пример</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Result</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">The results suggest that the method may be effective</p>
+			</td>
+			<td style="width:238px">
+			<p style="text-align:center">результаты указывают, но не доказывают на 100%</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Data</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">The data indicate a clear difference between the two groups</p>
+			</td>
+			<td style="width:238px">
+			<p style="text-align:center">данные показывают различие</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Observation</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">This observation may explain the learners&rsquo; difficulty</p>
+			</td>
+			<td style="width:238px">
+			<p style="text-align:center">наблюдение может объяснить проблему</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Source</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">According to the study, motivation affects progress</p>
+			</td>
+			<td style="width:238px">
+			<p style="text-align:center">ссылка на источник</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Reason</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">This may be because repeated exposure improves automaticity</p>
+			</td>
+			<td style="width:238px">
+			<p style="text-align:center">логическая причина</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Почему нельзя просто &ldquo;</strong><strong>I</strong> <strong>think</strong><strong>&rdquo;</strong></p>
+
+			<p>I think можно использовать в разговоре, но в академическом тексте оно часто звучит слабо. Сильнее звучит не &ldquo;I think this is true&rdquo;, а &ldquo;The evidence suggests that this may be true&rdquo;. Так автор переносит центр внимания с себя на аргумент.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:310px">
+			<p style="text-align:center"><strong>Слабее</strong></p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center"><strong>Сильнее</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:310px">
+			<p style="text-align:center">I think grammar is important</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Grammar appears to play an important role in accurate communication</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:310px">
+			<p style="text-align:center">I believe this method works</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">This method appears to be effective in repeated practice</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:310px">
+			<p style="text-align:center">I am sure students need examples</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Examples may help learners understand abstract grammar more clearly</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:310px">
+			<p style="text-align:center">In my opinion, this is a problem</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">This can be seen as a significant problem for intermediate learners</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Hedging: осторожный академический стиль</strong></h2>
+</div>
+
+<p>Hedging &mdash; это осторожные слова и конструкции, которые показывают, что автор не делает слишком резкое утверждение. Академический текст редко говорит &ldquo;This always works&rdquo;. Он чаще говорит &ldquo;This may work&rdquo;, &ldquo;This tends to work&rdquo;, &ldquo;This appears to work in some contexts&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center"><strong>Слишком категорично</strong></p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center"><strong>Академически осторожно</strong></p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">This method works</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">This method may work in specific contexts</p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center">может работать, но не всегда</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">Students always make this mistake</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">Students often make this mistake</p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center">часто, но не всегда</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">The results prove the idea</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">The results support the idea</p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center">поддерживают, но не доказывают абсолютно</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">This is the best approach</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">This may be one effective approach</p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center">один возможный эффективный подход</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:197px">
+			<p style="text-align:center">The problem is caused by motivation</p>
+			</td>
+			<td style="width:280px">
+			<p style="text-align:center">The problem may be related to motivation</p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center">связано, но причина не утверждается жёстко</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Hedging phrase</strong></p>
+			</td>
+			<td style="width:166px">
+			<p style="text-align:center"><strong>Русский смысл</strong></p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">may / might</p>
+			</td>
+			<td style="width:166px">
+			<p style="text-align:center">может / возможно</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">This may explain the difference between the groups</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">can</p>
+			</td>
+			<td style="width:166px">
+			<p style="text-align:center">может в принципе</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Regular practice can improve fluency</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">tend to</p>
+			</td>
+			<td style="width:166px">
+			<p style="text-align:center">обычно / имеют тенденцию</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Learners tend to remember words better in context</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">appear to</p>
+			</td>
+			<td style="width:166px">
+			<p style="text-align:center">кажется / по данным выглядит так</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">The results appear to support this argument</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">seem to</p>
+			</td>
+			<td style="width:166px">
+			<p style="text-align:center">кажется</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">This approach seems to be useful for beginners</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">is likely to</p>
+			</td>
+			<td style="width:166px">
+			<p style="text-align:center">вероятно</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">This is likely to affect long-term progress</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">in some cases</p>
+			</td>
+			<td style="width:166px">
+			<p style="text-align:center">в некоторых случаях</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">In some cases, translation can support understanding</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">to some extent</p>
+			</td>
+			<td style="width:166px">
+			<p style="text-align:center">в некоторой степени</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Motivation affects progress to some extent</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li><a href="/uploads/files/This%20may%20be%20one%20reason%20why%20learners%20lose%20motivation.mp3"><strong>This may be one reason why learners lose motivation</strong></a><br>
+	Это может быть одной причиной, почему ученики теряют мотивацию<br>
+	<em>Комментарий: не &ldquo;this is the reason&rdquo;, а one reason</em></li>
+	<li><a href="/uploads/files/The%20results%20appear%20to%20support%20this%20explanation.mp3"><strong>The</strong><strong> results</strong><strong> appear</strong><strong> to</strong><strong> support</strong><strong> this</strong><strong> explanation</strong></a><br>
+	Результаты, по-видимому, поддерживают это объяснение<br>
+	<em>Комментарий: </em><em>appear</em> <em>to</em><em> делает вывод осторожным</em></li>
+	<li><a href="/uploads/files/Regular%20exposure%20tends%20to%20improve%20listening%20confidence.mp3"><strong>Regular</strong><strong> exposure</strong><strong> tends</strong><strong> to</strong><strong> improve</strong><strong> listening</strong><strong> confidence</strong></a><br>
+	Регулярный контакт обычно улучшает уверенность в аудировании<br>
+	<em>Комментарий: </em><em>tends</em> <em>to</em><em> показывает частую тенденцию</em></li>
+	<li><a href="/uploads/files/This%20problem%20is%20likely%20to%20affect%20beginner%20learners%20more%20strongly.mp3"><strong>This</strong><strong> problem</strong><strong> is</strong><strong> likely</strong><strong> to</strong><strong> affect</strong><strong> beginner</strong><strong> learners</strong><strong> more</strong><strong> strongly</strong></a><br>
+	Эта проблема, вероятно, влияет на начинающих учеников сильнее<br>
+	<em>Комментарий: </em><em>likely</em> <em>to</em><em> звучит академичнее, чем </em><em>probably</em></li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Linking words: как связывать идеи</strong></h2>
+</div>
+
+<p>Academic English любит ясные связи между предложениями. Связки показывают читателю, что происходит с мыслью: добавление, противопоставление, причина, результат, пример, вывод или уточнение. Без связок текст выглядит как набор отдельных предложений.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:129px">
+			<p style="text-align:center"><strong>Функция</strong></p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center"><strong>Простая связка</strong></p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center"><strong>Академические варианты</strong></p>
+			</td>
+			<td style="width:204px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:129px">
+			<p style="text-align:center">Добавить мысль</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">and</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">moreover, furthermore, in addition</p>
+			</td>
+			<td style="width:204px">
+			<p style="text-align:center">Moreover, the method is easy to use</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:129px">
+			<p style="text-align:center">Противопоставить</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">but</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">however, nevertheless, in contrast</p>
+			</td>
+			<td style="width:204px">
+			<p style="text-align:center">However, the results are not conclusive</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:129px">
+			<p style="text-align:center">Показать причину</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">because</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">because of this, due to, as a result of</p>
+			</td>
+			<td style="width:204px">
+			<p style="text-align:center">Due to limited practice, progress may be slow</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:129px">
+			<p style="text-align:center">Показать результат</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">so</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">therefore, as a result, consequently</p>
+			</td>
+			<td style="width:204px">
+			<p style="text-align:center">Therefore, feedback should be regular</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:129px">
+			<p style="text-align:center">Дать пример</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">for example</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">for instance, such as, this can be seen in</p>
+			</td>
+			<td style="width:204px">
+			<p style="text-align:center">For instance, beginners often need clear models</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:129px">
+			<p style="text-align:center">Сделать вывод</p>
+			</td>
+			<td style="width:125px">
+			<p style="text-align:center">so</p>
+			</td>
+			<td style="width:197px">
+			<p style="text-align:center">therefore, overall, in conclusion</p>
+			</td>
+			<td style="width:204px">
+			<p style="text-align:center">Overall, the approach may be effective</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear: both; text-align: center;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Важный нюанс</strong></p>
+
+			<p>However и therefore часто стоят в начале нового предложения. Although и because обычно вводят часть сложного предложения. Ошибка русскоязычных учеников &mdash; ставить их как одинаковые &ldquo;слова-связки&rdquo;, хотя грамматика у них разная.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center"><strong>Правильно</strong></p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center"><strong>Почему</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center">The method is useful. However, it requires time</p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center">However связывает два самостоятельных предложения</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center">Although the method is useful, it requires time</p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center">Although открывает придаточную часть</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center">The learners had little practice. Therefore, their progress was slow</p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center">Therefore показывает результат отдельным предложением</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center">Because the learners had little practice, their progress was slow</p>
+			</td>
+			<td style="width:329px">
+			<p style="text-align:center">Because вводит причину внутри одного сложного предложения</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Formal verbs: какие слова делают стиль взрослее</strong></h2>
+</div>
+
+<p>В академическом стиле часто заменяют слишком общие глаголы на более точные. Это не значит, что простые слова плохие. Но если ученик всё время пишет get, make, do, say, show, то текст звучит слишком разговорно и бедно.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center"><strong>Разговорное слово</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Academic варианты</strong></p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">get</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">obtain / receive / become</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Students obtain better results with regular practice</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">make</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">create / produce / develop</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">This approach can develop learner autonomy</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">do</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">carry out / perform / complete</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">The researchers carried out a small study</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">say</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">state / argue / claim / suggest</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">The author argues that feedback is essential</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">show</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">demonstrate / indicate / suggest</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">The results indicate a clear improvement</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">help</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">support / improve / contribute to</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Examples support understanding</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">use</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">apply / employ / make use of</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Learners can apply this strategy in writing</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">find out</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">identify / determine</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">The study identifies three common problems</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">look at</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">examine / analyse / consider</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">This section examines the main causes</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">talk about</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">discuss / address</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">The article discusses learner motivation</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">need</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">require</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Academic writing requires clear structure</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">think</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">argue / suggest / assume</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">The author suggests that context is important</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">change</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">modify / affect / transform</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">Feedback can modify learner behaviour</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">big</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">significant / major</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">This is a significant factor</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">bad</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">problematic / ineffective</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">This strategy may be problematic for beginners</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Не делай текст искусственным</strong></p>
+
+			<p>Не нужно заменять каждое простое слово. Хороший academic English &mdash; это баланс. Простая грамматика + точные ключевые слова обычно звучат сильнее, чем перегруженная фраза с пятью редкими словами.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Passive and impersonal style: без &ldquo;я думаю&rdquo; на каждом шаге</strong></h2>
+</div>
+
+<p>В академическом английском часто нужно убрать слишком личный тон. Вместо &ldquo;I found that...&rdquo; можно написать &ldquo;It was found that...&rdquo; или &ldquo;The results show that...&rdquo;. Это делает текст более нейтральным. Но passive voice не нужно использовать в каждом предложении. Он нужен, когда важнее действие или результат, а не человек.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center"><strong>Личный стиль</strong></p>
+			</td>
+			<td style="width:246px">
+			<p style="text-align:center"><strong>Более academic стиль</strong></p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center"><strong>Когда лучше</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">I found that the method worked</p>
+			</td>
+			<td style="width:246px">
+			<p style="text-align:center">It was found that the method was effective</p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center">когда важен результат, а не &ldquo;я&rdquo;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">We can see a clear difference</p>
+			</td>
+			<td style="width:246px">
+			<p style="text-align:center">A clear difference can be observed</p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center">когда нужно звучать объективнее</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">People use this approach in many schools</p>
+			</td>
+			<td style="width:246px">
+			<p style="text-align:center">This approach is used in many schools</p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center">когда важен подход</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">I will discuss three reasons</p>
+			</td>
+			<td style="width:246px">
+			<p style="text-align:center">Three reasons will be discussed</p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center">когда текст формальный</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px">
+			<p style="text-align:center">Researchers tested the method</p>
+			</td>
+			<td style="width:246px">
+			<p style="text-align:center">The method was tested by researchers</p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center">когда объект важнее исполнителя</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<ul>
+	<li><a href="/uploads/files/A%20clear%20improvement%20can%20be%20observed%20after%20regular%20practice.mp3"><strong>A clear improvement can be observed after regular practice</strong></a><br>
+	Явное улучшение можно наблюдать после регулярной практики<br>
+	<em>Комментарий: passive помогает убрать личный тон</em></li>
+	<li><a href="/uploads/files/This%20issue%20is%20discussed%20in%20the%20next%20section.mp3"><strong>This issue is discussed in the next section</strong></a><br>
+	Этот вопрос обсуждается в следующем разделе<br>
+	<em>Комментарий: типичная academic фраза</em></li>
+	<li><a href="/uploads/files/The%20data%20were%20collected%20over%20a%20two-week%20period.mp3"><strong>The</strong><strong> data</strong><strong> were</strong><strong> collected</strong><strong> over</strong><strong> a</strong><strong> two</strong><strong>-week</strong><strong> period</strong></a><br>
+	Данные были собраны в течение двухнедельного периода<br>
+	<em>Комментарий: важны данные, а не человек</em></li>
+	<li><a href="/uploads/files/The%20results%20should%20be%20interpreted%20carefully.mp3"><strong>The results should be interpreted carefully</strong></a><br>
+	Результаты следует интерпретировать осторожно<br>
+	<em>Комментарий: modal passive: should be interpreted</em></li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Academic definitions: как давать определения</strong></h2>
+</div>
+
+<p>Академический текст часто начинается с определения. Определение должно быть точным, но не перегруженным. Хорошая формула: термин + is / refers to + категория + уточнение. Например: &ldquo;Academic English refers to a formal style of English used in educational and research contexts&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:174px">
+			<p style="text-align:center"><strong>Формула</strong></p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center"><strong>Русский смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:174px">
+			<p style="text-align:center">X is a type of Y</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Hedging is a type of cautious language</p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center">X &mdash; это вид Y</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:174px">
+			<p style="text-align:center">X refers to Y</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Academic English refers to formal English used in study and research</p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center">X означает / относится к Y</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:174px">
+			<p style="text-align:center">X can be defined as Y</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">A topic sentence can be defined as the main sentence of a paragraph</p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center">X можно определить как Y</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:174px">
+			<p style="text-align:center">X is used to Y</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">A linking word is used to connect ideas</p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center">X используется, чтобы Y</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:174px">
+			<p style="text-align:center">X plays a role in Y</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Vocabulary plays an important role in academic writing</p>
+			</td>
+			<td style="width:181px">
+			<p style="text-align:center">X играет роль в Y</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Хорошее определение</strong></p>
+
+			<p>Не начинай определение слишком разговорно: &ldquo;It is when...&rdquo;. Лучше: &ldquo;X refers to...&rdquo;, &ldquo;X can be defined as...&rdquo;, &ldquo;X is a form of...&rdquo;.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Comparing and contrasting: сравнение идей</strong></h2>
+</div>
+
+<p>В академических текстах очень часто нужно сравнивать две идеи: два метода, две причины, две группы людей, два результата. Сравнение должно быть спокойным и точным. Не &ldquo;this is better&rdquo;, а &ldquo;this approach may be more effective in contexts where learners need structured practice&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Задача</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Фразы</strong></p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Показать сходство</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">similarly, in a similar way, both</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Both methods can improve learner confidence</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Показать отличие</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">in contrast, whereas, while</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Written feedback is specific, whereas oral feedback is immediate</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Сравнить степень</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">more / less + adjective, more likely to</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Beginners are more likely to need clear models</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Показать ограничение</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">although, despite, even though</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">Although the method is useful, it requires time</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Сделать осторожный вывод</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">may be more effective, appears to be stronger</p>
+			</td>
+			<td style="width:302px">
+			<p style="text-align:center">This approach may be more effective for visual learners</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<ul>
+	<li><a href="/uploads/files/Both%20approaches%20can%20support%20vocabulary%20learning%2C%20but%20they%20do%20so%20in%20different%20ways.mp3"><strong>Both</strong><strong> approaches</strong><strong> can</strong><strong> support</strong><strong> vocabulary</strong><strong> learning</strong><strong>, but</strong><strong> they</strong><strong> do</strong><strong> so</strong><strong> in</strong><strong> different</strong><strong> ways</strong></a><br>
+	Оба подхода могут поддерживать изучение словарного запаса, но они делают это разными способами<br>
+	<em>Комментарий: академическое сравнение без резкой оценки</em></li>
+	<li><a href="/uploads/files/In%20contrast%2C%20independent%20study%20requires%20a%20higher%20level%20of%20self-discipline.mp3"><strong>In</strong><strong> contrast</strong><strong>, independent</strong><strong> study</strong><strong> requires</strong><strong> a</strong><strong> higher</strong><strong> level</strong><strong> of</strong><strong> self</strong><strong>-discipline</strong></a><br>
+	В отличие от этого, самостоятельное обучение требует более высокого уровня самодисциплины<br>
+	<em>Комментарий: </em><em>in</em> <em>contrast</em><em> связывает с предыдущей мыслью</em></li>
+	<li><a href="/uploads/files/Whereas%20simple%20repetition%20helps%20memory%2C%20contextual%20practice%20helps%20understanding.mp3"><strong>Whereas</strong><strong> simple</strong><strong> repetition</strong><strong> helps</strong><strong> memory</strong><strong>, contextual</strong><strong> practice</strong><strong> helps</strong><strong> understanding</strong></a><br>
+	В то время как простое повторение помогает памяти, контекстная практика помогает пониманию<br>
+	<em>Комментарий: whereas показывает контраст внутри одного предложения</em></li>
+	<li><a href="/uploads/files/This%20method%20appears%20to%20be%20more%20useful%20when%20learners%20already%20understand%20the%20basic%20rule.mp3"><strong>This method appears to be more useful when learners already understand the basic rule</strong></a><br>
+	Этот метод, кажется, более полезен, когда ученики уже понимают базовое правило<br>
+	<em>Комментарий: appears to be + more useful = осторожное сравнение</em></li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Cause and effect: причина и результат</strong></h2>
+</div>
+
+<p>Academic English очень часто объясняет причинно-следственные связи: почему проблема появилась, что привело к результату, почему один метод работает лучше другого. Здесь важно не путать причину и результат.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center"><strong>Функция</strong></p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center"><strong>Фразы</strong></p>
+			</td>
+			<td style="width:287px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center">Причина</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">because, because of, due to, as a result of</p>
+			</td>
+			<td style="width:287px">
+			<p style="text-align:center">Due to limited exposure, learners may struggle with listening</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center">Результат</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">therefore, as a result, consequently, this leads to</p>
+			</td>
+			<td style="width:287px">
+			<p style="text-align:center">As a result, learners may become less confident</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center">Влияние</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">affect, influence, contribute to, lead to</p>
+			</td>
+			<td style="width:287px">
+			<p style="text-align:center">Motivation can influence long-term progress</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center">Осторожная причина</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">may be caused by, may be related to</p>
+			</td>
+			<td style="width:287px">
+			<p style="text-align:center">The problem may be related to a lack of practice</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:159px">
+			<p style="text-align:center">Комплексная причина</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">one factor is, another possible reason is</p>
+			</td>
+			<td style="width:287px">
+			<p style="text-align:center">One possible reason is the absence of feedback</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Почему &ldquo;because of this&rdquo; иногда слабее</strong></p>
+
+			<p>Because of this &mdash; нормальная фраза, но в академическом тексте часто лучше использовать therefore, as a result, consequently или this may lead to. Они точнее показывают логическую связь.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Mini-scenarios: как обычная мысль превращается в академическую</strong></h2>
+</div>
+
+<p>Ниже &mdash; не упражнения, а готовые модели мышления. Смотри, как простая мысль постепенно становится academic English: точнее, спокойнее, доказательнее.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Уровень</strong></p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Обычная мысль</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">Students do not speak because they are afraid</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Чуть лучше</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">Students may not speak because they are afraid of mistakes</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Academic version</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">Learners may avoid speaking because they are concerned about making mistakes</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Сильная version</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">One possible reason for limited speaking practice is learners&rsquo; concern about making mistakes in front of others</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Уровень</strong></p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Обычная мысль</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">This app helps people learn words</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Чуть лучше</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">This app can help learners remember new words</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Academic version</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">This application may help learners remember vocabulary more effectively</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Сильная version</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">The use of spaced repetition in the application may support more effective vocabulary retention</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Уровень</strong></p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Обычная мысль</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">Grammar is hard because there are many rules</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Чуть лучше</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">Grammar can be difficult because learners need to remember many rules</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Academic version</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">Grammar may be challenging because learners need to apply multiple rules at the same time</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Сильная version</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">One reason grammar may be challenging is that learners often need to process form, meaning and word order simultaneously</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Что здесь происходит</strong></p>
+
+			<p>Мы не просто заменяем слова. Мы уточняем причину, добавляем осторожность, убираем разговорный тон, делаем мысль проверяемой и показываем связь между идеями.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Частые ошибки русскоязычных учеников</strong></h2>
+</div>
+
+<p>Русскоязычные ученики часто переносят русскую логику текста в английский. В русском можно долго подводить к мысли, писать эмоционально или использовать общие слова. В английском academic writing читатель ждёт более прямую структуру: тезис &rarr; объяснение &rarr; доказательство &rarr; вывод.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center"><strong>Ошибка</strong></p>
+			</td>
+			<td style="width:178px">
+			<p style="text-align:center"><strong>Плохо</strong></p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center"><strong>Лучше</strong></p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center"><strong>Почему</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Слишком личный тон</p>
+			</td>
+			<td style="width:178px">
+			<p style="text-align:center">I think this problem is very serious</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">This problem can be considered significant</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">фокус не на авторе, а на проблеме</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Слишком категорично</p>
+			</td>
+			<td style="width:178px">
+			<p style="text-align:center">This method always works</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">This method may be effective in some contexts</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">academic style избегает абсолютных заявлений</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Слишком разговорно</p>
+			</td>
+			<td style="width:178px">
+			<p style="text-align:center">A lot of people get bad results</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">Many learners achieve limited results</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">лексика стала точнее</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Нет связи идей</p>
+			</td>
+			<td style="width:178px">
+			<p style="text-align:center">The method is useful. It is difficult</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">The method is useful. However, it can be difficult to apply</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">however показывает контраст</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Слабый тезис</p>
+			</td>
+			<td style="width:178px">
+			<p style="text-align:center">There are many opinions about this</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">There are several possible explanations for this problem</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">сразу ясна функция абзаца</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Слишком общие слова</p>
+			</td>
+			<td style="width:178px">
+			<p style="text-align:center">This thing helps students</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">This strategy supports learner autonomy</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">thing заменено на strategy</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Русская эмоциональность</p>
+			</td>
+			<td style="width:178px">
+			<p style="text-align:center">This is a very bad situation</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">This situation may be problematic for learners</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">нейтральный тон звучит сильнее</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">Нет ограничения</p>
+			</td>
+			<td style="width:178px">
+			<p style="text-align:center">Technology improves learning</p>
+			</td>
+			<td style="width:215px">
+			<p style="text-align:center">Technology can improve learning when it is used consistently</p>
+			</td>
+			<td style="width:136px">
+			<p style="text-align:center">добавлены условия</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Самая опасная ошибка</strong></p>
+
+			<p>Писать академический текст так, будто это пост в соцсетях: много эмоций, мало структуры, много &ldquo;I think&rdquo;, мало доказательств. Academic English требует не громкости, а ясности.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Большой банк полезных академических фраз</strong></h2>
+</div>
+
+<p>Эти фразы можно использовать как конструктор. Они особенно полезны для эссе, учебных ответов, объяснений грамматики, статей для сайта, презентаций и B2-style writing.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Функция</strong></p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center"><strong>Фраза-шаблон</strong></p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Начать тему</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">This section discusses...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">This section discusses the main features of academic English</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Ввести проблему</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">One important issue is...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">One important issue is the lack of clear structure</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Назвать причину</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">One possible reason is...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">One possible reason is limited exposure to natural English</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Добавить мысль</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">Moreover, ...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">Moreover, the method is easy to apply</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Противопоставить</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">However, ...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">However, the results are not always consistent</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Показать результат</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">As a result, ...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">As a result, learners may become more confident</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Дать пример</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">For example, ...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">For example, short daily tasks can support progress</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Сослаться на данные</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">The evidence suggests that...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">The evidence suggests that feedback improves accuracy</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Сделать осторожный вывод</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">This may indicate that...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">This may indicate that regular practice is important</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Показать ограничение</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">This does not necessarily mean that...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">This does not necessarily mean that the method works for everyone</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Сравнить</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">In contrast, ...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">In contrast, independent learning requires more discipline</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Сделать общий вывод</p>
+			</td>
+			<td style="width:189px">
+			<p style="text-align:center">Overall, ...</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">Overall, academic English requires clarity and precision</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center"><strong>Задача</strong></p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center"><strong>Готовые варианты</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Дать определение</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">X refers to... / X can be defined as... / X is a form of... / X is used to...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Представить аргумент</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">This suggests that... / This supports the idea that... / This can be interpreted as...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Сделать осторожный вывод</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">It may be argued that... / This appears to show that... / This is likely to affect...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Показать ограничение</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">However, this does not mean that... / This explanation is limited because... / In some cases...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Показать развитие мысли</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">Furthermore... / In addition... / Another important factor is...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Показать контраст</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">Nevertheless... / In contrast... / Whereas... / Although...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:170px">
+			<p style="text-align:center">Завершить абзац</p>
+			</td>
+			<td style="width:491px">
+			<p style="text-align:center">Therefore... / For this reason... / This may explain why... / Overall...</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Как звучит Academic English в реальных ситуациях</strong></h2>
+</div>
+
+<p>В фильмах, университетских лекциях, интервью и документальных видео академический стиль часто звучит не как &ldquo;сложный учебник&rdquo;, а как уверенное объяснение. Человек спокойно вводит тему, объясняет причину, делает осторожный вывод и не давит эмоциями.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:140px">
+			<p style="text-align:center"><strong>Ситуация</strong></p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center"><strong>Неакадемично</strong></p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center"><strong>Academic / semi-academic</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:140px">
+			<p style="text-align:center">Презентация</p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center">I will talk about why this is good</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">This presentation will examine the main advantages of this approach</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:140px">
+			<p style="text-align:center">Видео-объяснение</p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center">This thing helps you remember words</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">This method can support vocabulary retention</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:140px">
+			<p style="text-align:center">Эссе</p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center">I think online learning is better</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">Online learning may be more flexible than traditional classroom learning</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:140px">
+			<p style="text-align:center">Разбор данных</p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center">The numbers show it got better</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">The data indicate a gradual improvement</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:140px">
+			<p style="text-align:center">Вывод</p>
+			</td>
+			<td style="width:200px">
+			<p style="text-align:center">So this method is the best</p>
+			</td>
+			<td style="width:321px">
+			<p style="text-align:center">Overall, this method may be effective in specific learning contexts</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Большие comparative blocks: как меняется смысл</strong></h2>
+</div>
+
+<p>Ниже &mdash; важные различия, которые делают текст академическим. Они выглядят маленькими, но сильно меняют тон.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center"><strong>Вариант</strong></p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Когда использовать</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">prove</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">доказывает почти окончательно</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">когда доказательство действительно сильное</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">show</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">показывает более нейтрально</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">обычно в простом объяснении</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">suggest</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">указывает / позволяет предположить</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">лучший вариант для осторожного академического вывода</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">indicate</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">указывает по данным или признакам</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">когда есть результат, график, наблюдение</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px">
+			<p style="text-align:center">support</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">поддерживает аргумент</p>
+			</td>
+			<td style="width:265px">
+			<p style="text-align:center">когда доказательство помогает позиции, но не закрывает вопрос полностью</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center"><strong>Звучание</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center">This proves that the method works</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">слишком жёстко, если нет абсолютного доказательства</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center">This shows that the method works</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">нормально, но всё ещё довольно уверенно</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center">This suggests that the method may work</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">самый академический и осторожный вариант</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center">This indicates that the method may be useful</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">хорошо, если есть данные или наблюдение</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:321px">
+			<p style="text-align:center">This supports the idea that the method can be effective</p>
+			</td>
+			<td style="width:340px">
+			<p style="text-align:center">хорошо, если это часть аргумента</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Готовая модель академического мини-текста</strong></h2>
+</div>
+
+<p>Вот как может выглядеть маленький academic-style paragraph на тему изучения английского. Он не перегружен, но в нём есть академическая структура: topic sentence, explanation, example, cautious conclusion.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:658px">
+			<p><strong>Model paragraph</strong></p>
+
+			<p>Regular feedback is an important part of language development. This is because learners often need clear information about their mistakes in order to improve accuracy. For example, a student may repeat the same grammar error for a long time if no one corrects it. Feedback can therefore help learners notice the problem and change their language behaviour. Overall, regular feedback may support more accurate and confident communication.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Часть</strong></p>
+			</td>
+			<td style="width:359px">
+			<p style="text-align:center"><strong>Предложение</strong></p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center"><strong>Функция</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Topic sentence</p>
+			</td>
+			<td style="width:359px">
+			<p style="text-align:center">Regular feedback is an important part of language development</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">главная мысль</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Explanation</p>
+			</td>
+			<td style="width:359px">
+			<p style="text-align:center">This is because learners often need clear information about their mistakes in order to improve accuracy</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">почему это важно</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Example</p>
+			</td>
+			<td style="width:359px">
+			<p style="text-align:center">For example, a student may repeat the same grammar error for a long time if no one corrects it</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">пример</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Result</p>
+			</td>
+			<td style="width:359px">
+			<p style="text-align:center">Feedback can therefore help learners notice the problem and change their language behaviour</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">результат</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px">
+			<p style="text-align:center">Mini-conclusion</p>
+			</td>
+			<td style="width:359px">
+			<p style="text-align:center">Overall, regular feedback may support more accurate and confident communication</p>
+			</td>
+			<td style="width:151px">
+			<p style="text-align:center">осторожный вывод</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<h3><strong>Краткий итог</strong></h3>
+
+<ul>
+	<li>Academic English &mdash; это точный, логичный и нейтральный английский для учебных, научных и серьёзных текстов.</li>
+	<li>Главная задача academic English &mdash; не звучать сложно, а объяснять мысль ясно и доказательно.</li>
+	<li>Хороший академический абзац строится по схеме: главная мысль &rarr; объяснение &rarr; пример / доказательство &rarr; анализ &rarr; вывод.</li>
+	<li>Hedging делает текст взрослее: may, might, tend to, appear to, suggest, likely to, in some cases.</li>
+	<li>Связки помогают читателю следить за логикой: however, therefore, moreover, in contrast, as a result, for example.</li>
+	<li>Формальные глаголы делают речь точнее: demonstrate, indicate, suggest, support, examine, analyse, require, contribute to.</li>
+	<li>Passive voice и impersonal style помогают убрать слишком личный тон, если важен результат, а не автор.</li>
+	<li>Самая сильная академическая фраза обычно не самая длинная, а самая точная.</li>
+</ul>
+
+<h3><strong>Что изучать дальше</strong></h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center"><strong>Следующая тема</strong></p>
+			</td>
+			<td style="width:435px">
+			<p style="text-align:center"><strong>Зачем она нужна</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center">Academic vocabulary</p>
+			</td>
+			<td style="width:435px">
+			<p style="text-align:center">чтобы заменить слишком простые слова на точные учебные формулировки</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center">Essay structure</p>
+			</td>
+			<td style="width:435px">
+			<p style="text-align:center">чтобы строить introduction, body paragraphs and conclusion</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center">Hedging and cautious language</p>
+			</td>
+			<td style="width:435px">
+			<p style="text-align:center">чтобы не делать слишком резкие утверждения</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center">Reporting verbs</p>
+			</td>
+			<td style="width:435px">
+			<p style="text-align:center">чтобы писать The author argues / claims / suggests / demonstrates</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center">Cohesion and coherence</p>
+			</td>
+			<td style="width:435px">
+			<p style="text-align:center">чтобы текст был связным не только по словам, но и по логике</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:227px">
+			<p style="text-align:center">Paraphrasing</p>
+			</td>
+			<td style="width:435px">
+			<p style="text-align:center">чтобы пересказывать идеи без копирования и без потери смысла</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Мини-шпаргалка для ученика</strong></h2>
+</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td colspan="2" style="width:661px">
+			<p style="text-align:center"><strong>Если нужно быстро сделать фразу академичнее</strong></p>
+
+			<p style="text-align:center">1) Убери лишнее &ldquo;I think&rdquo;<br>
+			2) Добавь осторожность: may / might / appear to / tend to<br>
+			3) Замени общее слово на точное: thing &rarr; factor / issue / approach<br>
+			4) Добавь связь: however / therefore / moreover / for example<br>
+			5) Добавь ограничение: in some contexts / among beginners / to some extent<br>
+			6) Проверь, есть ли доказательство или пример</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center"><strong>Было</strong></p>
+			</td>
+			<td style="width:397px">
+			<p style="text-align:center"><strong>Стало</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">I think this is good</p>
+			</td>
+			<td style="width:397px">
+			<p style="text-align:center">This approach may be effective in specific contexts</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">This shows the idea is right</p>
+			</td>
+			<td style="width:397px">
+			<p style="text-align:center">This evidence supports the argument</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">People have problems with grammar</p>
+			</td>
+			<td style="width:397px">
+			<p style="text-align:center">Learners often experience difficulty with grammar accuracy</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">This app helps students</p>
+			</td>
+			<td style="width:397px">
+			<p style="text-align:center">This application can support vocabulary retention</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:265px">
+			<p style="text-align:center">The method is bad</p>
+			</td>
+			<td style="width:397px">
+			<p style="text-align:center">The method may be ineffective without practice</p>
+			</td>
+		</tr>
+	</tbody>
+</table>

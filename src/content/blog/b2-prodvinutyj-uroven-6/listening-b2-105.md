@@ -1,0 +1,3153 @@
+---
+title: Listening B2
+date: 19.06.2026
+category: b2-prodvinutyj-uroven-6
+categoryName: B2 — Продвинутый уровень
+order: 19
+excerpt: Fast speech, connected speech и weak forms. Как понимать быструю и связанную английскую речь.
+image: /uploads/blog/preview/6a3556f6ef878.png
+---
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Цель урока</strong></p>
+
+			<p>После этого урока ученик должен понять, почему реальная английская речь часто звучит не так, как написано в учебнике. Главная задача &mdash; научиться слышать слабые формы, сокращения, связки между словами и &ldquo;съеденные&rdquo; звуки, не теряя смысл фразы.</p>
+
+			<p>Это не урок &ldquo;как говорить небрежно&rdquo;. Это урок &ldquo;как понимать носителей, интервью, звонки, сериалы, подкасты, рабочие встречи и быстрые объяснения&rdquo;.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>Что будет в уроке</strong></h3>
+
+<ul>
+	<li>почему B2-listening часто ломается не на словах, а на связках между словами;</li>
+	<li>что такое fast speech и почему это не значит &ldquo;говорить невнятно&rdquo;;</li>
+	<li>главные элементы connected speech: linking, weak forms, contractions, assimilation, elision;</li>
+	<li>почему служебные слова часто становятся очень короткими: to, for, of, and, can, have, was, were;</li>
+	<li>как schwa ə становится главным звуком беглой английской речи;</li>
+	<li>как меняется звучание фраз в встречах, звонках, интервью и презентациях;</li>
+	<li>какие ошибки чаще всего мешают русскоговорящим понимать быстрый английский;</li>
+	<li>как тренировать слух системно, а не просто &ldquo;слушать побольше&rdquo;.</li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Главная идея урока: английский на бумаге и английский на слух &mdash; это не одно и то же</strong></h2>
+</div>
+
+<p>На уровне B2 ученик уже часто знает слова и грамматику. Проблема начинается в другом месте: он видит фразу на бумаге и понимает её, но когда ту же фразу произносит носитель, она звучит как один поток. Кажется, будто человек &ldquo;проглотил&rdquo; половину слов. На самом деле слова не исчезли. Они стали слабыми, соединились с соседними словами или изменили звук из-за скорости речи.</p>
+
+<p>Это нормально для английского. Английский &mdash; язык с сильным ритмом: важные слова получают ударение, а маленькие служебные слова часто сжимаются. Поэтому предложение звучит не как цепочка одинаково чётких слов, а как ритмическая волна: сильное слово &mdash; слабое слово &mdash; слабое слово &mdash; сильное слово.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Ключевая мысль</strong></p>
+
+			<p>Чтобы понимать быстрый английский, нужно перестать ждать, что каждое слово прозвучит отдельно и полностью. В живой речи ученик должен ловить ударные смысловые слова и узнавать слабые формы между ними.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p><strong>На бумаге ученик видит</strong></p>
+			</td>
+			<td style="width:229px">
+			<p><strong>В реальной речи часто слышит</strong></p>
+			</td>
+			<td style="width:229px">
+			<p><strong>Что надо понять</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p>I am going to call you later.</p>
+			</td>
+			<td style="width:229px">
+			<p>I&rsquo;m gonna call you later. / aɪm gənə kɔːl juː leɪtə</p>
+			</td>
+			<td style="width:229px">
+			<p>going to может звучать как gonna в разговорной речи. Смысл: план / намерение.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p>Do you want to join us?</p>
+			</td>
+			<td style="width:229px">
+			<p>D&rsquo;you wanna join us? / dʒuː wɒnə dʒɔɪn ʌs</p>
+			</td>
+			<td style="width:229px">
+			<p>do you и want to сжимаются. Смысл не меняется.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p>Can I ask you a question?</p>
+			</td>
+			<td style="width:229px">
+			<p>Can I ask you a question? / kənaɪ ɑːsk juː ə kwestʃən</p>
+			</td>
+			<td style="width:229px">
+			<p>can становится слабым kən, а can I соединяется в один кусок.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p>I have to finish it today.</p>
+			</td>
+			<td style="width:229px">
+			<p>I hafta finish it today. / aɪ h&aelig;ftə fɪnɪʃ ɪt tədeɪ</p>
+			</td>
+			<td style="width:229px">
+			<p>have to звучит как hafta, потому что это устойчивая связка обязанности.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p>What do you think of it?</p>
+			</td>
+			<td style="width:229px">
+			<p>What d&rsquo;you think of it? / wɒt dʒuː &theta;ɪŋk əv ɪt</p>
+			</td>
+			<td style="width:229px">
+			<p>do you сжимается, of часто звучит слабее, как əv.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Что такое fast speech: не скорость, а сжатие слабых элементов</strong></h2>
+</div>
+
+<p>Когда русскоговорящий ученик говорит &ldquo;они говорят слишком быстро&rdquo;, проблема часто не только в скорости. Носитель может говорить не экстремально быстро, но речь всё равно звучит слитно, потому что слабые элементы не произносятся как полные слова.</p>
+
+<p>Fast speech &mdash; это не просто много слов за секунду. В английском fast speech обычно означает, что говорящий экономит усилие: сокращает служебные слова, соединяет конец одного слова с началом другого и переносит внимание на главные смысловые слова.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Что ученик думает</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Что реально происходит</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Как это лечить</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">&ldquo;Я не знаю эти слова.&rdquo;</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Слова знакомые, но звучат в слабой форме.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Учить не только полную форму, но и слуховой вариант.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">&ldquo;Носитель проглотил слово.&rdquo;</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Служебное слово стало очень коротким: to &rarr; tə, for &rarr; fə, and &rarr; ən.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Слушать связки, а не отдельные слова.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">&ldquo;В аудио другое предложение.&rdquo;</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">На бумаге полная форма, в речи &mdash; сокращённая форма.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Сравнивать written form и spoken form.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">&ldquo;Я слышу только шум.&rdquo;</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Ученик не знает, где ударные слова, а где слабые.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Ловить ритм: сильные слова несут смысл, слабые связывают грамматику.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">&ldquo;Надо просто больше слушать.&rdquo;</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Бессистемное слушание часто не решает проблему.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Нужно разбирать конкретные звуковые явления: weak forms, linking, elision.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="/uploads/files/%D0%9D%D0%B0%20B2%20%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%20%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B5%20%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D1%83%D1%8E%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%83%D1%8E%20%D1%80%D0%B5%D1%87%D1%8C.png" style="width:768px"></p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Ритм английского: почему важные слова сильные, а маленькие слова слабые</strong></h2>
+</div>
+
+<p>Английская речь работает не как одинаковая цепочка слов. В предложении есть content words &mdash; слова, которые несут главный смысл, и function words &mdash; маленькие грамматические слова, которые помогают связать смысл. В быстрой речи content words обычно звучат сильнее, а function words часто становятся слабее.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Тип слова</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Примеры</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Как звучит в речи</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Почему это важно для listening</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Content words &mdash; смысловые слова</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">nouns, main verbs, adjectives, adverbs<br>
+			project, call, finish, important, quickly</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">обычно получают ударение и звучат яснее</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">По ним слушатель ловит основную мысль.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Function words &mdash; служебные слова</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">to, for, of, and, a, the, can, have, was, were, do</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">часто становятся короткими и слабыми</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Их сложно услышать, если ждать полную форму.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Auxiliary verbs &mdash; вспомогательные глаголы</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">am, is, are, have, has, had, do, does, did, will, would</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">часто сокращаются или звучат слабо</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Они показывают грамматику: время, вопрос, отрицание, модальность.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Pronouns &mdash; местоимения</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">he, him, her, them, you</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">могут терять начальный h или становиться слабее</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">В живой речи &ldquo;tell him&rdquo; может звучать почти как &ldquo;tellim&rdquo;.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>Как ритм меняет звучание предложения</h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Полная форма на бумаге</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Что часто слышно в живой речи</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Как понимать смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I need to speak to the manager.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I need tə speak tə the manager.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Главные слова: need, speak, manager. Два to почти не звучат как полное tuː.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">We are working on the problem.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">We&rsquo;re working on the problem.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">are сжимается в we&rsquo;re, смысловая нагрузка у working/problem.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">She has been waiting for an answer.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">She&rsquo;s been waiting fər ən answer.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">has сокращается, for и an слабые.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">They were looking at the figures.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">They wə looking ət the figures.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">were и at могут быть слабыми; главное &mdash; looking/figures.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Can you send me the file?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">kən ju send me the file?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">can в вопросе часто слабый: не k&aelig;n, а kən.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Weak forms: слабые формы, без которых быстрый английский не понять</strong></h2>
+</div>
+
+<p>Weak form &mdash; это слабое произношение служебного слова в потоке речи. Например, слово to в словаре может звучать tuː, но в реальной фразе чаще звучит tə: want to, need to, going to. То же самое происходит со словами for, of, and, can, have, was, were, as, than и многими другими.</p>
+
+<p>Русскоговорящие ученики часто пытаются услышать полные формы: &ldquo;to&rdquo; как tuː, &ldquo;for&rdquo; как fɔː, &ldquo;can&rdquo; как k&aelig;n. Но носитель в быстрой речи часто говорит слабее: tə, fə, kən. Из-за этого ученик думает, что слова нет, хотя оно есть.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Слово / связка</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Частая слабая форма</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Пример на бумаге</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Как может звучать</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">to</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">tə</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I need to check it.<br>
+			I&rsquo;m going to call him.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪ niːd tə tʃek ɪt<br>
+			aɪm gəʊɪŋ tə kɔːl hɪm</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">for</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">fə / fər перед гласной</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">This is for you.<br>
+			I waited for an hour.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">&eth;ɪs ɪz fə juː<br>
+			aɪ weɪtɪd fər ən aʊə</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">of</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">əv / ə</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">a cup of coffee<br>
+			part of it</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">ə kʌp əv kɒfi<br>
+			pɑːt əv ɪt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">and</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">ən / n</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">fish and chips<br>
+			research and development</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">fɪʃ ən tʃɪps<br>
+			rɪsɜːtʃ ən dɪveləpmənt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">a / an</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">ə / ən</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">a meeting<br>
+			an update</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">ə miːtɪŋ<br>
+			ən ʌpdeɪt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">the</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">&eth;ə / &eth;i</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">the project<br>
+			the answer</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">&eth;ə prɒdʒekt<br>
+			&eth;i ɑːnsə</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">can</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">kən</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Can you help me?<br>
+			I can send it today.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">kən ju help mi<br>
+			aɪ kən send ɪt tədeɪ</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">have</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">həv / əv</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I have to go.<br>
+			I should have called.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪ h&aelig;v tə gəʊ<br>
+			aɪ ʃʊd əv kɔːld</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">has</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">həz / əz</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">She has already left.<br>
+			He has been waiting.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">ʃi həz ɔːlredi left<br>
+			hi əz biːn weɪtɪŋ</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">had</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">həd / əd</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">They had finished.<br>
+			I had already seen it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">&eth;eɪ həd fɪnɪʃt<br>
+			aɪ əd ɔːlredi siːn ɪt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">was</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wəz</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I was thinking about it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪ wəz &theta;ɪŋkɪŋ əbaʊt ɪt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">were</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wə</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">They were talking about the plan.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">&eth;eɪ wə tɔːkɪŋ əbaʊt &eth;ə pl&aelig;n</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">do you</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">djuː / dʒuː</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Do you know what I mean?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">dʒuː nəʊ wɒt aɪ miːn</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">did you</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">dɪdʒuː</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Did you see the email?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">dɪdʒuː siː &eth;i iːmeɪl</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">would you</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wʊdʒuː</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Would you mind checking it?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wʊdʒuː maɪnd tʃekɪŋ ɪt</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear: both; text-align: center;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Тонкость</strong></p>
+
+			<p>Слабая форма обычно появляется, когда слово не несёт главного ударения. Если говорящий специально подчёркивает слово, оно может прозвучать полной формой. Например: I CAN do it &mdash; здесь can сильное, потому что говорящий подчёркивает способность.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Schwa ə: главный звук слабых форм</strong></h2>
+</div>
+
+<p>Schwa ə &mdash; это короткий нейтральный звук, который появляется в огромном количестве слабых слогов. В английском он особенно важен, потому что многие маленькие слова и безударные части длинных слов превращаются именно в ə.</p>
+
+<p>Для русского слуха schwa часто звучит как &ldquo;что-то невнятное&rdquo;. Но для английского это нормальный рабочий звук. Если ученик не узнаёт ə, ему кажется, что носитель пропустил слово. На самом деле слово прозвучало, просто в слабой форме.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Слово / фраза</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Полное ожидание ученика</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Реальное слабое звучание</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Комментарий</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">about</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">a + bout</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">əbaʊt</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Первый слог слабый.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">again</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">a + gain</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">əgen</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Первый слог слабый.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">to work</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">tuː work</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">tə wɜːk</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">to почти всегда слабое перед глаголом.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">for me</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">fɔː me</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">fə miː</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">for часто превращается в fə.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">a lot of</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">a lot of</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">ə lɒt əv</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">a и of звучат слабо.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">part of the process</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">part of the process</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">pɑːt əv &eth;ə prəʊses</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">of и the слабые, process тоже имеет слабый слог.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>На B2 особенно важно слышать schwa в длинных словах и рабочих фразах: information, presentation, development, performance, opportunity, responsible, available. В этих словах не каждый слог звучит одинаково сильно. Если ученик произносит и ожидает каждый слог как отдельный сильный звук, реальная речь будет казаться быстрее, чем она есть.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Connected speech: слова соединяются, потому что речь идёт потоком</strong></h2>
+</div>
+
+<p>Connected speech &mdash; это естественное соединение слов в потоке речи. Носитель не ставит паузу после каждого слова. Если одно слово заканчивается на согласный, а следующее начинается на гласный, они часто соединяются. Если рядом стоят неудобные звуки, один звук может измениться или исчезнуть. Это не ошибка, а нормальная механика речи.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Явление</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Что происходит</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Что слышит ученик</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Linking</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">конец одного слова соединяется с началом следующего</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">pick it up</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">pɪkɪtʌp &mdash; звучит почти как одно слово</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Weak forms</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">служебные слова становятся короткими</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I need to go</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪ niːd tə gəʊ</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Contractions</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">две формы сжимаются в одну</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I am / we are / she has</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I&rsquo;m / we&rsquo;re / she&rsquo;s</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Assimilation</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">звук меняется под влиянием соседнего звука</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">did you</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">dɪdʒuː</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Elision</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">звук исчезает или почти исчезает</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">next day</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">neks deɪ</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Intrusion</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">появляется связующий звук между гласными</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">law and order</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">lɔːr ən ɔːdə в некоторых британских акцентах</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Linking: почему &ldquo;turn it off&rdquo; звучит как одно слово</strong></h2>
+</div>
+
+<p>Linking &mdash; это соединение слов на стыке. Самый важный тип для listening: слово заканчивается на согласный, следующее начинается на гласный. В таком случае согласный как будто &ldquo;переезжает&rdquo; к следующему слову.</p>
+
+<h3>Linking в реальных фразах</h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Полная форма на бумаге</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Что часто слышно в живой речи</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Как понимать смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">turn it off</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">tur-ni-toff / tɜːn ɪt ɒf</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">n соединяется с it, t соединяется с off. Не надо ждать три отдельные паузы.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">pick it up</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">pi-ki-tup / pɪk ɪt ʌp</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">k + it и t + up соединяются.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">send it over</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">sen-di-tover / send ɪt əʊvə</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">send it часто звучит слитно.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">check it again</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">che-ki-tagain / tʃek ɪt əgen</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">check it again превращается в один быстрый поток.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">look at it</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">loo-ka-tit / lʊk ət ɪt</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">at слабое, а слова соединяются.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">work on it</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">wor-ko-nit / wɜːk ɒn ɪt</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">work on it часто звучит как один блок.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">come in early</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">cu-mi-nearly / kʌm ɪn ɜːli</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">m соединяется с in, n соединяется с early.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;"><img alt="" src="/uploads/files/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BB%D1%83%D1%85%D0%B0.png" style="width:768px"></div>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Assimilation: когда звук меняется рядом с другим звуком</strong></h2>
+</div>
+
+<p>Assimilation &mdash; это изменение одного звука под влиянием соседнего. В быстрой речи язык старается двигаться легче, поэтому некоторые сочетания превращаются в более удобные звуки. Для listening это критично, потому что ученик ищет одно звучание, а слышит другое.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>На бумаге</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Частое звучание</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Почему меняется</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Как понимать</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">did you</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">dɪdʒuː</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">d + y сливаются в звук, похожий на j</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Это не новое слово. Это did you.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">would you</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wʊdʒuː</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">d + y дают мягкое слитное звучание</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Would you mind...? часто звучит именно так.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">could you</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">kʊdʒuː</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">d + y соединяются</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Could you send it? звучит быстрее, чем пишется.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">don&rsquo;t you</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">dəʊntʃuː</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">t + y превращается в звук, похожий на ch</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Don&rsquo;t you think...? часто звучит как dontcha.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">can&rsquo;t you</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">kɑːntʃuː</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">t + y дают ch-звук</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Can&rsquo;t you see? &mdash; t не звучит отдельно.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">last year</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">lɑːstʃɪə</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">t + y соединяются</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Не искать отдельно last + year.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">next year</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">neks tʃɪə / nekstʃɪə</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">t + y может слиться</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">На слух это один блок времени.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Эти формы особенно часто встречаются в вопросах, просьбах и рабочих встречах: Did you check it? Could you send it? Would you mind explaining that? Don&rsquo;t you think we should wait? Именно поэтому ученик B2 может понимать письменную деловую фразу, но теряться в реальном звонке.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Elision: когда звук исчезает или почти исчезает</strong></h2>
+</div>
+
+<p>Elision &mdash; это выпадение звука в беглой речи. Чаще всего страдают звуки t и d в сложных стыках согласных. Это не значит, что носитель говорит &ldquo;неправильно&rdquo;. Просто в потоке речи некоторые звуки становятся слишком неудобными, особенно если вокруг уже есть другие согласные.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>На бумаге</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Как может звучать</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Что исчезает / слабеет</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Комментарий для понимания</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">next day</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">neks deɪ</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">t может почти исчезнуть</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Не ждать очень чёткого next.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">last week</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">lɑːs wiːk</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">t может быть очень слабым</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Фраза времени узнаётся по last + смысловому слову.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">facts and figures</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">f&aelig;ks ən fɪgəz</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">t в facts может исчезать, and слабое</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Очень типичная бизнес-фраза.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">kind of</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">kaɪnd əv / kaɪnə</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">d может ослабевать, of слабое</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">kind of часто звучит как kinda в разговорной речи.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">supposed to</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">səpəʊstə</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">d почти не слышно</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">be supposed to &mdash; важная B2-конструкция.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">used to</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">juːstə</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">d почти не слышно</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">used to в речи не звучит как &ldquo;used + to&rdquo; отдельно.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">must be</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">mʌs biː</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">t может ослабевать перед b</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">В модальных связках это нормально.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear: both; text-align: center;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Почему это путает учеников</strong></p>
+
+			<p>Русскоговорящий ученик часто думает: &ldquo;Если звук есть в написании, я должен его услышать&rdquo;. В реальности listening работает иначе: написание помогает, но живое произношение подчиняется ритму, скорости и удобству артикуляции.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Contractions and reductions: сокращения, которые надо узнавать автоматически</strong></h2>
+</div>
+
+<p>Contractions &mdash; это нормальные сокращения: I&rsquo;m, you&rsquo;re, he&rsquo;s, we&rsquo;ve, they&rsquo;ll, I&rsquo;d, don&rsquo;t, isn&rsquo;t, shouldn&rsquo;t. В живой речи они не являются &ldquo;детским&rdquo; или &ldquo;неправильным&rdquo; английским. В нейтральной речи они звучат естественно, особенно в разговоре, встречах, интервью и презентациях.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Полная форма</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Сокращение</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Что важно на слух</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">I am</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I&rsquo;m</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I&rsquo;m working on it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">am почти не звучит отдельно.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">you are</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">you&rsquo;re</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">You&rsquo;re right about that.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">your и you&rsquo;re могут звучать похоже; решает контекст.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">he is / he has</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">he&rsquo;s</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">He&rsquo;s responsible. / He&rsquo;s finished it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">he&rsquo;s может значить he is или he has.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">she is / she has</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">she&rsquo;s</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">She&rsquo;s available. / She&rsquo;s sent the file.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">смысл определяется следующим словом.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">we have</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">we&rsquo;ve</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">We&rsquo;ve discussed this already.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">have сжато, но грамматика Present Perfect остаётся.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">they will</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">they&rsquo;ll</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">They&rsquo;ll contact us later.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">will часто звучит как короткое l.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">I would / I had</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I&rsquo;d</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I&rsquo;d prefer to wait. / I&rsquo;d already left.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I&rsquo;d может быть would или had. Смотри на следующий глагол.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">should have</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">should&rsquo;ve</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I should&rsquo;ve checked it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">На слух часто похоже на should of, но грамматически это should have.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">would have</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">would&rsquo;ve</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">It would&rsquo;ve helped.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">В быстрой речи have становится əv.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">could have</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">could&rsquo;ve</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">We could&rsquo;ve done it earlier.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">could&rsquo;ve = could have, не could of.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<p><img alt="" src="/uploads/files/%D0%B2%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D1%81%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20modal%20perfect.png" style="width:768px"></p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Длинные B2-фразы: как они сжимаются в реальной речи</strong></h2>
+</div>
+
+<p>На B2 проблема часто не в коротких фразах, а в длинных предложениях, где несколько слабых форм идут подряд. Ученик теряет начало, потом не успевает поймать середину, и к концу предложения уже не понимает общую мысль. Поэтому важно видеть, как длинная фраза разбивается на смысловые блоки.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Полная фраза</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Более реальное звучание</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Смысловые блоки</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I was going to ask you about the report.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I was gonna ask you about the report.<br>
+			aɪ wəz gənə ɑːsk juː əbaʊt &eth;ə rɪpɔːt</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I was gonna ask you / about the report</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">We have been working on it for a while.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">We&rsquo;ve been working on it for a while.<br>
+			wiːv bɪn wɜːkɪŋ ɒn ɪt fər ə waɪl</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">We&rsquo;ve been working / on it / for a while</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Could you send me the updated version?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Could you send me the updated version?<br>
+			kʊdʒuː send mi &eth;i ʌpdeɪtɪd vɜːʃən</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Could you send me / the updated version</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I should have mentioned it earlier.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I should&rsquo;ve mentioned it earlier.<br>
+			aɪ ʃʊd əv menʃənd ɪt ɜːliə</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I should&rsquo;ve mentioned it / earlier</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">They are supposed to get back to us today.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">They&rsquo;re supposed to get back to us today.<br>
+			&eth;eə səpəʊstə get b&aelig;k tə ʌs tədeɪ</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">They&rsquo;re supposed to / get back to us / today</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Do you know what I am talking about?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">D&rsquo;you know what I&rsquo;m talking about?<br>
+			dʒuː nəʊ wɒt aɪm tɔːkɪŋ əbaʊt</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">D&rsquo;you know / what I&rsquo;m talking about</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">It would have been better to wait.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">It would&rsquo;ve been better to wait.<br>
+			ɪt wʊd əv bɪn betə tə weɪt</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">It would&rsquo;ve been better / to wait</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I am not sure if we can afford it.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I&rsquo;m not sure if we can afford it.<br>
+			aɪm nɒt ʃɔːr ɪf wi kən əfɔːd ɪt</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I&rsquo;m not sure / if we can afford it</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Business listening: как это звучит на встречах, звонках и презентациях</strong></h2>
+</div>
+
+<p>В деловой речи люди часто используют вежливые формулы, модальные глаголы, вводные фразы и мягкие конструкции. На бумаге они выглядят длинно и красиво, но в реальном звонке они звучат сжато. Поэтому ученик должен узнавать не только отдельные слова, но и целые рабочие chunks.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Рабочая ситуация</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Фраза на бумаге</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Что часто слышно</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Что должен понять ученик</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Просьба</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Could you send me the details?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">kʊdʒuː send mi &eth;ə diːteɪlz</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Could you = просьба, не отдельные could + you.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Уточнение</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">What do you mean by that?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wɒt dʒuː miːn baɪ &eth;&aelig;t</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">do you сливается, главные слова: what, mean, that.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Согласование</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Let&rsquo;s go through the main points.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">lets gəʊ &theta;ruː &eth;ə meɪn pɔɪnts</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">go through &mdash; фразовый глагол &ldquo;пройтись по&rdquo;.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Дедлайн</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">We need to have it ready by Friday.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wi niːd tə h&aelig;v ɪt redi baɪ fraɪdeɪ</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">need to звучит как niːd tə.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Follow-up</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I just wanted to follow up on my email.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪ dʒʌst wɒntɪd tə fɒləʊ ʌp ɒn maɪ iːmeɪl</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wanted to может звучать слабо и быстро.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Несогласие</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I am not sure I agree with that.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪm nɒt ʃɔːr aɪ əgriː wɪ&eth; &eth;&aelig;t</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I&rsquo;m not sure &mdash; мягкое несогласие.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Предложение</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Why don&rsquo;t we look at it again?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">waɪ dəʊnt wi lʊk ət ɪt əgen</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">don&rsquo;t we и at it часто звучат слитно.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Итог</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">So, what we need to do is...</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">səʊ wɒt wi niːd tə duː ɪz</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">need to слабо, но структура вводит итог.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Mini-сценарии: как ученик должен &ldquo;собирать&rdquo; смысл из потока</strong></h2>
+</div>
+
+<p>Ниже не упражнения, а модели мышления. В реальной речи ученик не обязан идеально услышать каждое маленькое слово с первого раза. Он должен поймать смысловые опоры, восстановить грамматику и понять намерение говорящего.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Сценарий 1. Встреча по проекту</strong></p>
+
+			<p>Фраза: I was going to ask you if we could move the deadline.</p>
+
+			<p>На слух: aɪ wəz gənə ɑːsk juː ɪf wi kʊd muːv &eth;ə dedlaɪn</p>
+
+			<p>Смысл: человек хотел спросить, можно ли перенести дедлайн.</p>
+
+			<p>Что ловить: going to &rarr; gənə, could слабое, главные слова ask / move / deadline.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Сценарий 2. Рабочий звонок</strong></p>
+
+			<p>Фраза: Could you walk me through the numbers again?</p>
+
+			<p>На слух: kʊdʒuː wɔːk mi &theta;ruː &eth;ə nʌmbəz əgen</p>
+
+			<p>Смысл: &ldquo;Можешь ещё раз провести меня по цифрам?&rdquo;</p>
+
+			<p>Что ловить: could you &rarr; kʊdʒuː, walk me through &mdash; устойчивый деловой chunk.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Сценарий 3. Обратная связь</strong></p>
+
+			<p>Фраза: I think we should have checked this earlier.</p>
+
+			<p>На слух: aɪ &theta;ɪŋk wi ʃʊd əv tʃekt &eth;ɪs ɜːliə</p>
+
+			<p>Смысл: &ldquo;Думаю, нам надо было проверить это раньше.&rdquo;</p>
+
+			<p>Что ловить: should have &rarr; ʃʊd əv, checked this соединяется.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Сценарий 4. Презентация</strong></p>
+
+			<p>Фраза: What I would like to focus on today is customer retention.</p>
+
+			<p>На слух: wɒt aɪ wʊd laɪk tə fəʊkəs ɒn tədeɪ ɪz kʌstəmə rɪtenʃən</p>
+
+			<p>Смысл: спикер говорит, на чём он хочет сфокусироваться.</p>
+
+			<p>Что ловить: would like to, focus on, today is &mdash; блоки связанной речи.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Сценарий 5. Обсуждение проблемы</strong></p>
+
+			<p>Фраза: There seems to be a bit of a misunderstanding.</p>
+
+			<p>На слух: &eth;eə siːmz tə biː ə bɪt əv ə mɪsʌndəst&aelig;ndɪŋ</p>
+
+			<p>Смысл: &ldquo;Похоже, есть небольшое недопонимание.&rdquo;</p>
+
+			<p>Что ловить: seems to, bit of a, misunderstanding &mdash; вежливая деловая формула.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Частые ошибки русскоговорящих учеников в Listening B2</strong></h2>
+</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Ошибка</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Как она мешает слуху</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Правильная привычка</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Ждать каждое слово отдельно</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Ученик слышит поток и думает, что половина слов исчезла.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Слушать chunks: I&rsquo;m gonna, could you, need to, have to, should&rsquo;ve.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Ожидать полное произношение служебных слов</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">to, for, of, and, can звучат не так, как в словаре.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Запомнить слабые формы: tə, fə, əv, ən, kən.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Не узнавать schwa ə</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Многие короткие слова превращаются в нейтральный звук.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Считать ə нормальным центром английской беглой речи.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Слишком сильно опираться на написание</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Written English и spoken English не совпадают один к одному.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Сравнивать письменный вид и реальное звучание.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Думать, что gonna/wanna всегда &ldquo;плохой английский&rdquo;</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Ученик не узнаёт частые разговорные формы.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Понимать их на слух, даже если в своей речи использовать более нейтральные формы.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Слушать только медленные учебные аудио</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Реальный звонок или сериал всё равно кажется шоком.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Переходить к естественной скорости постепенно, с разбором.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Пытаться переводить каждое слово сразу</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Мозг не успевает за потоком.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Сначала ловить смысловые опоры, потом уточнять детали.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Не различать strong form и weak form</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">can и can&rsquo;t, have и have to, was/were звучат непредсказуемо.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Смотреть на ударение и контекст.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Can и can&rsquo;t: почему это отдельная боль для слуха</strong></h2>
+</div>
+
+<p>Одна из самых неприятных тем в listening &mdash; различение can и can&rsquo;t. В быстрой речи can часто слабый: kən. А can&rsquo;t обычно сильнее, потому что отрицание важно для смысла. Но в разных акцентах и скоростях это всё равно может быть сложно.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Типичное звучание</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Как ловить смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I can do it.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">aɪ kən duː ɪt</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">can слабый, ударение на do.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I can&rsquo;t do it.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">aɪ kɑːnt duː ɪt</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">can&rsquo;t обычно сильнее, отрицание несёт смысл.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">We can send it today.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">wi kən send ɪt tədeɪ</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">can слабый; главное send today.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">We can&rsquo;t send it today.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">wi kɑːnt send ɪt tədeɪ</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">can&rsquo;t сильнее; возможна пауза или усиление.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Can you help?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">kən ju help</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">в вопросе can часто слабый.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">You can&rsquo;t be serious.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">ju kɑːnt bi sɪəriəs</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">can&rsquo;t сильное, потому что это реакция/оценка.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<p><img alt="" src="/uploads/files/%D0%9D%D0%B5%20%D0%BF%D1%8B%D1%82%D0%B0%D0%B9%D1%81%D1%8F%20%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0%20%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20can.png" style="width:768px"></p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Грамматика на слух: как слабые формы меняют восприятие времён</strong></h2>
+</div>
+
+<p>На B2 listening тесно связан с грамматикой. Ученик может знать Present Perfect, Past Perfect, modal perfect и passive voice, но не узнавать их на слух, потому что have, has, had, been, be часто звучат слабо или сжато.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Грамматика</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Письменный вариант</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Устный вариант</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Почему ученик теряется</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Present Perfect</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">We have already discussed it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">We&rsquo;ve already discussed it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">have исчезает как отдельное слово.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Present Perfect Passive</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">It has been approved.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">It&rsquo;s been approved.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">has сокращается до &rsquo;s, been звучит быстро.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Past Perfect</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">They had already left.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">They&rsquo;d already left.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">had превращается в &rsquo;d.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Future in the Past</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I thought it would be easier.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I thought it&rsquo;d be easier.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">would превращается в &rsquo;d.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Modal Perfect</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">You should have told me.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">You should&rsquo;ve told me.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">have звучит как əv.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Passive with modal</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">It can be done today.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">It can be done today.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">can слабый, be короткое.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Have to</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">We have to change it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">We hafta change it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">have to звучит как единый блок обязанности.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Supposed to</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">They are supposed to call us.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">They&rsquo;re supposed to call us.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">supposed to звучит как səpəʊstə.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Как мыслит носитель: смысл важнее каждого отдельного слова</strong></h2>
+</div>
+
+<p>Носитель не воспринимает фразу как набор отдельных слов, напечатанных в голове. Он слышит готовые блоки. Например, &ldquo;Could you...&rdquo;, &ldquo;I was going to...&rdquo;, &ldquo;We need to...&rdquo;, &ldquo;It would have been...&rdquo; &mdash; это не механическая сборка из отдельных слов, а знакомые звуковые шаблоны.</p>
+
+<p>Поэтому B2-ученику полезно тренировать именно шаблоны. Когда мозг узнаёт блок целиком, скорость речи перестаёт казаться такой страшной. Ты не расшифровываешь каждую букву &mdash; ты узнаёшь знакомую форму.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Ученик A2/B1 часто делает так</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>B2-слушатель должен делать так</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Ловит каждое слово по отдельности.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Ловит смысловые блоки.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I was going to / ask you / about the report.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Сразу переводит на русский.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Сначала понимает функцию фразы.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Could you...? = просьба. I&rsquo;m not sure... = мягкое несогласие.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Паникует из-за пропущенного слова.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Восстанавливает слабое слово по грамматике.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">need ... go &rarr; need to go.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Слышит &ldquo;непонятный шум&rdquo;.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Ищет знакомые chunks.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">should&rsquo;ve, would&rsquo;ve, have to, supposed to.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Думает, что акцент &mdash; это главная проблема.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Сначала разбирает универсальные явления connected speech.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">linking, weak forms, elision работают во многих акцентах.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Алгоритм понимания быстрой речи: что делать мозгом во время listening</strong></h2>
+</div>
+
+<p>Главная ошибка &mdash; пытаться понять быструю речь линейно, слово за словом, без стратегии. Лучше идти по слоям. Сначала поймать тему и опорные слова, потом грамматику, потом детали. Именно так мозг постепенно перестаёт паниковать.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Шаг</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Что делать</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Пример мышления</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">1. Поймать ударные слова</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Сначала слушать nouns, main verbs, adjectives.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">heard: send / file / today &rarr; речь про отправку файла сегодня.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">2. Узнать готовый chunk</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Искать знакомые блоки: could you, need to, going to, should have.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">kʊdʒuː = could you, просьба.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">3. Восстановить слабые слова</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Если между сильными словами &ldquo;дырка&rdquo;, там часто to/for/of/and/a/the.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">need ... finish &rarr; need to finish.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">4. Проверить грамматику</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Слушать сокращения: &rsquo;ve, &rsquo;d, &rsquo;ll, should&rsquo;ve.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">we&rsquo;ve done = Present Perfect; we&rsquo;d done = Past Perfect.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">5. Проверить намерение</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Понять функцию: просьба, отказ, предложение, дедлайн, уточнение.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I&rsquo;m not sure I agree = мягкое несогласие.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">6. Только потом переводить детали</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Не переводить каждое слово в моменте, иначе потеряешь следующее предложение.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Сначала смысл, потом точность.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>База частых spoken chunks для B2 listening</strong></h2>
+</div>
+
+<p>Эти блоки нужно узнавать не как отдельные слова, а как готовые звуковые куски. Они часто встречаются в интервью, сериалах, подкастах, рабочих звонках и презентациях.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Spoken chunk</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Что значит / зачем нужно</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I&rsquo;m gonna...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I&rsquo;m gonna check it later.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I am going to &mdash; намерение / план.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Do you wanna...?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Do you wanna join us?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Do you want to &mdash; предложение / приглашение.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I&rsquo;ve gotta...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I&rsquo;ve gotta go.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I have got to &mdash; необходимость.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I hafta...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I hafta finish this.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I have to &mdash; обязанность.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I kinda...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I kinda agree.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">kind of &mdash; немного / вроде как.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I dunno.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I dunno what happened.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I don&rsquo;t know &mdash; быстрая разговорная форма.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Could you...?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Could you take a look?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">вежливая просьба.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Would you mind...?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Would you mind waiting?</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">очень вежливая просьба.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I was wondering if...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I was wondering if you could help.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">мягкое начало просьбы.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Let me know...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Let me know what you think.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">сообщи мне / дай знать.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">I&rsquo;ll get back to you.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I&rsquo;ll get back to you tomorrow.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">я вернусь с ответом.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">We&rsquo;re supposed to...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">We&rsquo;re supposed to start at nine.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">ожидается / по плану / должны.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">It turns out...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">It turns out we were wrong.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">оказалось, что...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">As far as I know...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">As far as I know, it&rsquo;s ready.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">насколько я знаю.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">To be honest...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">To be honest, I&rsquo;m not sure.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">если честно.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">At the end of the day...</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">At the end of the day, it&rsquo;s about trust.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">в конечном счёте.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Почему нельзя учить listening только по медленной озвучке</strong></h2>
+</div>
+
+<p>Медленная учебная озвучка полезна на старте. Но если ученик долго остаётся только на ней, возникает опасная иллюзия: &ldquo;Я понимаю английский&rdquo;. Потом он включает обычное интервью, звонок или сериал и снова ничего не понимает. Это происходит потому, что учебная озвучка часто убирает именно те явления, которые составляют реальную речь: weak forms, linking, contractions, elision.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Учебная медленная речь</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Реальная речь</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Что должен сделать B2-ученик</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Каждое слово произносится отдельно.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Слова соединяются.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Учиться слышать фразы блоками.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">to, for, of звучат почти полностью.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">to &rarr; tə, for &rarr; fə, of &rarr; əv/ə.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Автоматически узнавать слабые формы.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Сокращений мало.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">I&rsquo;m, we&rsquo;ve, they&rsquo;d, should&rsquo;ve звучат постоянно.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Не бояться сокращений.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Паузы помогают понять структуру.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Паузы короче, мысль идёт потоком.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Ловить сигнальные слова: so, actually, basically, however, I mean.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">Акцент нейтральный.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Акценты разные.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Сначала освоить общие механизмы connected speech.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Сигнальные слова, которые помогают не потеряться в потоке</strong></h2>
+</div>
+
+<p>В быстрой речи очень помогают discourse markers &mdash; слова и фразы, которые показывают структуру мысли. Они часто не несут факта, но показывают направление: человек добавляет, уточняет, спорит, делает вывод, меняет тему или смягчает мысль.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Сигнал</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Что показывает</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Как звучит в потоке</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">actually</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">уточнение / мягкое исправление</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Actually, I think we should wait.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">&aelig;ktʃuəli может звучать быстро и слабо в середине фразы.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">basically</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">упрощение главной мысли</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Basically, we need more time.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">часто вводит итог простыми словами.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">I mean</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">пояснение / переформулировка</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I mean, it&rsquo;s not impossible.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">может звучать как aɪ miːn без большой паузы.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">you know</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">заполнитель / общий контакт</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">It&rsquo;s, you know, a bit complicated.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">не всегда несёт новый смысл.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">sort of / kind of</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">смягчение</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">It&rsquo;s kind of risky.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">часто звучит как kinda.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">however</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">контраст</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">However, there is one problem.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">сигнал: сейчас будет противопоставление.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">so</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">вывод / переход</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">So, what we need to do is...</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">помогает поймать структуру.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">anyway</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">возврат к теме / завершение</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Anyway, let&rsquo;s move on.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">сигнал смены части разговора.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Акценты: почему один и тот же connected speech звучит по-разному</strong></h2>
+</div>
+
+<p>На B2 важно понимать: connected speech существует в разных акцентах, но детали могут отличаться. В британском английском linking r и intrusive r могут быть заметны в некоторых акцентах. В американском английском t между гласными часто звучит иначе, ближе к быстрому d. В разных регионах гласные тоже будут отличаться.</p>
+
+<p>Но базовые принципы остаются: слабые служебные слова, сжатые вспомогательные глаголы, linking, elision и chunks. Поэтому сначала нужно выучить общую механику, а потом уже привыкать к акцентам.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Явление</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Британский вариант</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Американский вариант</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Что важно ученику</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">linking r</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">far away может звучать с r-связкой</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">r обычно произносится сильнее в любом случае</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Не пугаться дополнительного r-звука.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">intrusive r</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">law and order может звучать как lɔːr ən ɔːdə в некоторых акцентах</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">обычно менее характерно как отдельная тема</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Это не слово are, а связующий звук.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">t between vowels</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">water может звучать с более чётким t в учебном BrE</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">water часто звучит ближе к wɑːdər</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">В разных акцентах t меняется.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">can/can&rsquo;t</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">can&rsquo;t часто kɑːnt</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">can&rsquo;t часто k&aelig;nt</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Слушать контекст и ударение.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">schedule</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">ʃedjuːl часто в BrE</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">skedʒuːl часто в AmE</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Разные варианты слова не должны ломать понимание.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Как тренировать Listening B2 системно</strong></h2>
+</div>
+
+<p>Просто &ldquo;слушать английский каждый день&rdquo; полезно, но недостаточно. Если ученик не понимает, что именно происходит со звуками, он может слушать месяцами и продолжать слышать тот же &ldquo;комок&rdquo;. Системная тренировка должна идти через разбор.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Этап</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Что делать</strong></p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center"><strong>Зачем</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">1. Сначала увидеть текст</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Прочитать фразу и понять грамматику.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Убрать проблему смысла.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">2. Послушать в нормальной скорости</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Не пытаться сразу услышать каждое слово.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Понять общий поток.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">3. Отметить слабые формы</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">to, for, of, and, can, have, was, were.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Понять, что &ldquo;пропало&rdquo;.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">4. Отметить linking</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">turn it off, look at it, work on it.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Увидеть, где слова склеились.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">5. Повторить кусками</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Не всё предложение сразу, а chunks.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Мозг запоминает звуковой шаблон.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">6. Слушать без текста</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Проверить, узнаётся ли фраза на слух.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Закрепить автоматическое распознавание.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:229px">
+			<p style="text-align:center">7. Перейти к новой скорости / акценту</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Слушать похожую фразу у другого говорящего.</p>
+			</td>
+			<td style="width:229px">
+			<p style="text-align:center">Расширить устойчивость слуха.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Правильная цель тренировки</strong></p>
+
+			<p>Цель не в том, чтобы ученик красиво повторял все редукции. Цель в том, чтобы он узнавал их на слух и не терял смысл в реальной речи.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Большой блок примеров: written English &rarr; spoken English</strong></h2>
+</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Полная форма</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Живая spoken form</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Примерное звучание</strong></p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center"><strong>Смысл</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">I am going to look into it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I&rsquo;m gonna look into it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪm gənə lʊk ɪntə ɪt</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Я собираюсь этим заняться / изучить это.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">We need to talk about it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">We need tə talk about it.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wi niːd tə tɔːk əbaʊt ɪt</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Нам нужно поговорить об этом.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Could you give me a minute?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Could you give me a minute?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">kʊdʒuː gɪv mi ə mɪnɪt</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Можешь дать мне минуту?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">I should have done it earlier.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I should&rsquo;ve done it earlier.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪ ʃʊd əv dʌn ɪt ɜːliə</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Мне надо было сделать это раньше.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">What are you talking about?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">What&rsquo;re you talking about?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wɒt ə juː tɔːkɪŋ əbaʊt</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">О чём ты говоришь?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">They are supposed to arrive soon.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">They&rsquo;re supposed to arrive soon.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">&eth;eə səpəʊstə əraɪv suːn</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Они должны скоро приехать / ожидается, что они приедут.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">I do not know what happened.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I don&rsquo;t know what happened.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪ dəʊn nəʊ wɒt h&aelig;pənd</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Я не знаю, что произошло.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Let us go through the details.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Let&rsquo;s go through the details.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">lets gəʊ &theta;ruː &eth;ə diːteɪlz</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Давай пройдёмся по деталям.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">I want to ask you something.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I wanna ask you something.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪ wɒnə ɑːsk juː sʌm&theta;ɪŋ</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Я хочу кое-что спросить.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Do you have any questions?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">D&rsquo;you have any questions?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">dʒuː h&aelig;v eni kwestʃənz</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">У тебя есть вопросы?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">We have been waiting for an update.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">We&rsquo;ve been waiting for an update.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wiːv bɪn weɪtɪŋ fər ən ʌpdeɪt</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Мы ждём обновление / ответ.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">It is kind of difficult.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">It&rsquo;s kinda difficult.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">ɪts kaɪndə dɪfɪkəlt</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Это вроде как сложно.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">I have to leave in ten minutes.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">I hafta leave in ten minutes.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">aɪ h&aelig;ftə liːv ɪn ten mɪnɪts</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Мне нужно уйти через десять минут.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">Would you like to join us?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Would you like tə join us?</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">wʊdʒuː laɪk tə dʒɔɪn ʌs</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Хочешь присоединиться к нам?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:172px">
+			<p style="text-align:center">It would have been a good idea.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">It would&rsquo;ve been a good idea.</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">ɪt wʊd əv bɪn ə gʊd aɪdɪə</p>
+			</td>
+			<td style="width:172px">
+			<p style="text-align:center">Это была бы хорошая идея.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear: both; text-align: center;">&nbsp;</div>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h3><strong>Краткий итог урока</strong></h3>
+
+<ul>
+	<li>Fast speech &mdash; это не только скорость, а сжатие слабых элементов в речи.</li>
+	<li>Connected speech делает слова связанными: turn it off, pick it up, work on it звучат как единые блоки.</li>
+	<li>Weak forms &mdash; одна из главных причин, почему ученик не слышит знакомые слова.</li>
+	<li>Schwa ə &mdash; центральный звук слабых форм и безударных слогов.</li>
+	<li>Служебные слова часто звучат слабо: to &rarr; tə, for &rarr; fə, of &rarr; əv/ə, and &rarr; ən, can &rarr; kən.</li>
+	<li>Contractions вроде I&rsquo;m, we&rsquo;ve, they&rsquo;d, should&rsquo;ve нужно узнавать мгновенно.</li>
+	<li>Assimilation и elision объясняют, почему did you звучит как dɪdʒuː, а next day может звучать как neks deɪ.</li>
+	<li>B2-listening требует слушать не отдельные слова, а chunks, ритм и намерение говорящего.</li>
+</ul>
+</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:687px">
+			<p><strong>Финальная мысль</strong></p>
+
+			<p>Если ученик знает английские слова, но не понимает быструю речь, значит проблема часто не в словаре. Проблема в том, что мозг ждёт письменный английский, а слышит живой английский. Этот урок учит мосту между ними.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<h3><strong>Что изучать дальше</strong></h3>
+
+<ul>
+	<li>Listening B2 на реальных интервью: как понимать длинные ответы и перебивания;</li>
+	<li>Discourse markers в живой речи: actually, basically, anyway, I mean, you know;</li>
+	<li>Advanced pronunciation: sentence stress, intonation and contrastive stress;</li>
+	<li>Business meetings listening: как понимать звонки, обсуждения, follow-up и feedback;</li>
+	<li>Idioms and natural spoken English: как распознавать устойчивые разговорные блоки</li>
+</ul>

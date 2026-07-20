@@ -1,0 +1,24 @@
+---
+interface Category {
+    slug: string;
+    name: string;
+}
+
+interface Props {
+    categories: Category[];
+    activeSlug?: string;
+}
+
+const { categories, activeSlug = 'all' } = Astro.props;
+---
+
+<ul class="categories">
+    <li class={activeSlug === 'all' ? 'active' : ''}>
+        <a href="/blog">Все</a>
+    </li>
+    {categories.map((cat) => (
+        <li class={activeSlug === cat.slug ? 'active' : ''}>
+            <a href={`/blog/${cat.slug}`}>{cat.name}</a>
+        </li>
+    ))}
+</ul>

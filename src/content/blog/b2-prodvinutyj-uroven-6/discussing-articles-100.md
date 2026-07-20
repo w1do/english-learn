@@ -1,0 +1,2176 @@
+---
+title: Discussing Articles
+date: 18.06.2026
+category: b2-prodvinutyj-uroven-6
+categoryName: B2 — Продвинутый уровень
+order: 14
+excerpt: "Как обсуждать статьи на английском: формулировать мнение, реагировать на чужие идеи и вести содержательный разговор."
+image: /uploads/blog/preview/6a33c73142ae8.png
+---
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:710px">
+			<p><strong>Главная мысль урока</strong></p>
+
+			<p>Обсуждать статью на английском - это не просто сказать &ldquo;interesting article&rdquo;. Нужно уметь коротко пересказать главную мысль, объяснить позицию автора, выразить своё мнение, согласиться или не согласиться, задать умный вопрос и связать статью с реальной жизнью.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>Цель урока</strong></h3>
+
+<p>После этого урока ученик должен понимать, как говорить о статье на английском: как назвать тему, как пересказать содержание, как выделить главную идею, как обсудить аргументы автора, как говорить о данных, примерах, выводах, сильных и слабых сторонах текста.</p>
+
+<p>Это навык для уроков английского, собеседований, университета, работы, чтения новостей, обсуждения исследований, блогов, отчётов, аналитики и любых материалов, где нужно не просто прочитать текст, а показать, что ты понял его смысл.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Что значит discuss an article простыми словами</strong></h2>
+</div>
+
+<p>Discuss an article значит не &ldquo;перевести статью&rdquo;. Это значит поговорить о статье: о чём она, что утверждает автор, какие аргументы использует, насколько статья убедительна, с чем ты согласен, с чем не согласен и какой вопрос остаётся после чтения.</p>
+
+<p>На русском ученик часто говорит: &ldquo;Статья про экономику. Нормальная статья. Я согласен&rdquo;. На английском этого мало. Взрослая речь звучит так: &ldquo;The article focuses on the recent changes in the economy. The author argues that prices are rising mainly because of supply problems. I partly agree with this point, but I think the article does not pay enough attention to consumer demand.&rdquo;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center"><strong>Слабое обсуждение</strong></p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center"><strong>Сильное обсуждение</strong></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center"><strong>Что добавилось</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">It is about technology.</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The article discusses how artificial intelligence is changing the job market.</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Тема стала точной.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">I agree.</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">I agree with the author&rsquo;s main point because the examples are realistic.</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Появилась причина.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">It is good.</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The article is useful, but some arguments need stronger evidence.</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Появилась оценка качества аргументов.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">The author says many things.</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The author argues that online education can be effective if students have structure and feedback.</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Появилась главная идея.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">I do not like it.</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">I am not fully convinced by the conclusion because it ignores several important risks.</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Несогласие звучит взросло, не эмоционально.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Главная формула обсуждения статьи</strong></h2>
+</div>
+
+<p><img alt="" src="/uploads/files/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%20Topic%20%2B%20main%20idea%20%2B%20author%E2%80%99s%20argument.png" style="width:768px"></p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:691px">
+			<p><strong>Формула</strong></p>
+
+			<p>Topic + main idea + author&rsquo;s argument + evidence + your opinion + question / conclusion</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>По-русски: тема + главная мысль + аргумент автора + доказательства + твоё мнение + вопрос или вывод. Если ученик держит эту формулу в голове, обсуждение перестаёт быть хаотичным.</p>
+
+<p>Пример: &ldquo;The article is about social media and teenagers. The author argues that social media can damage concentration. The article gives examples from schools and mentions recent studies. I agree with the general idea, but I think the article is too negative. A useful question is: how can teenagers use social media without losing focus?&rdquo;</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Виды текстов: article, post, report, essay, review</strong></h2>
+</div>
+
+<p>Слово article часто переводят как &ldquo;статья&rdquo;, но в английском важно понимать, какой именно текст обсуждается. Статья в новостях, академическая статья, блог-пост и отчёт обсуждаются немного разными словами.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:149px">
+			<p style="text-align:center"><strong>Тип текста</strong></p>
+			</td>
+			<td style="width:288px">
+			<p style="text-align:center"><strong>Что это</strong></p>
+			</td>
+			<td style="width:274px">
+			<p style="text-align:center"><strong>Как говорить</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:149px">
+			<p style="text-align:center">article</p>
+			</td>
+			<td style="width:288px">
+			<p style="text-align:center">Статья в газете, журнале, на сайте или в учебнике.</p>
+			</td>
+			<td style="width:274px">
+			<p style="text-align:center">The article discusses... / The article focuses on...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:149px">
+			<p style="text-align:center">news article</p>
+			</td>
+			<td style="width:288px">
+			<p style="text-align:center">Новостная статья о событии.</p>
+			</td>
+			<td style="width:274px">
+			<p style="text-align:center">The article reports on... / According to the article...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:149px">
+			<p style="text-align:center">academic article</p>
+			</td>
+			<td style="width:288px">
+			<p style="text-align:center">Научная или учебная статья с исследованием.</p>
+			</td>
+			<td style="width:274px">
+			<p style="text-align:center">The study suggests... / The authors claim...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:149px">
+			<p style="text-align:center">blog post</p>
+			</td>
+			<td style="width:288px">
+			<p style="text-align:center">Личный или экспертный пост в блоге.</p>
+			</td>
+			<td style="width:274px">
+			<p style="text-align:center">The writer shares an opinion about...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:149px">
+			<p style="text-align:center">report</p>
+			</td>
+			<td style="width:288px">
+			<p style="text-align:center">Отчёт с данными, выводами и рекомендациями.</p>
+			</td>
+			<td style="width:274px">
+			<p style="text-align:center">The report shows... / The data indicates...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:149px">
+			<p style="text-align:center">review</p>
+			</td>
+			<td style="width:288px">
+			<p style="text-align:center">Обзор книги, фильма, продукта, сервиса.</p>
+			</td>
+			<td style="width:274px">
+			<p style="text-align:center">The review evaluates... / The reviewer points out...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:149px">
+			<p style="text-align:center">essay</p>
+			</td>
+			<td style="width:288px">
+			<p style="text-align:center">Аргументированный текст на тему.</p>
+			</td>
+			<td style="width:274px">
+			<p style="text-align:center">The essay argues that... / The writer supports this idea with...</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Как начать обсуждение статьи</strong></h2>
+</div>
+
+<p>Начало обсуждения должно быстро дать слушателю контекст. Не надо начинать с деталей. Сначала назови тему и общий фокус текста.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:230px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center"><strong>Перевод</strong></p>
+			</td>
+			<td style="width:269px">
+			<p style="text-align:center"><strong>Когда использовать</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:230px">
+			<p style="text-align:center"><a href="/uploads/files/The%20article%20is%20about....mp3">The article is about...</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Статья о...</p>
+			</td>
+			<td style="width:269px">
+			<p style="text-align:center">Самое простое начало.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:230px">
+			<p style="text-align:center"><a href="/uploads/files/The%20article%20discusses....mp3">The article discusses...</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Статья обсуждает...</p>
+			</td>
+			<td style="width:269px">
+			<p style="text-align:center">Когда статья разбирает тему.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:230px">
+			<p style="text-align:center"><a href="/uploads/files/The%20article%20focuses%20on....mp3">The article focuses on...</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Статья сосредоточена на...</p>
+			</td>
+			<td style="width:269px">
+			<p style="text-align:center">Когда нужно показать основной фокус.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:230px">
+			<p style="text-align:center"><a href="/uploads/files/The%20article%20deals%20with....mp3">The article deals with...</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Статья касается...</p>
+			</td>
+			<td style="width:269px">
+			<p style="text-align:center">Нейтрально, чуть более формально.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:230px">
+			<p style="text-align:center"><a href="/uploads/files/The%20article%20raises%20the%20issue%20of....mp3">The article raises the issue of...</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Статья поднимает проблему...</p>
+			</td>
+			<td style="width:269px">
+			<p style="text-align:center">Когда есть социальная, научная или спорная тема.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:230px">
+			<p style="text-align:center"><a href="/uploads/files/The%20article%20looks%20at....mp3">The article looks at...</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">Статья рассматривает...</p>
+			</td>
+			<td style="width:269px">
+			<p style="text-align:center">Живой нейтральный вариант.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>10 готовых начал</strong></h3>
+
+<ul>
+	<li>The article is about the impact of technology on education.</li>
+	<li>The article discusses the problem of rising prices.</li>
+	<li>The article focuses on how people learn languages online.</li>
+	<li>The article deals with the relationship between sleep and productivity.</li>
+	<li>The article raises the issue of mental health at work.</li>
+	<li>The article looks at the reasons why people change careers.</li>
+	<li>The article reports on new changes in the job market.</li>
+	<li>The article explores the benefits and risks of artificial intelligence.</li>
+	<li>The article compares traditional education with online learning.</li>
+	<li>The article examines why many people struggle with long-term motivation.</li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Как пересказать статью кратко</strong></h2>
+</div>
+
+<p>Краткий пересказ - это не подробный перевод каждого абзаца. Summary должно передавать главную мысль и самые важные детали. Хороший пересказ отвечает на вопрос: &ldquo;Что должен знать человек, который не читал статью?&rdquo;</p>
+
+<p><img alt="" src="/uploads/files/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%20summary.png" style="width:768px"></p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:158px">
+			<p style="text-align:center"><strong>Функция</strong></p>
+			</td>
+			<td style="width:245px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px">
+			<p style="text-align:center">Назвать тему</p>
+			</td>
+			<td style="width:245px">
+			<p style="text-align:center">The article is about...</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The article is about the future of online education.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px">
+			<p style="text-align:center">Назвать главную мысль</p>
+			</td>
+			<td style="width:245px">
+			<p style="text-align:center">The main idea is that...</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The main idea is that online courses need structure.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px">
+			<p style="text-align:center">Позиция автора</p>
+			</td>
+			<td style="width:245px">
+			<p style="text-align:center">The author argues that...</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The author argues that motivation alone is not enough.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px">
+			<p style="text-align:center">Дополнительная деталь</p>
+			</td>
+			<td style="width:245px">
+			<p style="text-align:center">The article also mentions...</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The article also mentions the role of feedback.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px">
+			<p style="text-align:center">Общий вывод</p>
+			</td>
+			<td style="width:245px">
+			<p style="text-align:center">Overall, the article suggests that...</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">Overall, the article suggests that learning works best with a clear system.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Важно: summary не должно быть слишком личным. Сначала пересказ, потом мнение. Нельзя сразу начинать с &ldquo;I like it&rdquo;, если человек ещё не понял, о чём статья.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Пример хорошего summary</strong></h2>
+</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:691px">
+			<p><strong>Example summary</strong></p>
+
+			<p>The article is about the role of sleep in productivity. The main idea is that people often try to work more, but they become less effective when they do not sleep enough. The author explains that sleep affects memory, concentration and decision-making. The article also mentions that companies can improve performance by respecting rest time. Overall, the article suggests that productivity depends not only on effort, but also on recovery.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Как говорить о главной мысли автора</strong></h2>
+</div>
+
+<p>Когда обсуждаешь статью, важно отличать тему от главной мысли. Тема - это &ldquo;о чём статья&rdquo;. Главная мысль - это &ldquo;что автор хочет доказать или объяснить&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:278px">
+			<p style="text-align:center"><strong>Тема</strong></p>
+			</td>
+			<td style="width:432px">
+			<p style="text-align:center"><strong>Главная мысль</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:278px">
+			<p style="text-align:center">The article is about online learning.</p>
+			</td>
+			<td style="width:432px">
+			<p style="text-align:center">The author argues that online learning works only when students have discipline and feedback.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:278px">
+			<p style="text-align:center">The article is about healthy food.</p>
+			</td>
+			<td style="width:432px">
+			<p style="text-align:center">The author suggests that people often underestimate the role of simple daily habits.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:278px">
+			<p style="text-align:center">The article is about social media.</p>
+			</td>
+			<td style="width:432px">
+			<p style="text-align:center">The writer claims that social media changes the way people compare themselves to others.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:278px">
+			<p style="text-align:center">The article is about business communication.</p>
+			</td>
+			<td style="width:432px">
+			<p style="text-align:center">The author believes that clear communication can prevent many workplace conflicts.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:278px">
+			<p style="text-align:center">The article is about climate change.</p>
+			</td>
+			<td style="width:432px">
+			<p style="text-align:center">The article suggests that individual actions matter, but systemic changes are more important.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:221px">
+			<p style="text-align:center"><strong>Перевод</strong></p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center"><strong>Нюанс</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/The%20author%20argues%20that....mp3">The author argues that...</a></p>
+			</td>
+			<td style="width:221px">
+			<p style="text-align:center">Автор утверждает, что...</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Для сильной позиции с аргументами.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/The%20author%20claims%20that....mp3">The author claims that...</a></p>
+			</td>
+			<td style="width:221px">
+			<p style="text-align:center">Автор заявляет, что...</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Чуть сильнее, иногда звучит критично.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/The%20author%20suggests%20that....mp3">The author suggests that...</a></p>
+			</td>
+			<td style="width:221px">
+			<p style="text-align:center">Автор предполагает / говорит, что...</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Мягче, осторожнее.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/The%20writer%20points%20out%20that....mp3">The writer points out that...</a></p>
+			</td>
+			<td style="width:221px">
+			<p style="text-align:center">Автор указывает, что...</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Для важной детали.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/The%20article%20emphasizes%20that....mp3">The article emphasizes that...</a></p>
+			</td>
+			<td style="width:221px">
+			<p style="text-align:center">Статья подчёркивает, что...</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Когда мысль выделяется как важная.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/The%20text%20highlights%20the%20importance%20of....mp3">The text highlights the importance of...</a></p>
+			</td>
+			<td style="width:221px">
+			<p style="text-align:center">Текст подчёркивает важность...</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Для центральной идеи.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Evidence: как обсуждать доказательства и примеры</strong></h2>
+</div>
+
+<p>Сильное обсуждение статьи почти всегда включает evidence - доказательства, данные, примеры, факты, исследования, цитаты. Если ученик говорит только &ldquo;I agree&rdquo;, это звучит бедно. Если он говорит &ldquo;I agree because the article gives convincing examples&rdquo;, речь сразу становится взрослее.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center"><strong>Слово / фраза</strong></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center"><strong>Перевод</strong></p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center"><a href="/uploads/files/evidence.mp3">evidence</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">доказательства</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">The article provides strong evidence for this idea.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center"><a href="/uploads/files/example.mp3">example</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">пример</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">The author gives several examples from real life.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center"><a href="/uploads/files/data.mp3">data</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">данные</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">The article uses data to support the argument.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center"><a href="/uploads/files/research.mp3">research</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">исследование</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">The article refers to recent research.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center"><a href="/uploads/files/study.mp3">study</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">исследование</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">The study shows a clear connection between sleep and memory.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center"><a href="/uploads/files/source.mp3">source</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">источник</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">The article does not mention the source of this information.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center"><a href="/uploads/files/quote.mp3">quote</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">цитата</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">The article includes a quote from an expert.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center"><a href="/uploads/files/case%20study.mp3">case study</a></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">пример / кейс</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">The article includes a case study from a small company.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:365px">
+			<p style="text-align:center"><strong>Сильнее</strong></p>
+			</td>
+			<td style="width:346px">
+			<p style="text-align:center"><strong>Слабее</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:365px">
+			<p style="text-align:center">The article supports this point with clear data.</p>
+			</td>
+			<td style="width:346px">
+			<p style="text-align:center">The article says this.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:365px">
+			<p style="text-align:center">The example makes the argument more convincing.</p>
+			</td>
+			<td style="width:346px">
+			<p style="text-align:center">There is an example.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:365px">
+			<p style="text-align:center">The author refers to research, but the source is not explained.</p>
+			</td>
+			<td style="width:346px">
+			<p style="text-align:center">There is some research.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:365px">
+			<p style="text-align:center">The evidence is interesting, but it may not be enough to prove the conclusion.</p>
+			</td>
+			<td style="width:346px">
+			<p style="text-align:center">Maybe it is true.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:365px">
+			<p style="text-align:center">The article gives real-life examples, which makes the point easier to understand.</p>
+			</td>
+			<td style="width:346px">
+			<p style="text-align:center">The examples are good.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Как выразить своё мнение</strong></h2>
+</div>
+
+<p>После пересказа можно переходить к мнению. Важно: мнение в обсуждении статьи должно быть не просто эмоциональным, а аргументированным. Лучше не &ldquo;I like it&rdquo;, а &ldquo;I found the article useful because it explains the problem clearly&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:134px">
+			<p style="text-align:center"><strong>Уровень</strong></p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center"><strong>Как звучит</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:134px">
+			<p style="text-align:center">Просто</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">I think the article is useful.</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Нормально для A2-B1.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:134px">
+			<p style="text-align:center">С причиной</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">I think the article is useful because it gives practical examples.</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Уже сильнее.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:134px">
+			<p style="text-align:center">Взрослее</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">I found the article convincing because the arguments are clear and well-supported.</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Хороший B1-B2 стиль.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:134px">
+			<p style="text-align:center">Осторожно</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">I partly agree with the author&rsquo;s point, but I think the issue is more complex.</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Отлично для дискуссии.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:134px">
+			<p style="text-align:center">Критично</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">I am not fully convinced by the conclusion because the article lacks evidence.</p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Профессиональное несогласие.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>20 фраз для мнения</strong></h3>
+
+<ul>
+	<li>
+	<p>I think the article is useful because it explains the topic clearly.</p>
+	</li>
+	<li>
+	<p>I found the article interesting because it gives real-life examples.</p>
+	</li>
+	<li>In my opinion, the author makes a strong point.</li>
+	<li>I agree with the main idea of the article.</li>
+	<li>I partly agree with the author, but I think the topic is more complicated.</li>
+	<li>I do not fully agree with the conclusion.</li>
+	<li>I am not sure the article gives enough evidence.</li>
+	<li>The article made me think about this issue differently.</li>
+	<li>The article seems balanced and well-structured.</li>
+	<li>The article is useful, but it could include more examples.</li>
+	<li>The author&rsquo;s argument is clear, but some details are missing.</li>
+	<li>I think the article exaggerates the problem.</li>
+	<li>I think the article underestimates the importance of this issue.</li>
+	<li>The article raises an important question.</li>
+	<li>The article explains the problem well, but it does not offer a clear solution.</li>
+	<li>I found the examples convincing.</li>
+	<li>I found the conclusion too general.</li>
+	<li>This article is relevant to real life because many people face this problem.</li>
+	<li>The topic is important, but the article does not go deep enough.</li>
+	<li>Overall, I think the article is worth reading.</li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Agreeing: как согласиться не бедно</strong></h2>
+</div>
+
+<p>Согласие должно быть точным. &ldquo;I agree&rdquo; - это только начало. Лучше сказать, с чем именно ты согласен и почему.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center"><strong>Перевод</strong></p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/I%20agree%20with%20the%20author%E2%80%99s%20main%20point..mp3">I agree with the author&rsquo;s main point.</a></p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">Я согласен с главной мыслью автора.</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">I agree with the author&rsquo;s main point because the examples are realistic.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/I%20share%20the%20author%E2%80%99s%20view%20that....mp3">I share the author&rsquo;s view that...</a></p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">Я разделяю мнение автора, что...</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">I share the author&rsquo;s view that education needs more structure.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/This%20point%20makes%20sense%20because....mp3">This point makes sense because...</a></p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">Эта мысль имеет смысл, потому что...</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">This point makes sense because many students need feedback.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/The%20argument%20is%20convincing%20because....mp3">The argument is convincing because...</a></p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">Аргумент убедительный, потому что...</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">The argument is convincing because it is supported by data.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:240px">
+			<p style="text-align:center"><a href="/uploads/files/I%20think%20the%20author%20is%20right%20to%20say%20that....mp3">I think the author is right to say that...</a></p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">Я думаю, автор прав, говоря, что...</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">I think the author is right to say that sleep affects productivity.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Disagreeing: как не согласиться вежливо</strong></h2>
+</div>
+
+<p>Несогласие в английском обсуждении статьи лучше строить мягко. Не нужно говорить &ldquo;The author is wrong&rdquo;. Лучше: &ldquo;I am not fully convinced&rdquo; или &ldquo;I think the article overlooks an important factor&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center"><strong>Резко</strong></p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center"><strong>Взрослее и мягче</strong></p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center"><strong>Почему лучше</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center">The author is wrong.</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">I am not fully convinced by this argument.</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">Критика направлена на аргумент, не на человека.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center">This is stupid.</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">This point seems too simplistic.</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">Звучит профессионально, а не грубо.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center">I do not believe it.</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">I would need more evidence to accept this conclusion.</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">Называет проблему: мало доказательств.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center">The article is bad.</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The article raises an important issue, but the argument is not fully developed.</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">Есть баланс: плюс и минус.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:173px">
+			<p style="text-align:center">The author forgot everything.</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The article overlooks several important factors.</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">Критика точная и нейтральная.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:384px">
+			<p style="text-align:center"><strong>Фраза для несогласия</strong></p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center"><strong>Перевод</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:384px">
+			<p style="text-align:center"><a href="/uploads/files/I%20see%20the%20author%E2%80%99s%20point%2C%20but%20I%20do%20not%20fully%20agree..mp3">I see the author&rsquo;s point, but I do not fully agree.</a></p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">Я понимаю мысль автора, но не полностью согласен.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:384px">
+			<p style="text-align:center"><a href="/uploads/files/I%20partly%20agree%2C%20but%20I%20think%20the%20situation%20is%20more%20complex..mp3">I partly agree, but I think the situation is more complex.</a></p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">Я частично согласен, но думаю, что ситуация сложнее.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:384px">
+			<p style="text-align:center"><a href="/uploads/files/The%20argument%20is%20interesting%2C%20but%20it%20needs%20more%20evidence..mp3">The argument is interesting, but it needs more evidence.</a></p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">Аргумент интересный, но ему нужно больше доказательств.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:384px">
+			<p style="text-align:center"><a href="/uploads/files/I%20think%20the%20article%20overlooks%20an%20important%20factor..mp3">I think the article overlooks an important factor.</a></p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">Я думаю, статья упускает важный фактор.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:384px">
+			<p style="text-align:center"><a href="/uploads/files/The%20conclusion%20seems%20too%20general..mp3">The conclusion seems too general.</a></p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">Вывод кажется слишком общим.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:384px">
+			<p style="text-align:center"><a href="/uploads/files/This%20point%20may%20be%20true%20in%20some%20cases%2C%20but%20not%20always..mp3">This point may be true in some cases, but not always.</a></p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">Эта мысль может быть верной в некоторых случаях, но не всегда.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Hedging: как звучать умно и осторожно</strong></h2>
+</div>
+
+<p>Когда обсуждаешь статью, особенно на B1-B2, не всегда нужно звучать категорично. Hedging помогает говорить аккуратно: &ldquo;may&rdquo;, &ldquo;might&rdquo;, &ldquo;seems&rdquo;, &ldquo;appears&rdquo;, &ldquo;could&rdquo;, &ldquo;to some extent&rdquo;.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center"><strong>Категорично</strong></p>
+			</td>
+			<td style="width:278px">
+			<p style="text-align:center"><strong>С hedging</strong></p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center"><strong>Перевод</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">The article is wrong.</p>
+			</td>
+			<td style="width:278px">
+			<p style="text-align:center">The article may not be fully accurate.</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">Статья может быть не полностью точной.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">This proves everything.</p>
+			</td>
+			<td style="width:278px">
+			<p style="text-align:center">This seems to support the author&rsquo;s point.</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">Это, кажется, поддерживает мысль автора.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">The problem is obvious.</p>
+			</td>
+			<td style="width:278px">
+			<p style="text-align:center">The problem appears to be important.</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">Проблема, похоже, важна.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">This always happens.</p>
+			</td>
+			<td style="width:278px">
+			<p style="text-align:center">This may happen in many situations.</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">Это может происходить во многих ситуациях.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">The conclusion is false.</p>
+			</td>
+			<td style="width:278px">
+			<p style="text-align:center">The conclusion might be too strong.</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">Вывод может быть слишком сильным.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">The article is biased.</p>
+			</td>
+			<td style="width:278px">
+			<p style="text-align:center">The article seems somewhat biased.</p>
+			</td>
+			<td style="width:240px">
+			<p style="text-align:center">Статья кажется немного предвзятой.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Hedging не делает речь слабой. Наоборот, он делает речь более взрослой, потому что человек показывает: &ldquo;я понимаю нюансы, я не кричу, я анализирую&rdquo;.</p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Как обсуждать сильные и слабые стороны статьи</strong></h2>
+</div>
+
+<p>Хорошее обсуждение часто включает strengths and weaknesses - сильные и слабые стороны. Это особенно полезно для уроков, экзаменов, speaking practice и анализа текстов.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center"><strong>Сильная сторона</strong></p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center"><strong>Как сказать</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Статья ясно объясняет тему.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The article explains the topic clearly.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Есть хорошие примеры.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The article gives useful examples.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Аргументы убедительные.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The arguments are convincing.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Статья хорошо структурирована.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The article is well-structured.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Тема актуальная.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The topic is relevant to modern life.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Автор показывает разные стороны.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The author considers different sides of the issue.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center"><strong>Слабая сторона</strong></p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center"><strong>Как сказать</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Мало доказательств.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The article does not provide enough evidence.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Слишком общий вывод.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The conclusion is too general.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Мало примеров.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The article could include more examples.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Одна сторона проблемы.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The article presents only one side of the issue.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Слишком эмоционально.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The tone of the article seems too emotional.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:259px">
+			<p style="text-align:center">Нет решения.</p>
+			</td>
+			<td style="width:451px">
+			<p style="text-align:center">The article explains the problem, but it does not offer a clear solution.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Bias: как говорить о предвзятости</strong></h2>
+</div>
+
+<p>Bias - это предвзятость. Не каждая статья нейтральна. Автор может выбирать только удобные примеры, игнорировать другую сторону, писать эмоционально или делать слишком сильный вывод. На английском это можно обсуждать аккуратно.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:288px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center"><strong>Перевод</strong></p>
+			</td>
+			<td style="width:173px">
+			<p style="text-align:center"><strong>Когда использовать</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:288px">
+			<p style="text-align:center"><a href="/uploads/files/The%20article%20seems%20biased..mp3">The article seems biased.</a></p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Статья кажется предвзятой.</p>
+			</td>
+			<td style="width:173px">
+			<p style="text-align:center">Общая осторожная критика.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:288px">
+			<p style="text-align:center"><a href="/uploads/files/The%20author%20presents%20only%20one%20side%20of%20the%20issue..mp3">The author presents only one side of the issue.</a></p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Автор показывает только одну сторону проблемы.</p>
+			</td>
+			<td style="width:173px">
+			<p style="text-align:center">Когда нет баланса.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:288px">
+			<p style="text-align:center"><a href="/uploads/files/The%20article%20ignores%20opposing%20views..mp3">The article ignores opposing views.</a></p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Статья игнорирует противоположные взгляды.</p>
+			</td>
+			<td style="width:173px">
+			<p style="text-align:center">Когда нет контраргументов.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:288px">
+			<p style="text-align:center"><a href="/uploads/files/The%20language%20is%20quite%20emotional..mp3">The language is quite emotional.</a></p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Язык довольно эмоциональный.</p>
+			</td>
+			<td style="width:173px">
+			<p style="text-align:center">Когда текст давит эмоциями.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:288px">
+			<p style="text-align:center"><a href="/uploads/files/The%20conclusion%20seems%20too%20strong..mp3">The conclusion seems too strong.</a></p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Вывод кажется слишком сильным.</p>
+			</td>
+			<td style="width:173px">
+			<p style="text-align:center">Когда вывод не следует из доказательств.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:288px">
+			<p style="text-align:center"><a href="/uploads/files/The%20article%20would%20be%20stronger%20with%20more%20reliable%20sources..mp3">The article would be stronger with more reliable sources.</a></p>
+			</td>
+			<td style="width:250px">
+			<p style="text-align:center">Статья была бы сильнее с более надёжными источниками.</p>
+			</td>
+			<td style="width:173px">
+			<p style="text-align:center">Когда не хватает качества источников.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Как задавать вопросы по статье</strong></h2>
+</div>
+
+<p>Умение задавать вопросы показывает, что ученик не просто пассивно прочитал текст, а подумал. Вопросы могут быть про причину, доказательства, последствия, альтернативы, мнение автора и личный опыт.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center"><strong>Тип вопроса</strong></p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center"><strong>Фраза</strong></p>
+			</td>
+			<td style="width:298px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">О главной мысли</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">What is the main point of the article?</p>
+			</td>
+			<td style="width:298px">
+			<p style="text-align:center">What is the main point of the article?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">О позиции автора</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">What does the author argue?</p>
+			</td>
+			<td style="width:298px">
+			<p style="text-align:center">What does the author argue about online education?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">О доказательствах</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">What evidence does the author provide?</p>
+			</td>
+			<td style="width:298px">
+			<p style="text-align:center">What evidence does the author provide to support this idea?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">О слабости текста</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">What is missing from the article?</p>
+			</td>
+			<td style="width:298px">
+			<p style="text-align:center">What is missing from the article in your opinion?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">О последствиях</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">What could happen if this trend continues?</p>
+			</td>
+			<td style="width:298px">
+			<p style="text-align:center">What could happen if this trend continues?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">О личном мнении</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Do you agree with the author? Why?</p>
+			</td>
+			<td style="width:298px">
+			<p style="text-align:center">Do you agree with the author&rsquo;s conclusion? Why?</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>20 вопросов для обсуждения любой статьи</strong></h3>
+
+<ul>
+	<li>What is the article mainly about?</li>
+	<li>What is the author&rsquo;s main argument?</li>
+	<li>What problem does the article discuss?</li>
+	<li>What solution does the article suggest?</li>
+	<li>What examples does the author give?</li>
+	<li>What evidence supports the main idea?</li>
+	<li>Do you find the argument convincing? Why?</li>
+	<li>What part of the article did you find most interesting?</li>
+	<li>What part of the article did you disagree with?</li>
+	<li>Does the article seem balanced or biased?</li>
+	<li>What information is missing from the article?</li>
+	<li>How is this topic connected to real life?</li>
+	<li>Can you give a real-life example of this problem?</li>
+	<li>What could be a different point of view?</li>
+	<li>What questions would you ask the author?</li>
+	<li>What is the strongest argument in the article?</li>
+	<li>What is the weakest argument in the article?</li>
+	<li>What did you learn from the article?</li>
+	<li>Would you recommend this article? Why?</li>
+	<li>What is your final opinion about the topic?</li>
+</ul>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Linking phrases для обсуждения</strong></h2>
+</div>
+
+<p>Чтобы речь не звучала как набор отдельных предложений, нужны связки. Они показывают переход: добавление, контраст, причина, пример, вывод.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center"><strong>Функция</strong></p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center"><strong>Фразы</strong></p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">Добавить мысль</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">also, in addition, moreover</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">The article also mentions the role of motivation.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">Противопоставить</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">however, on the other hand, nevertheless</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">However, the article does not explain the risks.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">Дать причину</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">because, since, as</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">I agree because the examples are realistic.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">Дать пример</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">for example, for instance</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">For example, many students need feedback.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">Сделать вывод</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">overall, in conclusion, to sum up</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">Overall, the article is useful and balanced.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:154px">
+			<p style="text-align:center">Уточнить</p>
+			</td>
+			<td style="width:230px">
+			<p style="text-align:center">in other words, to be more specific</p>
+			</td>
+			<td style="width:326px">
+			<p style="text-align:center">In other words, the author thinks structure is more important than motivation.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Типичный план устного ответа по статье</strong></h2>
+</div>
+
+<p>Для speaking practice можно использовать стабильный план. Он помогает не застрять и не говорить хаотично.</p>
+
+<p style="margin-left:12.95pt">1.&nbsp; Name the topic: The article is about...</p>
+
+<p style="margin-left:12.95pt">2.&nbsp; State the main idea: The main idea is that...</p>
+
+<p style="margin-left:12.95pt">3.&nbsp; Explain the author&rsquo;s argument: The author argues that...</p>
+
+<p style="margin-left:12.95pt">4.&nbsp; Mention evidence or examples: The article gives examples of...</p>
+
+<p style="margin-left:12.95pt">5.&nbsp; Give your opinion: I agree / partly agree / do not fully agree because...</p>
+
+<p style="margin-left:12.95pt">6.&nbsp; Evaluate the article: The article is useful / balanced / convincing / too general.</p>
+
+<p style="margin-left:12.95pt">7.&nbsp; Finish with a conclusion or question: Overall... / A useful question is...</p>
+
+<p style="margin-left:12.95pt"><img alt="" src="/uploads/files/%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D1%80%D0%BA%D0%B0%D1%81%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B0.png" style="width:768px"></p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Диалоги: как обсуждение звучит вживую</strong></h2>
+</div>
+
+<h3><strong>Диалог 1. Простое обсуждение</strong></h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:691px">
+			<p><strong>Dialogue</strong></p>
+
+			<p>A: What is the article about?<br>
+			B: It is about online learning. The author argues that online learning can be effective, but only if students have a clear structure.<br>
+			A: Do you agree with that?<br>
+			B: Yes, I do. I think structure is very important because many students lose motivation when they study alone.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>Диалог 2. Частичное согласие</strong></h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:691px">
+			<p><strong>Dialogue</strong></p>
+
+			<p>A: Did you find the article convincing?<br>
+			B: Partly. I agree with the main idea, but I think the author ignores some practical problems.<br>
+			A: What kind of problems?<br>
+			B: For example, not everyone has enough time, money or support to follow the advice in the article.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>Диалог 3. Критика статьи</strong></h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:691px">
+			<p><strong>Dialogue</strong></p>
+
+			<p>A: What is your opinion about the article?<br>
+			B: I found it interesting, but I am not fully convinced by the conclusion.<br>
+			A: Why not?<br>
+			B: The article gives some examples, but it does not provide enough evidence. It presents only one side of the issue.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Mini-scenarios: реальные ситуации</strong></h2>
+</div>
+
+<h3><strong>Сценарий 1. Урок английского</strong></h3>
+
+<p>Учитель просит обсудить короткую статью о здоровом сне. Слабый ответ: &ldquo;It is about sleep. I agree.&rdquo; Сильный ответ:</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:691px">
+			<p><strong>Strong answer</strong></p>
+
+			<p>The article is about the connection between sleep and productivity. The main idea is that people cannot work effectively if they do not get enough rest. I agree with the author because sleep affects concentration and memory. The article is useful, but I think it could include more practical advice for people who work long hours.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>Сценарий 2. Собеседование</strong></h3>
+
+<h3>На собеседовании кандидата спрашивают о статье про remote work. Важно показать не только английский, но и мышление.</h3>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:691px">
+			<p><strong>Strong answer</strong></p>
+
+			<p>The article discusses remote work and team communication. The author argues that remote work can be effective if companies have clear processes. I agree with this point because communication problems often appear when responsibilities are unclear. However, I think the article could discuss company culture in more detail.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><strong>Сценарий 3. Университет или курс</strong></h3>
+
+<p>Студент обсуждает статью с данными. Здесь лучше говорить о evidence, source, data, conclusion.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:691px">
+			<p><strong>Strong answer</strong></p>
+
+			<p>The article presents interesting data about student motivation. The evidence supports the idea that regular feedback improves learning results. However, the article does not explain how large the study was, so I would be careful with the conclusion. Overall, the text raises an important question about how teachers can support students more effectively.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Частые ошибки русскоязычных учеников</strong></h2>
+</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center"><strong>Ошибка</strong></p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center"><strong>Почему плохо</strong></p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center"><strong>Лучше</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">The article tells about...</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Tell about звучит неестественно для описания статьи.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">The article is about... / The article discusses...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">Author says that...</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Нужен артикль the: the author.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">The author says that... / The author argues that...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">I am agree with author.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Agree - глагол. Нужны I agree и the author.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">I agree with the author.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">I very like this article.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Very не ставится перед like.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">I really like this article.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">In article we can see...</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Нужен the article. Лучше не злоупотреблять we can see.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">In the article, the author explains...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">The article is actual.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Actual не значит актуальный в этом смысле.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">The article is relevant.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">I think yes.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">По-русски понятно, по-английски бедно.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">I agree because... / I think this is true because...</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">The article has many proofs.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Proofs часто звучит неестественно. Лучше evidence.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">The article provides a lot of evidence.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">I disagree with this article.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Можно, но точнее говорить с чем именно.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">I disagree with the author&rsquo;s conclusion.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:192px">
+			<p style="text-align:center">This theme is important.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Theme не всегда подходит. Лучше topic/issue.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">This topic is important. / This issue is important.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Слова, которые часто нужны для обсуждения статей</strong></h2>
+</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center"><strong>English</strong></p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center"><strong>Русский</strong></p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center"><strong>Пример</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">topic</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">тема</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The topic is relevant to many people.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">issue</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">проблема / вопрос</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The article raises an important issue.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">main idea</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">главная мысль</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The main idea is clear.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">argument</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">аргумент / позиция</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The argument is convincing.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">evidence</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">доказательства</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The article needs more evidence.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">source</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">источник</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The source is not mentioned.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">claim</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">утверждение</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">This claim needs stronger support.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">conclusion</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">вывод</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The conclusion seems too general.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">balanced</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">сбалансированный</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The article is balanced.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">biased</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">предвзятый</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The article seems biased.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">convincing</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">убедительный</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The examples are convincing.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">relevant</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">актуальный / относящийся к делу</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The article is relevant to modern life.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">practical</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">практический</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The advice is practical.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">general</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">общий</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The conclusion is too general.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:163px">
+			<p style="text-align:center">specific</p>
+			</td>
+			<td style="width:211px">
+			<p style="text-align:center">конкретный</p>
+			</td>
+			<td style="width:336px">
+			<p style="text-align:center">The article gives specific examples.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Полный пример обсуждения статьи</strong></h2>
+</div>
+
+<p>Ниже пример ответа, который можно использовать как модель. Он не слишком сложный, но звучит взросло, логично и подходит для B1-B2.</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:691px">
+			<p><strong>Full model answer</strong></p>
+
+			<p>The article is about the influence of smartphones on concentration. The main idea is that people often lose focus because they check their phones too often. The author argues that constant notifications make deep work more difficult. To support this point, the article gives examples from students and office workers. I agree with the author&rsquo;s main point because many people find it hard to stay focused when their phone is nearby. However, I think the article could also mention that smartphones can be useful for learning and communication. Overall, the article is relevant and easy to understand, but it would be stronger with more data and practical solutions.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Разбор полного ответа</strong></h2>
+</div>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center"><strong>Часть</strong></p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center"><strong>Фраза из ответа</strong></p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center"><strong>Зачем она нужна</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Topic</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The article is about the influence of smartphones on concentration.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Сразу ясно, о чём статья.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Main idea</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The main idea is that people often lose focus...</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Передаёт центральную мысль.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Author&rsquo;s argument</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The author argues that constant notifications...</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Показывает позицию автора.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Evidence</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">The article gives examples from students and office workers.</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Упоминает поддержку идеи.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Opinion</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">I agree with the author&rsquo;s main point because...</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Даёт мнение с причиной.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Balance</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">However, I think the article could also mention...</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Добавляет нюанс, не слепое согласие.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:144px">
+			<p style="text-align:center">Evaluation</p>
+			</td>
+			<td style="width:307px">
+			<p style="text-align:center">Overall, the article is relevant and easy to understand...</p>
+			</td>
+			<td style="width:259px">
+			<p style="text-align:center">Оценивает качество текста.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h2><strong>Как тренировать эту тему</strong></h2>
+</div>
+
+<p>Самый быстрый способ научиться обсуждать статьи - не читать огромные тексты, а регулярно брать короткие статьи и прогонять их через одну и ту же схему. Нужно тренировать не &ldquo;перевод&rdquo;, а структуру ответа.</p>
+
+<p style="margin-left:12.95pt">1.&nbsp; Прочитай заголовок и скажи: The article is about...</p>
+
+<p style="margin-left:12.95pt">2.&nbsp; Найди главную мысль и скажи: The main idea is that...</p>
+
+<p style="margin-left:12.95pt">3.&nbsp; Определи позицию автора: The author argues/suggests/claims that...</p>
+
+<p style="margin-left:12.95pt">4.&nbsp; Найди один пример или факт: The article gives an example of...</p>
+
+<p style="margin-left:12.95pt">5.&nbsp; Скажи мнение с причиной: I agree/partly agree because...</p>
+
+<p style="margin-left:12.95pt">6.&nbsp; Назови одну сильную сторону: The article explains the topic clearly.</p>
+
+<p style="margin-left:12.95pt">7.&nbsp; Назови одну слабую сторону: The article could include more evidence.</p>
+
+<p style="margin-left:12.95pt">8.&nbsp; Заверши выводом: Overall, I think the article is useful because...</p>
+
+<p><img alt="" src="/uploads/files/%D0%9C%D0%B8%D0%BD%D0%B8-%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BD%D0%B0%203%20%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D1%8B.png" style="width:768px"></p>
+
+<div class="highlight-box" style="margin: 15px 0px; padding: 15px 15px; box-sizing: border-box; background: linear-gradient(135deg, rgb(58, 45, 110), rgb(78, 63, 145)) 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); color: rgb(255, 255, 255); border-radius: 12px;">
+<h3><strong>Краткий итог</strong></h3>
+
+<ul>
+	<li>Discussing articles - это навык анализа текста, а не дословный перевод.</li>
+	<li>Сначала нужно назвать тему и главную мысль, потом уже выражать мнение.</li>
+	<li>Сильная речь использует фразы: The article discusses..., The author argues..., The evidence suggests..., I partly agree..., The article overlooks...</li>
+	<li>Хорошее мнение должно иметь причину: because, since, for example.</li>
+	<li>Взрослая критика направлена на аргумент, доказательства, баланс и вывод, а не на личные эмоции.</li>
+	<li>Для B1-B2 важно использовать hedging: may, might, seems, appears, to some extent.</li>
+	<li>Универсальная формула: topic + main idea + author&rsquo;s argument + evidence + your opinion + conclusion.</li>
+</ul>
+</div>
+
+<h3><strong>Что изучать дальше</strong></h3>
+
+<ul>
+	<li>Opinion language: how to agree, disagree and give reasons.</li>
+	<li>Linking words: however, moreover, therefore, although, despite.</li>
+	<li>Academic English: hedging, evidence, argument, source, claim.</li>
+	<li>Critical thinking vocabulary: biased, balanced, convincing, relevant, reliable.</li>
+	<li>Speaking practice: short summaries and article discussions.</li>
+</ul>
