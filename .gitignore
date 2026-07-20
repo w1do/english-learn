@@ -24,12 +24,12 @@ pnpm-debug.log*
 .idea/
 .junie
 .ai
-# /source
-# /ref
-# /seo
-# /docs
-# AGENTS.md
-# idea.md
-# plan.md
-# SUMMARY.md
+/source
+/ref
+/seo
+/docs
+AGENTS.md
+idea.md
+plan.md
+SUMMARY.md
 /public/uploads/
