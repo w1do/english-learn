@@ -8,6 +8,8 @@ import { serializeSitemapItem } from './src/utils/sitemap.js';
 import node from '@astrojs/node';
 
 // https://astro.build/config
+const MINIO_URL = process.env.MINIO || 'https://cloud.w1do.ru/english/uploads';
+
 export default defineConfig({
   server: {
     host: "0.0.0.0"
@@ -24,7 +26,7 @@ export default defineConfig({
     server: {
       proxy: {
         '/uploads': {
-          target: 'https://cloud.w1do.ru/english/uploads',
+          target: MINIO_URL,
           changeOrigin: true,
         }
       }
