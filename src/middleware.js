@@ -2,7 +2,7 @@ import { defineMiddleware } from "astro:middleware";
 
 export const onRequest = defineMiddleware(async (context, next) => {
   if (context.url.pathname.startsWith('/uploads/')) {
-    const s3BaseUrl = process.env.MINIO || 'https://cloud.w1do.ru/english/uploads';
+    const s3BaseUrl = process.env.MINIO || 'https://cloud.w1do.ru/english';
     const s3Url = s3BaseUrl + context.url.pathname;
     
     try {
