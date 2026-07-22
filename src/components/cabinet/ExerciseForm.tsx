@@ -20,7 +20,8 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
   const [hintCount, setHintCount] = useState(3);
   const [progress, setProgress] = useState({ correct: 0, incorrect: 0 });
   const [finished, setFinished] = useState(false);
-  const inputRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLTextAreaElement>(null);
+  const focusInputAfterRetryRef = useRef(false);
 
   useEffect(() => {
     let themeQuestions: Question[] = [];
@@ -91,9 +92,6 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
     setUserInput('');
     setShowResult(false);
     setHintCount(3);
-    if (inputRef.current) {
-        inputRef.current.innerText = '';
-    }
   }, [themeId]);
 
   useEffect(() => {
@@ -109,9 +107,6 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
           setIsCorrect(false);
           setGaveUp(false);
           setHintCount(3);
-          if (inputRef.current) {
-            inputRef.current.innerText = '';
-          }
         }
       }
     };
@@ -130,9 +125,6 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
         setShowResult(true);
         setIsCorrect(true);
         setGaveUp(false);
-        if (inputRef.current) {
-          inputRef.current.innerText = ''; // Очищаем текст, чтобы renderContent вывел отформатированный ответ
-        }
       } else {
         // Текущий или будущий вопрос: сбрасываем состояние и разрешаем ввод только для текущего
         setUserInput('');
@@ -140,32 +132,37 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
         setIsCorrect(false);
         setGaveUp(false);
         setHintCount(3);
-        if (inputRef.current) {
-          inputRef.current.innerText = '';
-        }
       }
     }
   }, [currentIndex, questions, progress.correct]);
 
+  useEffect(() => {
+    if (!showResult && focusInputAfterRetryRef.current && inputRef.current) {
+      const input = inputRef.current;
+      input.focus();
+      input.setSelectionRange(input.value.length, input.value.length);
+      focusInputAfterRetryRef.current = false;
+    }
+  }, [showResult]);
+
   const currentQuestion = questions[currentIndex];
 
-  const handleInputChange = (e: React.FormEvent<HTMLDivElement>) => {
-    setUserInput(e.currentTarget.innerText);
+  const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+    setUserInput(e.currentTarget.value);
   };
 
-  const handleInputFocus = () => {
-    if (showResult && !isCorrect && !gaveUp && currentIndex === progress.correct) {
+  const handleRetry = () => {
+    if (showResult && !isCorrect && currentIndex === progress.correct) {
+      focusInputAfterRetryRef.current = true;
       setShowResult(false);
-      if (inputRef.current) {
-        inputRef.current.innerText = userInput;
-        // Move cursor to end
-        const range = document.createRange();
-        const sel = window.getSelection();
-        range.selectNodeContents(inputRef.current);
-        range.collapse(false);
-        sel?.removeAllRanges();
-        sel?.addRange(range);
-      }
+      setGaveUp(false);
+    }
+  };
+
+  const handleResultKeyDown = (e: React.KeyboardEvent<HTMLDivElement>) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      handleRetry();
     }
   };
 
@@ -240,15 +237,17 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
         const newInput = [...currentWords, nextWord].join(' ') + ' ';
         setUserInput(newInput);
         setHintCount(prev => prev - 1);
-        if (inputRef.current) {
-            inputRef.current.innerText = newInput;
-            // Move cursor to end
-            const range = document.createRange();
-            const sel = window.getSelection();
-            range.selectNodeContents(inputRef.current);
-            range.collapse(false);
-            sel?.removeAllRanges();
-            sel?.addRange(range);
+        if (showResult) {
+          focusInputAfterRetryRef.current = true;
+          setShowResult(false);
+          setGaveUp(false);
+        } else {
+          requestAnimationFrame(() => {
+            if (inputRef.current) {
+              inputRef.current.focus();
+              inputRef.current.setSelectionRange(newInput.length, newInput.length);
+            }
+          });
         }
       }
     }
@@ -291,7 +290,7 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
         <div className="list-view">
             <div className="question-title">{themeTitle || 'Загрузка...'}</div>
             <div className="quest-flex d-flex">
-              <div className="box question-box">
+              <div className="box question-box" data-exercise-owner="react">
                   <div className="text" style={{ textAlign: 'center', padding: '40px' }}>
                       Для этой темы упражнения еще не добавлены. Попробуйте другую тему или выберите "Тренировать все" в основной категории.
                   </div>
@@ -309,7 +308,7 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
     showResult ? (isCorrect ? 'success' : 'error') : ''
   ].filter(Boolean).join(' ');
 
-  const renderContent = () => {
+  const renderResultContent = () => {
     if (isCorrect) {
       return <span>{currentQuestion.answer}</span>;
     }
@@ -342,7 +341,7 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
     <div className="list-view">
       <div className="question-title">{themeTitle}</div>
       <div className="quest-flex d-flex">
-        <div className="box question-box">
+        <div className="box question-box" data-exercise-owner="react">
           <div className="progress" title="Ваш прогресс">
             <span style={{ width: `${progressPercent}%` }} className={`fill-${Math.round(progressPercent / 10) * 10}`}></span>
           </div>
@@ -360,19 +359,31 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
                 <div className="label" style={{ display: 'none' }}>Введите перевод фразы в поле ниже</div>
 
                 <div className="input-wrapper">
-                  <div 
-                    ref={inputRef}
-                    className={inputClasses} 
-                    contentEditable={currentIndex === progress.correct && (!showResult || !isCorrect)} 
-                    onInput={handleInputChange}
-                    onFocus={handleInputFocus}
-                    id="phraseInput"
-                    spellCheck="false"
-                    data-placeholder="Введите свой ответ здесь ..."
-                    suppressContentEditableWarning={true}
-                  >
-                    {renderContent()}
-                  </div>
+                  {showResult ? (
+                    <div
+                      className={inputClasses}
+                      id="phraseInputResult"
+                      onClick={handleRetry}
+                      onKeyDown={handleResultKeyDown}
+                      role={!isCorrect && currentIndex === progress.correct ? 'button' : undefined}
+                      tabIndex={!isCorrect && currentIndex === progress.correct ? 0 : undefined}
+                      aria-label={!isCorrect && currentIndex === progress.correct ? 'Исправить ответ' : 'Результат ответа'}
+                    >
+                      {renderResultContent()}
+                    </div>
+                  ) : (
+                    <textarea
+                      ref={inputRef}
+                      className={`${inputClasses} phrase-input-editor`}
+                      value={userInput}
+                      onChange={handleInputChange}
+                      id="phraseInput"
+                      spellCheck={false}
+                      placeholder="Введите свой ответ здесь ..."
+                      aria-label="Введите перевод фразы"
+                      disabled={currentIndex !== progress.correct}
+                    />
+                  )}
                   
                   <div className="text-error">
                     {showResult && !isCorrect && !gaveUp ? (

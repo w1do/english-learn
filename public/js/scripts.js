@@ -326,9 +326,11 @@ checkTimestamp = () => {
 }
 
 function initTaskState() {
-    const $questionBox = $('.question-box');
-    const $currentTask = $('.current-task');
-    const $taskActions = $('.actions');
+    const $questionBox = $('.question-box').not('[data-exercise-owner="react"]');
+    if (!$questionBox.length) return;
+
+    const $currentTask = $questionBox.find('.current-task');
+    const $taskActions = $questionBox.find('.actions');
     const $input = $questionBox.find('input[name="translate"]');
 
     $input.on('copy cut selectstart paste', e => e.preventDefault());
@@ -839,9 +841,11 @@ function autoOpenRepeatReminder() {
 }
 
 function pjaxInit() {
-    const $questionBox = $('.question-box');
-    const $currentTask = $('.current-task');
-    const $taskActions = $('.actions');
+    const $questionBox = $('.question-box').not('[data-exercise-owner="react"]');
+    if (!$questionBox.length) return;
+
+    const $currentTask = $questionBox.find('.current-task');
+    const $taskActions = $questionBox.find('.actions');
     const $textError = $questionBox.find('.text-error');
     const $answerBox = $questionBox.find('.answer');
     const $input = $questionBox.find('#phraseInput');

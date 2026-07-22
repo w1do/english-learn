@@ -2478,6 +2478,15 @@ ul.pagination>li.next.disabled {
     position: relative;
 }
 
+.phrase-input-editor {
+    box-sizing: border-box;
+    color: inherit;
+    font-family: inherit;
+    line-height: normal;
+    outline: none;
+    resize: none;
+}
+
 .phrase-input-passed {
     display: block;
     width: 100%;

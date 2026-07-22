@@ -61,7 +61,7 @@ const CabinetModule: React.FC = () => {
             <div className="list-view">
               <div className="question-title">Выберите тему в сайдбаре, чтобы начать</div>
               <div className="quest-flex d-flex">
-                <div className="box question-box">
+                <div className="box question-box" data-exercise-owner="react">
                     <div className="text" style={{ textAlign: 'center', padding: '40px' }}>
                         Здесь будут отображаться ваши упражнения
                     </div>
