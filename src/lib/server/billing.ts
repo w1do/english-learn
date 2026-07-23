@@ -91,6 +91,7 @@ export async function currentUserId(authorization: string | null): Promise<strin
 export async function getUserSubscription(userId: string): Promise<Subscription | null> {
   const query = new URLSearchParams({
     'filter[user_id][_eq]': userId,
+    'filter[expired_at][_nnull]': 'true',
     sort: '-expired_at',
     fields: 'id,user_id,transaction_id,expired_at,is_prologation',
     limit: '1',
