@@ -1,3 +1,12 @@
+### 2026-07-23 (универсальный навык Platega)
+
+- Создан переносимый навык `.junie/skills/platega/SKILL.md` для безопасной интеграции Platega.io: разовые платежи, платёжные ссылки с заданным методом и без него, проверка статуса, H2H QR, три callback-потока, рекуррентные СБП-подписки, возвраты, балансы, выгрузки и Payout API.
+- Зафиксированы критические инварианты: merchant secrets доступны только серверу, сумма и тариф определяются backend-ом, поле `id` при создании не передаётся, success/failed redirect не считается подтверждением оплаты, callback-и проверяются и обрабатываются идемпотентно со сверкой суммы и валюты.
+- Добавлены references по актуальным API-контрактам, безопасности callback-ов и точной HMAC-подписи Payout; отдельно описаны расхождения документации Platega в casing, enum-схемах и response fields.
+- Добавлены переносимые TypeScript-шаблоны server client, DTO, callback auth/parser и отдельного Payout client с явным `Idempotency-Key`.
+- Навык зарегистрирован в `.junie/skills/SKILL.md` и `AGENTS.md`; его использование обязательно для всех задач Platega.
+- Фактическое подключение оплаты к `/checkout` в рамках этого этапа не выполнялось; текущая страница остаётся статической, а размещение secrets требует отдельного backend/BFF или осознанного перехода на server runtime.
+
 ### 2026-07-23 (авторизация через Directus)
 
 - Создан переносимый навык `.junie/skills/directus-auth/SKILL.md` для повторной реализации авторизации Directus в Astro + React проектах. В пакет входят архитектурные и security-инструкции, настройка Directus/CORS, шаблоны SDK storage, React-хука и формы, guest/protected guards, logout и сценарный чек-лист.
@@ -101,3 +110,19 @@
 - Перенёс `source/cabinet.html` → `src/pages/cabinet.astro` как статическую HTML-оболочку (61k строк, все скрипты через `is:inline`).
 - Добавил все URL в `urls-seo.txt`: `/`, `/videos`, `/cabinet`, `/checkout`, `/request-password-reset`, `/page/*`.
 - `npm run build` проходит без ошибок, собрано 11 страниц.
+### 2026-07-23 (Platega в личном кабинете)
+
+- `/checkout` подключён к server-side Platega API: сумма и параметры тарифов
+  выбираются только на сервере, пользователь подтверждается через текущий
+  Directus access token.
+- Тариф на 1 месяц оформляется как рекуррентная СБП-подписка с ежемесячным
+  списанием; тарифы на 3 и 12 месяцев оплачиваются один раз.
+- После создания платежа в Directus `subscriptions` сохраняются `user_id`,
+  provider `transaction_id`, `expired_at: null` и `is_prologation`.
+- Добавлены отдельные callback-и обычной оплаты, списания и статуса
+  подписки. Доступ выдаётся только после `CONFIRMED`; активация рекуррента и
+  success redirect доступ не выдают.
+- Astro переведён в Node server output. Динамические страницы блога явно
+  оставлены в prerender-режиме.
+- Настройка окружения, Directus и callback URL описана в
+  `docs/platega-directus.md`.

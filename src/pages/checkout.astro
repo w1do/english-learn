@@ -1,7 +1,12 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
+import ProtectedPageGuard from '../components/auth/ProtectedPageGuard.astro';
+import CheckoutButton from '../components/billing/CheckoutButton';
 ---
 <PageLayout title="Оформить подписку — MySimpleEnglish" description="Выберите подходящий тариф и получите доступ ко всем материалам платформы MySimpleEnglish.">
+<Fragment slot="head">
+    <ProtectedPageGuard loginPath="/" />
+</Fragment>
 <main>
     <section class="section-prices">
                     <div class="container">
@@ -50,7 +55,9 @@ import PageLayout from '../layouts/PageLayout.astro';
                                 <input type="text" class="promo-input" name="promo-input" value="" placeholder="Введите код ..." data-subscription-id="1">                                <div class="hint-promo"></div>
                             </div>
                             <div class="action">
-                                                                    <a class="btn btn-blue modal-trigger" href="/site/register" data-modal="modalRegistration">Перейти к оплате</a>                                                            </div>
+                                <CheckoutButton client:load planId="month" />
+                            </div>
+                            <div class="econom">Автопродление каждый месяц</div>
                         </div>
                                             <div class="item best_sell">
                             <div class="period">
@@ -70,7 +77,8 @@ import PageLayout from '../layouts/PageLayout.astro';
                                 <input type="text" class="promo-input" name="promo-input" value="" placeholder="Введите код ..." data-subscription-id="2">                                <div class="hint-promo"></div>
                             </div>
                             <div class="action">
-                                                                    <a class="btn btn-blue modal-trigger" href="/site/register" data-modal="modalRegistration">Перейти к оплате</a>                                                            </div>
+                                <CheckoutButton client:load planId="quarter" />
+                            </div>
                         </div>
                                             <div class="item benefit_sell">
                             <div class="period">
@@ -90,7 +98,8 @@ import PageLayout from '../layouts/PageLayout.astro';
                                 <input type="text" class="promo-input" name="promo-input" value="" placeholder="Введите код ..." data-subscription-id="4">                                <div class="hint-promo"></div>
                             </div>
                             <div class="action">
-                                                                    <a class="btn btn-blue modal-trigger" href="/site/register" data-modal="modalRegistration">Перейти к оплате</a>                                                            </div>
+                                <CheckoutButton client:load planId="year" />
+                            </div>
                         </div>
                                     </div>
                 <div class="infograph_items">
@@ -119,7 +128,7 @@ import PageLayout from '../layouts/PageLayout.astro';
                         </div>
                     </div>
                 </div>
-                <p class="text_center">Нажимая кнопку «Перейти к оплате», Вы соглашаетесь на автоматические списания согласно условиям <a href="page/publicnaa-oferta.html" target="_blank">публичной оферты.</a></p>
+                <p class="text_center">Для тарифа на 1 месяц включено ежемесячное автопродление. Тарифы на 3 и 12 месяцев оплачиваются один раз. Нажимая кнопку «Перейти к оплате», я соглашаюсь с условиями <a href="/page/publicnaa-oferta" target="_blank">публичной оферты.</a></p>
             </div>
             </section>
 </main>

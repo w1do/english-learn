@@ -1,0 +1,23 @@
+---
+import ProtectedPageGuard from '../../components/auth/ProtectedPageGuard.astro';
+import PageLayout from '../../layouts/PageLayout.astro';
+---
+
+<PageLayout
+  title="Оплата обрабатывается — MySimpleEnglish"
+  description="Проверка статуса оплаты подписки."
+>
+  <Fragment slot="head">
+    <ProtectedPageGuard loginPath="/" />
+  </Fragment>
+  <main class="container">
+    <section class="payment-result">
+      <h1>Оплата обрабатывается</h1>
+      <p>
+        Я активирую доступ после подтверждения платежа от Platega. Обычно это
+        занимает несколько секунд.
+      </p>
+      <a class="btn btn-blue" href="/cabinet">Вернуться в личный кабинет</a>
+    </section>
+  </main>
+</PageLayout>

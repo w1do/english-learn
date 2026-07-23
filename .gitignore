@@ -28,6 +28,8 @@ pnpm-debug.log*
 !.junie/skills/SKILL.md
 !.junie/skills/directus-auth/
 !.junie/skills/directus-auth/**
+!.junie/skills/platega/
+!.junie/skills/platega/**
 .ai
 /source
 /ref

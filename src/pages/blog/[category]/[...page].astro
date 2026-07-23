@@ -6,6 +6,8 @@ import ArticleCard from '../../../components/blog/ArticleCard.astro';
 import BlogPagination from '../../../components/blog/BlogPagination.astro';
 import { blogCategories } from '../../../lib/blog-categories';
 
+export const prerender = true;
+
 export async function getStaticPaths({ paginate }: any) {
     const posts = await getCollection('blog');
     return blogCategories.flatMap((category) => {

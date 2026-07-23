@@ -15,7 +15,7 @@ export default defineConfig({
     host: "0.0.0.0"
   },
 
-  output: 'static',
+  output: 'server',
   integrations: [react()],
 
   adapter: node({

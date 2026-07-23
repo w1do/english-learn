@@ -1,0 +1,20 @@
+---
+import ProtectedPageGuard from '../../components/auth/ProtectedPageGuard.astro';
+import PageLayout from '../../layouts/PageLayout.astro';
+---
+
+<PageLayout
+  title="Оплата не завершена — MySimpleEnglish"
+  description="Платёж не был завершён."
+>
+  <Fragment slot="head">
+    <ProtectedPageGuard loginPath="/" />
+  </Fragment>
+  <main class="container">
+    <section class="payment-result">
+      <h1>Оплата не завершена</h1>
+      <p>Доступ не изменён. Можно вернуться к тарифам и попробовать снова.</p>
+      <a class="btn btn-blue" href="/checkout">Вернуться к тарифам</a>
+    </section>
+  </main>
+</PageLayout>
