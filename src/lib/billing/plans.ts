@@ -16,7 +16,7 @@ export const BILLING_PLANS: Record<BillingPlanId, BillingPlan> = {
     description: 'Ежемесячная подписка MySimpleEnglish',
     amount: 1,
     durationMonths: 1,
-    recurring: true,
+    recurring: false,
   },
   quarter: {
     id: 'quarter',

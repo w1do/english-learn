@@ -126,34 +126,21 @@ export async function startPayment(plan: BillingPlan, userId: string) {
     throw new Error('Platega return URLs are not configured');
   }
 
-  const result = plan.recurring
-    ? await platega<{ transactionId: string; redirect?: string; url?: string }>(
-        '/transaction/process',
-        {
-          paymentMethod: 2,
-          paymentDetails: {
-            amount: plan.amount,
-            currency: 'RUB',
-            interval: plan.durationMonths,
-          },
-          description: plan.description,
-          return: returnUrl,
-          failedUrl,
-          payload: crypto.randomUUID(),
-          metadata: { userId },
-        },
-      )
-    : await platega<{ transactionId: string; redirect?: string; url?: string }>(
-        '/v2/transaction/process',
-        {
-          paymentDetails: { amount: plan.amount, currency: 'RUB' },
-          description: plan.description,
-          return: returnUrl,
-          failedUrl,
-          payload: crypto.randomUUID(),
-          metadata: { userId },
-        },
-      );
+  const result = await platega<{ transactionId: string; redirect?: string; url?: string }>(
+    '/transaction/process',
+    {
+      paymentMethod: 2,
+      paymentDetails: {
+        amount: plan.amount,
+        currency: 'RUB',
+      },
+      description: plan.description,
+      return: returnUrl,
+      failedUrl,
+      payload: crypto.randomUUID(),
+      metadata: { userId },
+    },
+  );
 
   const redirectUrl = result.redirect || result.url;
   if (!result.transactionId || !redirectUrl) throw new Error('Invalid Platega response');
