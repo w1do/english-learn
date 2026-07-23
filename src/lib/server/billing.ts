@@ -130,7 +130,7 @@ export async function startPayment(plan: BillingPlan, userId: string) {
     ? await platega<{ transactionId: string; redirect?: string; url?: string }>(
         '/transaction/process',
         {
-          paymentMethod: 6,
+          paymentMethod: 2,
           paymentDetails: {
             amount: plan.amount,
             currency: 'RUB',
