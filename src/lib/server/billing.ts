@@ -122,7 +122,7 @@ export async function startPayment(plan: BillingPlan, userId: string) {
   const returnUrl = process.env.PLATEGA_RETURN_URL?.trim();
   const failedUrl = process.env.PLATEGA_FAILED_URL?.trim();
 
-  if (!plan.recurring && (!returnUrl || !failedUrl)) {
+  if (!returnUrl || !failedUrl) {
     throw new Error('Platega return URLs are not configured');
   }
 
@@ -130,9 +130,17 @@ export async function startPayment(plan: BillingPlan, userId: string) {
     ? await platega<{ transactionId: string; redirect?: string; url?: string }>(
         '/transaction/process',
         {
-          paymentMethod: 2,
-          paymentDetails: { amount: plan.amount, currency: 'RUB', interval: 3 },
+          paymentMethod: 6,
+          paymentDetails: {
+            amount: plan.amount,
+            currency: 'RUB',
+            interval: plan.durationMonths,
+          },
           description: plan.description,
+          return: returnUrl,
+          failedUrl,
+          payload: crypto.randomUUID(),
+          metadata: { userId },
         },
       )
     : await platega<{ transactionId: string; redirect?: string; url?: string }>(
