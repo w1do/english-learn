@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import AuthForm from './AuthForm';
 
 export default function SignupLoginForm() {
     const [mode, setMode] = useState<'signup' | 'login'>('signup');
@@ -9,18 +10,11 @@ export default function SignupLoginForm() {
                 <div className="title">Английский в удобном формате</div>
                 <span className="slogan">Видеоуроки, карточки и тренировки перевода - всё в одном месте. Создайте аккаунт и начинайте</span>
                 <div className="form-wrap">
-                    <form id="signup-form" action="/site/signup" method="post">
-                        <div className="form-group field-signupform-username required">
-                            <p><input type="text" id="signupform-username" className="form-control" name="SignupForm[username]" placeholder="Имя" aria-required={true} /><span className="error-message"></span></p>
-                        </div>
-                        <div className="form-group field-signupform-email required">
-                            <p><input type="text" id="signupform-email" className="form-control" name="SignupForm[email]" placeholder="E-mail" aria-required={true} /><span className="error-message"></span></p>
-                        </div>
-                        <div className="form-group field-signupform-password required">
-                            <p><input type="password" id="signupform-password" className="form-control" name="SignupForm[password]" placeholder="Пароль" aria-required={true} /><span className="error-message"></span></p>
-                        </div>
-                        <button type="submit" className="btn btn-blue">Начать обучение</button>
-                    </form>
+                    <AuthForm
+                        formId="signup-form"
+                        mode="signup"
+                        submitLabel="Начать обучение"
+                    />
                     <p className="acceptance">
                         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M17.5 5L10 12.5L6.875 9.375" stroke="#A0A5B3" strokeWidth="2" strokeMiterlimit="10"></path>
@@ -39,15 +33,11 @@ export default function SignupLoginForm() {
                 <div className="title">Простой способ выучить английский</div>
                 <span className="slogan">Короткие задания без скучных уроков в удобное время</span>
                 <div className="form-wrap">
-                    <form id="w0" action="/site/login" method="post">
-                        <div className="form-group field-loginform-email required">
-                            <p><input type="text" id="loginform-email" className="form-control" name="LoginForm[email]" placeholder="Email" aria-required={true} /><span className="error-message"></span></p>
-                        </div>
-                        <div className="form-group field-loginform-password required">
-                            <p><input type="password" id="loginform-password" className="form-control" name="LoginForm[password]" placeholder="Password" aria-required={true} /><span className="error-message"></span></p>
-                        </div>
-                        <button type="submit" className="btn btn-blue">Войти</button>
-                    </form>
+                    <AuthForm
+                        formId="login-form"
+                        mode="login"
+                        submitLabel="Войти"
+                    />
                     <p className="acceptance">
                         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M17.5 5L10 12.5L6.875 9.375" stroke="#A0A5B3" strokeWidth="2" strokeMiterlimit="10"></path>

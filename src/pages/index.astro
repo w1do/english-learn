@@ -1,15 +1,46 @@
 ---
 import SignupLoginForm from '../components/forms/SignupLoginForm';
+import AuthForm from '../components/forms/AuthForm';
 import Footer from '../components/shared/footer/Footer.astro';
 ---
 <!DOCTYPE html>
-<html lang="ru-RU" class="h-100">
+<html lang="ru-RU" class="h-100 auth-session-pending">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/img/fav.png">
     <title>Учить английский самостоятельно без репетитора — MySimpleEnglish</title>
     <meta name="description" content="Онлайн-тренажёр английского: 100+ тем по уровням A1–B2, метод перевода предложений, прогресс сохраняется. Начните бесплатно прямо сейчас.">
+    <style is:inline>
+        .auth-session-pending body {
+            visibility: hidden;
+        }
+    </style>
+    <noscript>
+        <style>
+            .auth-session-pending body {
+                visibility: visible;
+            }
+        </style>
+    </noscript>
+    <script>
+        import { hasAuthenticatedDirectusSession } from '../lib/directus';
+
+        const revealAuthPage = () => {
+            document.documentElement.classList.remove('auth-session-pending');
+        };
+
+        hasAuthenticatedDirectusSession()
+            .then((isAuthenticated) => {
+                if (isAuthenticated) {
+                    window.location.replace('/cabinet');
+                    return;
+                }
+
+                revealAuthPage();
+            })
+            .catch(revealAuthPage);
+    </script>
     <link href="/css/normalize.min.css" rel="stylesheet">
     <link href="/css/datepicker.min.css" rel="stylesheet">
     <link href="/css/slick.css" rel="stylesheet">
@@ -67,15 +98,12 @@ import Footer from '../components/shared/footer/Footer.astro';
                 <div class="close-modal"><img src="/img/close.svg" alt=""></div>
                 <div class="title">Вход</div>
                 <div class="form-wrap">
-                    <form id="w1" action="/site/login" method="post">
-                        <div class="form-group field-loginform-email required">
-                            <p><input type="text" id="loginform-email" class="form-control" name="LoginForm[email]" placeholder="Email" aria-required="true"><span class="error-message"></span></p>
-                        </div>
-                        <div class="form-group field-loginform-password required">
-                            <p><input type="password" id="loginform-password" class="form-control" name="LoginForm[password]" placeholder="Password" aria-required="true"><span class="error-message"></span></p>
-                        </div>
-                        <button type="submit" class="btn btn-blue">Войти</button>
-                    </form>
+                    <AuthForm
+                        client:load
+                        formId="modal-login-form"
+                        mode="login"
+                        submitLabel="Войти"
+                    />
                     <div class="reg-by-social">
                         <p>Вход через соцсети</p>
                         <ul>
@@ -102,18 +130,12 @@ import Footer from '../components/shared/footer/Footer.astro';
                 <div class="close-modal"><img src="/img/close.svg" alt=""></div>
                 <div class="title">Регистрация</div>
                 <div class="form-wrap">
-                    <form id="signup-form-modal" action="/site/signup" method="post">
-                        <div class="form-group field-signupform-username required">
-                            <p><input type="text" class="form-control" name="SignupForm[username]" placeholder="Имя" aria-required="true"><span class="error-message"></span></p>
-                        </div>
-                        <div class="form-group field-signupform-email required">
-                            <p><input type="text" class="form-control" name="SignupForm[email]" placeholder="E-mail" aria-required="true"><span class="error-message"></span></p>
-                        </div>
-                        <div class="form-group field-signupform-password required">
-                            <p><input type="password" class="form-control" name="SignupForm[password]" placeholder="Пароль" aria-required="true"><span class="error-message"></span></p>
-                        </div>
-                        <button type="submit" class="btn btn-blue">Зарегистрироваться</button>
-                    </form>
+                    <AuthForm
+                        client:load
+                        formId="modal-signup-form"
+                        mode="signup"
+                        submitLabel="Зарегистрироваться"
+                    />
                     <p class="acceptance">
                         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M17.5 5L10 12.5L6.875 9.375" stroke="#2E4373" stroke-width="2" stroke-miterlimit="10"></path>
