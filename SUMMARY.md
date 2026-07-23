@@ -1,5 +1,7 @@
 ### 2026-07-23 (авторизация через Directus)
 
+- Создан переносимый навык `.junie/skills/directus-auth/SKILL.md` для повторной реализации авторизации Directus в Astro + React проектах. В пакет входят архитектурные и security-инструкции, настройка Directus/CORS, шаблоны SDK storage, React-хука и формы, guest/protected guards, logout и сценарный чек-лист.
+- Навык зарегистрирован в `.junie/skills/SKILL.md` и `AGENTS.md`; для задач login/signup/session/refresh/guards/logout его использование обязательно.
 - Подключены регистрация (`POST /users/register`) и вход (`POST /auth/login`) через Directus по адресу `http://english-directus-e543fd-77-110-104-179.sslip.io`.
 - После регистрации выполняется автоматический вход; после успешной авторизации пользователь перенаправляется в `/cabinet`.
 - Access token сохраняется в `localStorage` под ключом `directus_access_token`; refresh token и время истечения сохраняются под ключами `directus_refresh_token` и `directus_token_expires`.
