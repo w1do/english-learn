@@ -1,9 +1,11 @@
 ---
 import CabinetModule from '../components/cabinet/CabinetModule';
+import ProtectedPageGuard from '../components/auth/ProtectedPageGuard.astro';
 import PageLayout from '../layouts/PageLayout.astro';
 ---
 <PageLayout title="Обучение английскому языку с 0 до профи" activePage="cabinet">
     <Fragment slot="head">
+        <ProtectedPageGuard loginPath="/" />
         <meta name="csrf-param" content="_csrf-frontend">
         <meta name="csrf-token" content="cnd8fEA8zTqsNsHjY_hbmHxPgJGKe1O9OuODzV2uz7I3HjMkBU6VD9UEqLYAkS3aDCvRpbkUCfhUu9m3Pt2p6g==">
         <script is:inline src="https://www.google.com/recaptcha/api.js" async defer></script>
