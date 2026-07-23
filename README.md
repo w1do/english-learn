@@ -1,5 +1,19 @@
 # Astro Starter Kit: Basics
 
+## Оплата Platega
+
+Оплата запускается через серверный endpoint `/api/billing/checkout`. Клиент
+передаёт только `planId`, а пользователь, сумма и параметры тарифа проверяются
+на сервере. После ответа Platega создаётся pending-запись в Directus
+`subscriptions`; доступ обновляется только callback-ами Platega.
+
+Для server runtime задайте в окружении `DIRECTUS_URL`,
+`DIRECTUS_SERVICE_TOKEN`, `PLATEGA_BASE_URL`, `PLATEGA_MERCHANT_ID`,
+`PLATEGA_SECRET`, `PLATEGA_RETURN_URL` и `PLATEGA_FAILED_URL`. В кабинете
+Platega укажите callback-маршруты `/api/webhooks/platega/payment`,
+`/api/webhooks/platega/subscription-charge` и
+`/api/webhooks/platega/subscription-status` на публичном HTTPS-домене.
+
 ```sh
 npm create astro@latest -- --template basics
 ```

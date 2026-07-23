@@ -4,7 +4,7 @@
 
 ## Базовый порядок работы
 
-1. Сначала открой главный файл навыков проекта: `~/shared-skills/shared-skills/SKILL.md`.
+1. Сначала открой главный файл навыков проекта: `.codex/skills/frontend/SKILL.md`.
 2. Затем включай только те навыки, которые соответствуют текущей задаче.
 3. Если задача попадает под специализированный навык, следуй ему, а не переписывай правило вручную здесь.
 4. Для больших задач держи архитектуру, контент, SEO, качество и документацию синхронно.
@@ -21,29 +21,29 @@
 
 ### Архитектура и структура
 
-- Используй `~/shared-skills/shared-skills/architecture/SKILL.md`, когда нужно определить структуру папок, границы слоёв, подход к переиспользованию и размещению модулей.
-- Если задача связана с переносом или раскладкой UI по компонентам, дополнительно используй `~/shared-skills/shared-skills/components/SKILL.md`.
+- Используй `.codex/skills/frontend/architecture/SKILL.md`, когда нужно определить структуру папок, границы слоёв, подход к переиспользованию и размещению модулей.
+- Если задача связана с переносом или раскладкой UI по компонентам, дополнительно используй `.codex/skills/frontend/components/SKILL.md`.
 
 ### Контент и SEO
 
-- Используй `~/shared-skills/shared-skills/seo-write/SKILL.md` для любых текстов, посадочных страниц, мета-тегов и SEO-структуры.
-- Используй `~/shared-skills/shared-skills/content/SKILL.md`, когда работа идёт с коллекциями контента, frontmatter и markdown-данными.
-- Используй `~/shared-skills/shared-skills/landing-copy/SKILL.md`, когда нужно собрать посадочную страницу по структуре запроса.
-- Используй `~/shared-skills/shared-skills/cluster-pilar-page/SKILL.md`, когда один запрос разворачивается в кластер страниц.
-- Используй `~/shared-skills/shared-skills/source-copy/SKILL.md`, когда нужно точно перенести верстку из `source/` без фантазии.
-- Используй `~/shared-skills/shared-skills/astro-llm-md/SKILL.md`, когда нужно собрать LLM-ориентированную карту страниц.
-- Используй `~/shared-skills/shared-skills/seo-engine/SKILL.md`, когда нужно собрать `robots.txt`, `sitemap` и SEO-инфраструктуру.
-- Используй `~/shared-skills/shared-skills/seo-urls/SKILL.md`, когда нужно поддерживать плоский список URL для переобхода.
+- Используй `.codex/skills/frontend/seo-write/SKILL.md` для любых текстов, посадочных страниц, мета-тегов и SEO-структуры.
+- Используй `.codex/skills/frontend/content/SKILL.md`, когда работа идёт с коллекциями контента, frontmatter и markdown-данными.
+- Используй `.codex/skills/frontend/landing-copy/SKILL.md`, когда нужно собрать посадочную страницу по структуре запроса.
+- Используй `.codex/skills/frontend/cluster-pilar-page/SKILL.md`, когда один запрос разворачивается в кластер страниц.
+- Используй `.codex/skills/frontend/source-copy/SKILL.md`, когда нужно точно перенести верстку из `source/` без фантазии.
+- Используй `.codex/skills/frontend/astro-llm-md/SKILL.md`, когда нужно собрать LLM-ориентированную карту страниц.
+- Используй `.codex/skills/frontend/seo-engine/SKILL.md`, когда нужно собрать `robots.txt`, `sitemap` и SEO-инфраструктуру.
+- Используй `.codex/skills/frontend/seo-urls/SKILL.md`, когда нужно поддерживать плоский список URL для переобхода.
 
 ### Качество и документация
 
-- Используй `~/shared-skills/shared-skills/quality/SKILL.md` для форматирования, линтинга, типизации и проверок.
-- Используй `~/shared-skills/shared-skills/documentation/SKILL.md` для обновления `SUMMARY.md` и документации по изменённому функционалу.
+- Используй `.codex/skills/frontend/quality/SKILL.md` для форматирования, линтинга, типизации и проверок.
+- Используй `.codex/skills/frontend/documentation/SKILL.md` для обновления `SUMMARY.md` и документации по изменённому функционалу.
 
 ### Интеграции
 
-- Используй `~/shared-skills/shared-skills/directus-auth/SKILL.md` для авторизации Directus, refresh-токенов, session checks, protected/guest guards и logout.
-- Используй `~/shared-skills/shared-skills/platega/SKILL.md` для платежей Platega, callback-ов, подписок, возвратов, балансов, выгрузок и Payout API.
+- Используй `.codex/skills/frontend/directus-auth/SKILL.md` для авторизации Directus, refresh-токенов, session checks, protected/guest guards и logout.
+- Используй `.codex/skills/frontend/platega/SKILL.md` для платежей Platega, callback-ов, подписок, возвратов, балансов, выгрузок и Payout API.
 
 ## Специальные правила проекта
 
@@ -93,18 +93,18 @@
 
 ## Точка входа в навыки
 
-- `~/shared-skills/shared-skills/SKILL.md`
-- `~/shared-skills/shared-skills/architecture/SKILL.md`
-- `~/shared-skills/shared-skills/components/SKILL.md`
-- `~/shared-skills/shared-skills/content/SKILL.md`
-- `~/shared-skills/shared-skills/seo-write/SKILL.md`
-- `~/shared-skills/shared-skills/landing-copy/SKILL.md`
-- `~/shared-skills/shared-skills/source-copy/SKILL.md`
-- `~/shared-skills/shared-skills/cluster-pilar-page/SKILL.md`
-- `~/shared-skills/shared-skills/astro-llm-md/SKILL.md`
-- `~/shared-skills/shared-skills/seo-engine/SKILL.md`
-- `~/shared-skills/shared-skills/seo-urls/SKILL.md`
-- `~/shared-skills/shared-skills/documentation/SKILL.md`
-- `~/shared-skills/shared-skills/quality/SKILL.md`
-- `~/shared-skills/shared-skills/directus-auth/SKILL.md`
-- `~/shared-skills/shared-skills/platega/SKILL.md`
+- `.codex/skills/frontend/SKILL.md`
+- `.codex/skills/frontend/architecture/SKILL.md`
+- `.codex/skills/frontend/components/SKILL.md`
+- `.codex/skills/frontend/content/SKILL.md`
+- `.codex/skills/frontend/seo-write/SKILL.md`
+- `.codex/skills/frontend/landing-copy/SKILL.md`
+- `.codex/skills/frontend/source-copy/SKILL.md`
+- `.codex/skills/frontend/cluster-pilar-page/SKILL.md`
+- `.codex/skills/frontend/astro-llm-md/SKILL.md`
+- `.codex/skills/frontend/seo-engine/SKILL.md`
+- `.codex/skills/frontend/seo-urls/SKILL.md`
+- `.codex/skills/frontend/documentation/SKILL.md`
+- `.codex/skills/frontend/quality/SKILL.md`
+- `.codex/skills/frontend/directus-auth/SKILL.md`
+- `.codex/skills/frontend/platega/SKILL.md`
