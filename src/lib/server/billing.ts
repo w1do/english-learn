@@ -88,6 +88,19 @@ export async function currentUserId(authorization: string | null): Promise<strin
   return body.data.id;
 }
 
+export async function getUserSubscription(userId: string): Promise<Subscription | null> {
+  const query = new URLSearchParams({
+    'filter[user_id][_eq]': userId,
+    sort: '-expired_at',
+    fields: 'id,user_id,transaction_id,expired_at,is_prologation',
+    limit: '1',
+  });
+  const rows = await directus<Subscription[]>(`/items/subscriptions?${query}`, {
+    headers: directusHeaders(),
+  });
+  return rows[0] || null;
+}
+
 async function platega<T>(path: string, payload: unknown): Promise<T> {
   const merchantId = process.env.PLATEGA_MERCHANT_ID?.trim();
   const secret = process.env.PLATEGA_SECRET?.trim();

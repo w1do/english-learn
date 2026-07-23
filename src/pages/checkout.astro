@@ -2,6 +2,7 @@
 import PageLayout from '../layouts/PageLayout.astro';
 import ProtectedPageGuard from '../components/auth/ProtectedPageGuard.astro';
 import CheckoutButton from '../components/billing/CheckoutButton';
+import SubscriptionStatus from '../components/billing/SubscriptionStatus';
 ---
 <PageLayout title="Оформить подписку — MySimpleEnglish" description="Выберите подходящий тариф и получите доступ ко всем материалам платформы MySimpleEnglish.">
 <Fragment slot="head">
@@ -12,6 +13,7 @@ import CheckoutButton from '../components/billing/CheckoutButton';
                     <div class="container">
                 <h2 class="page-title text-center">Выберите подходящий тариф</h2>
                 <p class="text-center white-text">Получите доступ ко всем материалам и развивайте английский в удобном темпе</p>
+                <SubscriptionStatus client:load />
                 <div class="infograph_items">
                     <div class="item">
                         <div class="img_block">

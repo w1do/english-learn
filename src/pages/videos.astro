@@ -1,8 +1,32 @@
 ---
 import { videoLevels } from '../lib/videos-mock';
 import PageLayout from '../layouts/PageLayout.astro';
+import { DIRECTUS_ACCESS_TOKEN_KEY } from '../lib/directus';
 ---
 <PageLayout title="Видеоуроки по английскому - тренировка перевода по уровням" description="Короткие видео-карточки для тренировки перевода с русского на английский. Уровни от A1 до B2 - выбирайте свой уровень и занимайтесь в удобном темпе." activePage="videos">
+    <style is:inline>
+        .video-locked .thumb {
+            position: relative;
+            cursor: pointer;
+        }
+        .video-locked .lock-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 12px;
+            z-index: 2;
+        }
+        .video-locked .lock-overlay img {
+            width: 48px;
+            height: 48px;
+        }
+    </style>
     <main class="page-videos">
         <section>
             <div class="container">
@@ -25,10 +49,11 @@ import PageLayout from '../layouts/PageLayout.astro';
                         <li><a class="active" href="javascript:void(0)">Все темы</a></li>
                     </ul>
                     <div class="videos-list" id="videos-list">
-                        {videoLevels[0].videos.map(v => (
-                            <div class="item" data-id={v.id}>
-                                <a class="thumb" href={v.video} data-fancybox="">
+                        {videoLevels[0].videos.map((v, i) => (
+                            <div class={`item${i >= 3 ? ' video-locked' : ''}`} data-id={v.id}>
+                                <a class="thumb" href={i >= 3 ? "/checkout" : v.video} data-fancybox={i >= 3 ? null : ""}>
                                     <img src={v.thumb} alt={v.cards} />
+                                    {i >= 3 && <div class="lock-overlay"><img src="/img/premium-overlay.svg" alt="Заблокировано" /></div>}
                                 </a>
                                 <div class="title">{v.title}</div>
                                 <ul class="tags">
@@ -44,12 +69,60 @@ import PageLayout from '../layouts/PageLayout.astro';
     </main>
 
     <Fragment slot="footer">
-        <script is:inline define:vars={{ videoLevels }}>
+        <script is:inline define:vars={{ videoLevels, DIRECTUS_ACCESS_TOKEN_KEY }}>
             document.addEventListener('DOMContentLoaded', function () {
                 var levels = document.querySelectorAll('#levels-list .item');
                 var videosList = document.getElementById('videos-list');
                 var boxTitle = document.getElementById('box-title');
                 var boxSubtitle = document.getElementById('box-subtitle');
+
+                window.SUBSCRIPTION_ACTIVE = false;
+                var token = localStorage.getItem(DIRECTUS_ACCESS_TOKEN_KEY);
+
+                function renderVideos(level) {
+                    videosList.innerHTML = level.videos.map(function (v, i) {
+                        var isLocked = !window.SUBSCRIPTION_ACTIVE && i >= 3;
+                        var href = isLocked ? '/checkout' : v.video;
+                        var fancyboxAttr = isLocked ? '' : 'data-fancybox=""';
+                        var lockOverlay = isLocked ? '<div class="lock-overlay"><img src="/img/premium-overlay.svg" alt="Заблокировано"></div>' : '';
+                        var lockedClass = isLocked ? ' video-locked' : '';
+
+                        return '<div class="item' + lockedClass + '" data-id="' + v.id + '">' +
+                            '<a class="thumb" href="' + href + '" ' + fancyboxAttr + '>' +
+                            '<img src="' + v.thumb + '" alt="' + v.cards + '">' +
+                            lockOverlay +
+                            '</a>' +
+                            '<div class="title">' + v.title + '</div>' +
+                            '<ul class="tags"><li>' + v.cards + '</li><li>' + v.duration + '</li></ul>' +
+                            '</div>';
+                    }).join('');
+
+                    if (typeof $ !== 'undefined' && typeof $.fn.fancybox !== 'undefined') {
+                        $('[data-fancybox]').fancybox({ video: { autoStart: true } });
+                    }
+                }
+
+                if (token) {
+                    fetch('/api/billing/subscription', {
+                        headers: { 'Authorization': 'Bearer ' + token }
+                    })
+                    .then(function(res) { return res.json(); })
+                    .then(function(data) {
+                        if (data.subscription && data.subscription.expired_at) {
+                            var expiry = new Date(data.subscription.expired_at);
+                            if (expiry > new Date()) {
+                                window.SUBSCRIPTION_ACTIVE = true;
+                                var activeLevelItem = document.querySelector('#levels-list .item.active');
+                                if (activeLevelItem) {
+                                    var id = parseInt(activeLevelItem.getAttribute('data-level-id'));
+                                    var level = videoLevels.find(function (l) { return l.id === id; });
+                                    if (level) renderVideos(level);
+                                }
+                            }
+                        }
+                    })
+                    .catch(function(err) { console.error(err); });
+                }
 
                 levels.forEach(function (el) {
                     el.addEventListener('click', function () {
@@ -63,24 +136,8 @@ import PageLayout from '../layouts/PageLayout.astro';
                         boxTitle.textContent = level.title;
                         boxSubtitle.textContent = level.count + ' коротких видео';
 
-                        videosList.innerHTML = level.videos.map(function (v) {
-                            return '<div class="item" data-id="' + v.id + '">' +
-                                '<a class="thumb" href="' + v.video + '" data-fancybox="">' +
-                                '<img src="' + v.thumb + '" alt="' + v.cards + '">' +
-                                '</a>' +
-                                '<div class="title">' + v.title + '</div>' +
-                                '<ul class="tags"><li>' + v.cards + '</li><li>' + v.duration + '</li></ul>' +
-                                '</div>';
-                        }).join('');
-
-                        if (typeof $.fn.fancybox !== 'undefined') {
-                            $('[data-fancybox]').fancybox({ video: { autoStart: true } });
-                        }
+                        renderVideos(level);
                     });
-                });
-
-                $('.videos-list .item .thumb').click(function () {
-                    // handled by fancybox
                 });
             });
         </script>
