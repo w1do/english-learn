@@ -6,12 +6,12 @@ import { findBillingPlanByAmount } from '../billing/plans';
 setDefaultResultOrder('ipv4first');
 
 const directusUrl = (
-  import.meta.env.DIRECTUS_URL ||
-  import.meta.env.PUBLIC_DIRECTUS_URL ||
+  process.env.DIRECTUS_URL ||
+  process.env.PUBLIC_DIRECTUS_URL ||
   'https://api.my-simple-english.ru'
 ).replace(/\/+$/, '');
 const plategaUrl = (
-  import.meta.env.PLATEGA_BASE_URL || 'https://app.platega.io'
+  process.env.PLATEGA_BASE_URL || 'https://app.platega.io'
 ).replace(/\/+$/, '');
 
 function addMonths(date: Date, months: number) {
@@ -41,7 +41,7 @@ export class UpstreamError extends Error {
 }
 
 function directusHeaders(): HeadersInit {
-  const token = import.meta.env.DIRECTUS_SERVICE_TOKEN?.trim();
+  const token = process.env.DIRECTUS_SERVICE_TOKEN?.trim();
   if (!token) throw new Error('DIRECTUS_SERVICE_TOKEN is required');
   return {
     Authorization: `Bearer ${token}`,
@@ -89,8 +89,8 @@ export async function currentUserId(authorization: string | null): Promise<strin
 }
 
 async function platega<T>(path: string, payload: unknown): Promise<T> {
-  const merchantId = import.meta.env.PLATEGA_MERCHANT_ID?.trim();
-  const secret = import.meta.env.PLATEGA_SECRET?.trim();
+  const merchantId = process.env.PLATEGA_MERCHANT_ID?.trim();
+  const secret = process.env.PLATEGA_SECRET?.trim();
   if (!merchantId || !secret) throw new Error('Platega credentials are not configured');
 
   let response: Response;
@@ -119,8 +119,8 @@ async function platega<T>(path: string, payload: unknown): Promise<T> {
 }
 
 export async function startPayment(plan: BillingPlan, userId: string) {
-  const returnUrl = import.meta.env.PLATEGA_RETURN_URL?.trim();
-  const failedUrl = import.meta.env.PLATEGA_FAILED_URL?.trim();
+  const returnUrl = process.env.PLATEGA_RETURN_URL?.trim();
+  const failedUrl = process.env.PLATEGA_FAILED_URL?.trim();
 
   if (!plan.recurring && (!returnUrl || !failedUrl)) {
     throw new Error('Platega return URLs are not configured');
@@ -188,8 +188,8 @@ async function updateSubscription(id: Subscription['id'], patch: Partial<Subscri
 }
 
 function validSecret(headers: Headers) {
-  const expectedMerchant = import.meta.env.PLATEGA_MERCHANT_ID?.trim();
-  const expectedSecret = import.meta.env.PLATEGA_SECRET?.trim();
+  const expectedMerchant = process.env.PLATEGA_MERCHANT_ID?.trim();
+  const expectedSecret = process.env.PLATEGA_SECRET?.trim();
   const same = (actual: string | null, expected: string | undefined) => {
     if (!actual || !expected) return false;
     return timingSafeEqual(

@@ -12,6 +12,8 @@ FROM base AS build-deps
 RUN npm install
 
 FROM build-deps AS build
+ARG PUBLIC_DIRECTUS_URL
+ENV PUBLIC_DIRECTUS_URL=${PUBLIC_DIRECTUS_URL}
 COPY . .
 RUN npm run build
 

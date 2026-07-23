@@ -14,6 +14,16 @@ Platega укажите callback-маршруты `/api/webhooks/platega/payment`
 `/api/webhooks/platega/subscription-charge` и
 `/api/webhooks/platega/subscription-status` на публичном HTTPS-домене.
 
+При Docker-деплое через Dokploy серверные переменные должны быть добавлены как
+runtime environment variables контейнера. Их не нужно и небезопасно передавать
+как Docker build arguments. Исключение — публичный `PUBLIC_DIRECTUS_URL`: он
+используется браузерным кодом и должен быть добавлен в Dokploy как build
+argument, после чего приложение необходимо пересобрать без build cache.
+
+```text
+PUBLIC_DIRECTUS_URL=https://api.my-simple-english.ru
+```
+
 ```sh
 npm create astro@latest -- --template basics
 ```
