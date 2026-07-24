@@ -20,7 +20,7 @@ export default function SignupLoginForm() {
                             <path d="M17.5 5L10 12.5L6.875 9.375" stroke="#A0A5B3" strokeWidth="2" strokeMiterlimit="10"></path>
                             <path d="M16.25 8.875V16.25H3.75V3.75H16.125L17.375 2.5H2.5V17.5H17.5V7.625L16.25 8.875Z" fill="#A0A5B3"></path>
                         </svg>
-                        Даю согласие на обработку <a href="/page/politika-konfidencialnosti" target="_blank">персональных данных</a>
+                        Даю согласие на обработку персональных данных
                     </p>
                     <div className="links">
                         <span>Есть аккаунт?</span>
@@ -43,7 +43,7 @@ export default function SignupLoginForm() {
                             <path d="M17.5 5L10 12.5L6.875 9.375" stroke="#A0A5B3" strokeWidth="2" strokeMiterlimit="10"></path>
                             <path d="M16.25 8.875V16.25H3.75V3.75H16.125L17.375 2.5H2.5V17.5H17.5V7.625L16.25 8.875Z" fill="#A0A5B3"></path>
                         </svg>
-                        Даю согласие на обработку <a href="/page/politika-konfidencialnosti" target="_blank">персональных данных</a>
+                        Даю согласие на обработку персональных данных
                     </p>
                     <div className="links">
                         <a href="#" className="form_change_page_sign" onClick={(e) => { e.preventDefault(); setMode('signup'); }}>Зарегистрироваться</a>
