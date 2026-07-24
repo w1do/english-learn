@@ -1,70 +1,56 @@
-# Astro Starter Kit: Basics
+# My Simple English
 
-## Оплата Platega
+Платформа для изучения английского языка с упражнениями, видео-курсами и блогом.
 
-Оплата запускается через серверный endpoint `/api/billing/checkout`. Клиент
-передаёт только `planId`, а пользователь, сумма и параметры тарифа проверяются
-на сервере. После ответа Platega создаётся pending-запись в Directus
-`subscriptions`; доступ обновляется только callback-ами Platega.
+## 🚀 Технологический стек
 
-Для server runtime задайте в окружении `DIRECTUS_URL`,
-`DIRECTUS_SERVICE_TOKEN`, `PLATEGA_BASE_URL`, `PLATEGA_MERCHANT_ID`,
-`PLATEGA_SECRET`, `PLATEGA_RETURN_URL` и `PLATEGA_FAILED_URL`. В кабинете
-Platega укажите callback-маршруты `/api/webhooks/platega/payment`,
-`/api/webhooks/platega/subscription-charge` и
-`/api/webhooks/platega/subscription-status` на публичном HTTPS-домене.
+- **Фреймворк:** [Astro](https://astro.build) (режим SSR, адаптер Node.js)
+- **UI-библиотека:** [React](https://reactjs.org) (для интерактивных форм и личного кабинета)
+- **CMS и Авторизация:** [Directus](https://directus.io)
+- **Платежная система:** [Platega](https://platega.io)
+- **Стилизация:** Tailwind CSS
+- **Хранилище медиа:** MinIO (S3)
+- **Деплой:** Docker + Dokploy
 
-При Docker-деплое через Dokploy серверные переменные должны быть добавлены как
-runtime environment variables контейнера. Их не нужно и небезопасно передавать
-как Docker build arguments. Исключение — публичный `PUBLIC_DIRECTUS_URL`: он
-используется браузерным кодом и должен быть добавлен в Dokploy как build
-argument, после чего приложение необходимо пересобрать без build cache.
+## 📁 Структура проекта
 
-```text
-PUBLIC_DIRECTUS_URL=https://api.my-simple-english.ru
-```
+Внутри проекта вы найдете следующие папки и файлы:
 
-```sh
-npm create astro@latest -- --template basics
-```
+- `src/pages/` — маршруты страниц и API-эндпоинты.
+- `src/components/` — UI-компоненты (Astro и React).
+- `src/layouts/` — шаблоны страниц.
+- `src/content/` — коллекции контента (статьи блога).
+- `src/lib/` — бизнес-логика, API-клиенты (Directus, Platega) и моки данных.
+- `src/middleware.js` — проксирование медиафайлов из S3 (MinIO).
+- `docs/` — подробная техническая документация.
+- `source/` — исходные HTML-шаблоны (используются как справочник при переносе).
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🛠 Команды
 
-## 🚀 Project Structure
+Все команды запускаются из корня проекта:
 
-Inside of your Astro project, you'll see the following folders and files:
+| Команда | Действие |
+| :--- | :--- |
+| `npm install` | Установка зависимостей |
+| `npm run dev` | Запуск сервера разработки на `localhost:4321` |
+| `npm run build` | Сборка проекта для продакшена в `./dist/` |
+| `npm run preview` | Предварительный просмотр сборки локально |
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+## ⚙️ Настройка окружения
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+Для работы проекта необходимо настроить переменные окружения. Скопируйте `.env.example` в `.env` и заполните значения:
 
-## 🧞 Commands
+- `PUBLIC_DIRECTUS_URL` — публичный адрес Directus для клиента.
+- `DIRECTUS_SERVICE_TOKEN` — токен с правами на запись в `subscriptions`.
+- `MINIO` — базовый URL S3-хранилища для проксирования `/uploads/`.
+- `PLATEGA_SECRET` и другие `PLATEGA_*` — параметры интеграции с платежной системой.
 
-All commands are run from the root of the project, from a terminal:
+Подробное описание настройки оплаты и подписок находится в [docs/platega-directus.md](./docs/platega-directus.md).
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## 📦 Развертывание
 
-## 👀 Want to learn more?
+Проект настроен для деплоя через **Dokploy** с использованием Docker.
+- При сборке образ принимает `PUBLIC_DIRECTUS_URL` как build argument.
+- Все секретные переменные (`PLATEGA_SECRET`, `DIRECTUS_SERVICE_TOKEN`) должны передаваться как **runtime environment variables**.
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Подробнее см. в [руководстве по развертыванию](./docs/deployment.md).
