@@ -178,7 +178,7 @@ const SubCategories: React.FC<SubCategoriesProps> = ({ item, onClose, onToggleCh
                             handleSubItemClick(subItem, isLocked);
                           }}
                         >
-                          <span className="sub-item-title">{truncate(subItem.title, 40)}</span>
+                          <span className="sub-item-title">{subItem.title}</span>
                           {isLocked && (
                             <span className="lock-inline">
                               <img src="/img/premium-overlay.svg" alt="Заблокировано" />

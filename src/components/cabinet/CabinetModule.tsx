@@ -71,20 +71,24 @@ const CabinetModule: React.FC = () => {
         .list-category-3 li.locked {
           position: relative;
         }
-        .list-category-3 li.locked a {
-          opacity: 0.6;
-          display: flex;
+        .list-category-3 li a {
+          display: flex !important;
           align-items: center;
           justify-content: space-between;
           width: 100%;
           padding-right: 5px;
           overflow: hidden;
+          flex-wrap: nowrap;
+        }
+        .list-category-3 li.locked a {
+          opacity: 0.6;
         }
         .sub-item-title {
           overflow: hidden;
           text-overflow: ellipsis;
           white-space: nowrap;
           flex: 1;
+          min-width: 0;
         }
       `}</style>
       <CabinetSidebar onSelectTheme={handleSelectTheme} />
