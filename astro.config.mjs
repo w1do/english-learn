@@ -1,10 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
-import sitemap from '@astrojs/sitemap';
 import react from '@astrojs/react';
-import llms from 'astro-llms-md';
-import { serializeSitemapItem } from './src/utils/sitemap.js';
-
 import node from '@astrojs/node';
 
 // https://astro.build/config
@@ -24,6 +20,20 @@ export default defineConfig({
 
   vite: {
     server: {
+      watch: {
+        usePolling: process.env.POLLING !== 'false',
+        interval: 1000,
+        ignored: [
+          '**/dist/**',
+          '**/node_modules/**',
+          '**/.git/**',
+          '**/.astro/**',
+          '**/.idea/**',
+          '**/.vscode/**',
+          '**/docs/**',
+          '**/source/**',
+        ],
+      },
       proxy: {
         '/uploads': {
           target: MINIO_URL,

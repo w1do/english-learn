@@ -52,6 +52,41 @@ const CabinetModule: React.FC = () => {
 
   return (
     <div className="pt-76 d-flex w-100">
+      <style>{`
+        .lock-inline {
+          display: inline-flex;
+          align-items: center;
+          gap: 6px;
+          margin-left: auto;
+          color: #ff9d00;
+          font-size: 11px;
+          font-weight: 500;
+          flex-shrink: 0;
+        }
+        .lock-inline img {
+          width: 18px !important;
+          height: 18px !important;
+          margin-bottom: 0 !important;
+        }
+        .list-category-3 li.locked {
+          position: relative;
+        }
+        .list-category-3 li.locked a {
+          opacity: 0.6;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          width: 100%;
+          padding-right: 5px;
+          overflow: hidden;
+        }
+        .sub-item-title {
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+          flex: 1;
+        }
+      `}</style>
       <CabinetSidebar onSelectTheme={handleSelectTheme} />
       <main className="main-secondary">
         <div id="tasks-list">

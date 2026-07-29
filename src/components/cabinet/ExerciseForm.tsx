@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import { questionsMock, type Question } from '../../lib/questions-mock';
-import { registerThemeAnswer, getThemeProgress } from '../../lib/theme-progress';
+import { registerThemeAnswer, getThemeProgress, resetThemeProgress } from '../../lib/theme-progress';
 import { cabinetCategories } from '../../lib/cabinet-mock';
 
 interface ExerciseFormProps {
@@ -285,6 +285,8 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
     setFinished(false);
   };
 
+  const progressPercent = questions.length > 0 ? (currentIndex / questions.length) * 100 : 0;
+
   if (questions.length === 0) {
     return (
         <div className="list-view">
@@ -299,8 +301,6 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
         </div>
     );
   }
-
-  const progressPercent = questions.length > 0 ? (currentIndex / questions.length) * 100 : 0;
 
   const inputClasses = [
     'phrase-input',

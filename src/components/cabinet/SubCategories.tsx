@@ -2,6 +2,8 @@ import React from 'react';
 import type { SidebarItem, SubItem } from '../../lib/cabinet-mock';
 import { questionsMock } from '../../lib/questions-mock';
 import { getThemeProgress, resetThemeProgress } from '../../lib/theme-progress';
+import PremiumModal from './PremiumModal';
+import { useSubscription } from '../../hooks/useSubscription';
 
 interface SubCategoriesProps {
   item: SidebarItem | null;
@@ -13,7 +15,14 @@ interface SubCategoriesProps {
 }
 
 const SubCategories: React.FC<SubCategoriesProps> = ({ item, onClose, onToggleCheck, onBulkToggle, onSelectTheme, selectedIds }) => {
-  const handleSubItemClick = (subItem: SubItem) => {
+  const { isSubscribed, loading } = useSubscription();
+  const [showPremiumModal, setShowPremiumModal] = React.useState(false);
+
+  const handleSubItemClick = (subItem: SubItem, isLocked: boolean) => {
+    if (isLocked) {
+      setShowPremiumModal(true);
+      return;
+    }
     const { answers } = getThemeProgress(subItem.id);
     if (answers.success > 0) {
       // Заполняем данные в modalCompletedOn
@@ -100,6 +109,7 @@ const SubCategories: React.FC<SubCategoriesProps> = ({ item, onClose, onToggleCh
     return groupedSubItems[level].every(si => selectedIds.includes(si.id));
   };
 
+
   return (
     <div className={`sub-categories ${item ? 'open' : ''}`}>
       <button type="button" className="close-subcat close-subcat--js" onClick={onClose}>
@@ -114,6 +124,10 @@ const SubCategories: React.FC<SubCategoriesProps> = ({ item, onClose, onToggleCh
             className="btn btn-blue" 
             href="javascript:void(0)"
             onClick={() => {
+              if (!loading && !isSubscribed) {
+                setShowPremiumModal(true);
+                return;
+              }
               if (item.subItems && item.subItems.length > 0) {
                 onBulkToggle(item.subItems.map(s => s.id), true);
               }
@@ -140,25 +154,35 @@ const SubCategories: React.FC<SubCategoriesProps> = ({ item, onClose, onToggleCh
                 </div>
                 
                 <ul className="list-category-3">
-                  {groupedSubItems[level].map(subItem => (
-                    <li key={subItem.id}>
-                      <input 
-                        type="checkbox" 
-                        className="questions-check" 
-                        checked={selectedIds.includes(subItem.id)}
-                        onChange={() => onToggleCheck(subItem.id)}
-                      />
-                      <a 
-                        href="javascript:void(0)" 
-                        onClick={(e) => {
-                          e.preventDefault();
-                          handleSubItemClick(subItem);
-                        }}
-                      >
-                        {subItem.title}
-                      </a>
-                      
-                      {(() => {
+                  {groupedSubItems[level].map(subItem => {
+                    const { answers } = getThemeProgress(subItem.id);
+                    const isLocked = !loading && !isSubscribed && subItem.id !== '1018' && answers.success === 0;
+
+                    return (
+                      <li key={subItem.id} className={isLocked ? 'locked' : ''}>
+                        <input 
+                          type="checkbox" 
+                          className="questions-check" 
+                          checked={selectedIds.includes(subItem.id)}
+                          onChange={() => !isLocked && onToggleCheck(subItem.id)}
+                          disabled={isLocked}
+                        />
+                        <a 
+                          href="javascript:void(0)" 
+                          onClick={(e) => {
+                            e.preventDefault();
+                            handleSubItemClick(subItem, isLocked);
+                          }}
+                        >
+                          <span className="sub-item-title">{subItem.title}</span>
+                          {isLocked && (
+                            <span className="lock-inline">
+                              <img src="/img/premium-overlay.svg" alt="Заблокировано" />
+                            </span>
+                          )}
+                        </a>
+                        
+                        {(() => {
                         const total = (questionsMock[subItem.id] || []).length;
                         const { answers } = getThemeProgress(subItem.id);
                         const percent = total > 0 ? Math.min(100, Math.round((answers.success / total) * 100)) : 0;
@@ -181,13 +205,14 @@ const SubCategories: React.FC<SubCategoriesProps> = ({ item, onClose, onToggleCh
                         );
                       })()}
                     </li>
-                  ))}
+                  );})}
                 </ul>
               </li>
             ))}
           </ul>
         </div>
       )}
+      <PremiumModal isOpen={showPremiumModal} onClose={() => setShowPremiumModal(false)} />
     </div>
   );
 };

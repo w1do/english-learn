@@ -21,7 +21,7 @@ export const GET: APIRoute = async ({ request }) => {
     }
 
     return Response.json(
-      { error: 'Не удалось получить данные о подписке.' },
+      { error: 'Не удалось получить данные о подписке.', details: error instanceof Error ? error.message : String(error) },
       { status: 502 },
     );
   }
