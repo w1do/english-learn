@@ -109,6 +109,10 @@ const SubCategories: React.FC<SubCategoriesProps> = ({ item, onClose, onToggleCh
     return groupedSubItems[level].every(si => selectedIds.includes(si.id));
   };
 
+  const truncate = (text: string, maxLength: number) => {
+    if (text.length <= maxLength) return text;
+    return text.slice(0, maxLength) + '...';
+  };
 
   return (
     <div className={`sub-categories ${item ? 'open' : ''}`}>
@@ -118,7 +122,7 @@ const SubCategories: React.FC<SubCategoriesProps> = ({ item, onClose, onToggleCh
       
       {item && (
         <div data-parent={item.id} style={{ display: 'block' }}>
-          <div className="subcat-title">{item.title}</div>
+          <div className="subcat-title">{truncate(item.title, 50)}</div>
           
           <a 
             className="btn btn-blue" 
@@ -174,7 +178,7 @@ const SubCategories: React.FC<SubCategoriesProps> = ({ item, onClose, onToggleCh
                             handleSubItemClick(subItem, isLocked);
                           }}
                         >
-                          <span className="sub-item-title">{subItem.title}</span>
+                          <span className="sub-item-title">{truncate(subItem.title, 40)}</span>
                           {isLocked && (
                             <span className="lock-inline">
                               <img src="/img/premium-overlay.svg" alt="Заблокировано" />

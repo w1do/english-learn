@@ -285,12 +285,17 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
     setFinished(false);
   };
 
+  const truncate = (text: string, maxLength: number) => {
+    if (text.length <= maxLength) return text;
+    return text.slice(0, maxLength) + '...';
+  };
+
   const progressPercent = questions.length > 0 ? (currentIndex / questions.length) * 100 : 0;
 
   if (questions.length === 0) {
     return (
         <div className="list-view">
-            <div className="question-title">{themeTitle || 'Загрузка...'}</div>
+            <div className="question-title">{themeTitle ? truncate(themeTitle, 60) : 'Загрузка...'}</div>
             <div className="quest-flex d-flex">
               <div className="box question-box" data-exercise-owner="react">
                   <div className="text" style={{ textAlign: 'center', padding: '40px' }}>
@@ -339,7 +344,7 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
 
   return (
     <div className="list-view">
-      <div className="question-title">{themeTitle}</div>
+      <div className="question-title">{truncate(themeTitle, 60)}</div>
       <div className="quest-flex d-flex">
         <div className="box question-box" data-exercise-owner="react">
           <div className="progress" title="Ваш прогресс">
