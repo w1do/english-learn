@@ -6,17 +6,17 @@ export interface BillingPlan {
   description: string;
   amount: number;
   durationMonths: number;
-  recurring: boolean;
+  IS_RECCCURENT: boolean;
 }
 
 export const BILLING_PLANS: Record<BillingPlanId, BillingPlan> = {
   month: {
     id: 'month',
     title: '1 месяц',
-    description: 'Ежемесячная подписка MySimpleEnglish',
+    description: 'Доступ к MySimpleEnglish на 1 месяц',
     amount: 1,
     durationMonths: 1,
-    recurring: true,
+    IS_RECCCURENT: false,
   },
   quarter: {
     id: 'quarter',
@@ -24,7 +24,7 @@ export const BILLING_PLANS: Record<BillingPlanId, BillingPlan> = {
     description: 'Доступ к MySimpleEnglish на 3 месяца',
     amount: 2590,
     durationMonths: 3,
-    recurring: false,
+    IS_RECCCURENT: false,
   },
   year: {
     id: 'year',
@@ -32,7 +32,7 @@ export const BILLING_PLANS: Record<BillingPlanId, BillingPlan> = {
     description: 'Доступ к MySimpleEnglish на 12 месяцев',
     amount: 8990,
     durationMonths: 12,
-    recurring: false,
+    IS_RECCCURENT: false,
   },
 };
 
@@ -46,11 +46,12 @@ export function getBillingPlan(value: unknown): BillingPlan | null {
 
 export function findBillingPlanByAmount(
   amount: number,
-  recurring: boolean,
+  isRecurrent: boolean,
 ): BillingPlan | null {
   return (
     BILLING_PLAN_LIST.find(
-      (plan) => plan.amount === amount && plan.recurring === recurring,
+      (plan) =>
+        plan.amount === amount && plan.IS_RECCCURENT === isRecurrent,
     ) ?? null
   );
 }

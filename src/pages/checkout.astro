@@ -62,7 +62,7 @@ const rub = new Intl.NumberFormat('ru-RU');
                             <div class="action">
                                 <CheckoutButton client:load planId="month" />
                             </div>
-                            <div class="econom">Автопродление каждый месяц</div>
+                            <div class="econom">{BILLING_PLANS.month.IS_RECCCURENT ? 'Автопродление каждый месяц' : 'Разовый платёж'}</div>
                         </div>
                                             <div class="item best_sell">
                             <div class="period">

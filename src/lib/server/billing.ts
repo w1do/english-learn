@@ -197,7 +197,7 @@ export async function startPayment(plan: BillingPlan, userId: string) {
   const result = await platega<{ transactionId: string; redirect?: string; url?: string }>(
     '/transaction/process',
     {
-      paymentMethod: plan.recurring ? 6 : 2,
+      paymentMethod: plan.IS_RECCCURENT ? 6 : 2,
       paymentDetails: {
         amount: plan.amount,
         currency: 'RUB',
@@ -224,7 +224,7 @@ export async function startPayment(plan: BillingPlan, userId: string) {
       user_id: userId,
       transaction_id: result.transactionId,
       expired_at: null,
-      is_prologation: plan.recurring,
+      is_prologation: plan.IS_RECCCURENT,
     }),
   });
   return redirect.toString();
