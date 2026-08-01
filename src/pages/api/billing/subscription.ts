@@ -1,5 +1,10 @@
 import type { APIRoute } from 'astro';
-import { currentUserId, getUserSubscription, UpstreamError } from '../../../lib/server/billing';
+import {
+  currentUserId,
+  getUserSubscription,
+  isSubscriptionActive,
+  UpstreamError,
+} from '../../../lib/server/billing';
 
 export const prerender = false;
 
@@ -8,7 +13,10 @@ export const GET: APIRoute = async ({ request }) => {
     const userId = await currentUserId(request.headers.get('Authorization'));
     const subscription = await getUserSubscription(userId);
 
-    return Response.json({ subscription });
+    return Response.json({
+      subscription,
+      isSubscribed: isSubscriptionActive(subscription),
+    });
   } catch (error) {
     if (error instanceof Response) {
       return error;

@@ -4,6 +4,7 @@ import { questionsMock } from '../../lib/questions-mock';
 import { getThemeProgress, resetThemeProgress } from '../../lib/theme-progress';
 import PremiumModal from './PremiumModal';
 import { useSubscription } from '../../hooks/useSubscription';
+import { canAccessExercise } from '../../lib/subscription-access';
 
 interface SubCategoriesProps {
   item: SidebarItem | null;
@@ -159,8 +160,8 @@ const SubCategories: React.FC<SubCategoriesProps> = ({ item, onClose, onToggleCh
                 
                 <ul className="list-category-3">
                   {groupedSubItems[level].map(subItem => {
-                    const { answers } = getThemeProgress(subItem.id);
-                    const isLocked = !loading && !isSubscribed && subItem.id !== '1018' && answers.success === 0;
+                    const isLocked = !loading &&
+                      !canAccessExercise(subItem.id, isSubscribed);
 
                     return (
                       <li key={subItem.id} className={isLocked ? 'locked' : ''}>

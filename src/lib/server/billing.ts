@@ -40,15 +40,6 @@ export class UpstreamError extends Error {
   }
 }
 
-function redactHeaders(headers: Headers) {
-  return Object.fromEntries(
-    [...headers.entries()].map(([key, value]) => [
-      key,
-      /^(authorization|cookie|x-secret)$/i.test(key) ? '[redacted]' : value,
-    ]),
-  );
-}
-
 function logWebhook(kind: 'payment' | 'charge' | 'status', message: string, details?: unknown) {
   console.info(`[platega:${kind}] ${message}`, details);
 }
@@ -77,20 +68,20 @@ function normalizeAmount(value: unknown) {
 }
 
 async function readWebhookBody(request: Request) {
-  const rawBody = await request.clone().text().catch(() => '');
+  const rawBody = await request.text().catch(() => '');
 
   if (!rawBody.trim()) {
-    return { rawBody, body: null as Record<string, unknown> | null };
+    return null;
   }
 
   try {
     const parsed = JSON.parse(rawBody) as unknown;
     if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) {
-      return { rawBody, body: null as Record<string, unknown> | null };
+      return null;
     }
-    return { rawBody, body: parsed as Record<string, unknown> };
+    return parsed as Record<string, unknown>;
   } catch {
-    return { rawBody, body: null as Record<string, unknown> | null };
+    return null;
   }
 }
 
@@ -143,9 +134,32 @@ export async function currentUserId(authorization: string | null): Promise<strin
 }
 
 export async function getUserSubscription(userId: string): Promise<Subscription | null> {
+  const latestQuery = new URLSearchParams({
+    'filter[user_id][_eq]': userId,
+    sort: '-id',
+    fields: 'id,user_id,transaction_id,expired_at,is_prologation',
+    limit: '1',
+  });
+  const latestRows = await directus<Subscription[]>(
+    `/items/subscriptions?${latestQuery}`,
+    { headers: directusHeaders() },
+  );
+  const latest = latestRows[0] || null;
+
+  if (latest && !latest.expired_at && !latest.is_prologation) {
+    try {
+      await reconcileOneTimePayment(latest);
+    } catch (error) {
+      logWebhook('payment', 'reconciliation failed', {
+        transactionId: latest.transaction_id,
+        error: error instanceof Error ? error.message : 'Unknown error',
+      });
+    }
+  }
+
   const query = new URLSearchParams({
     'filter[user_id][_eq]': userId,
-    'filter[expired_at][_nnull]': 'true',
+    'filter[expired_at][_gt]': new Date().toISOString(),
     sort: '-expired_at',
     fields: 'id,user_id,transaction_id,expired_at,is_prologation',
     limit: '1',
@@ -156,21 +170,30 @@ export async function getUserSubscription(userId: string): Promise<Subscription 
   return rows[0] || null;
 }
 
-async function platega<T>(path: string, payload: unknown): Promise<T> {
+export function isSubscriptionActive(subscription: Subscription | null) {
+  if (!subscription?.expired_at) return false;
+  const expiresAt = new Date(subscription.expired_at);
+  return !Number.isNaN(expiresAt.getTime()) && expiresAt > new Date();
+}
+
+function plategaHeaders(): HeadersInit {
   const merchantId = process.env.PLATEGA_MERCHANT_ID?.trim();
   const secret = process.env.PLATEGA_SECRET?.trim();
   if (!merchantId || !secret) throw new Error('Platega credentials are not configured');
+  return {
+    Accept: 'application/json',
+    'Content-Type': 'application/json',
+    'X-MerchantId': merchantId,
+    'X-Secret': secret,
+  };
+}
 
+async function platega<T>(path: string, payload: unknown): Promise<T> {
   let response: Response;
   try {
     response = await fetch(`${plategaUrl}${path}`, {
       method: 'POST',
-      headers: {
-        Accept: 'application/json',
-        'Content-Type': 'application/json',
-        'X-MerchantId': merchantId,
-        'X-Secret': secret,
-      },
+      headers: plategaHeaders(),
       body: JSON.stringify(payload),
       signal: AbortSignal.timeout(15_000),
     });
@@ -182,6 +205,38 @@ async function platega<T>(path: string, payload: unknown): Promise<T> {
     | null;
   if (!response.ok || !body) {
     throw new Error(body?.message || body?.error || `Platega ${response.status}`);
+  }
+  return body;
+}
+
+interface PlategaTransaction {
+  id: string;
+  status: string;
+  paymentDetails: {
+    amount: number;
+    currency: string;
+  };
+  comission?: number;
+  comissionType?: number;
+}
+
+async function getPlategaTransaction(transactionId: string): Promise<PlategaTransaction> {
+  let response: Response;
+  try {
+    response = await fetch(
+      `${plategaUrl}/transaction/${encodeURIComponent(transactionId)}`,
+      {
+        headers: plategaHeaders(),
+        signal: AbortSignal.timeout(15_000),
+      },
+    );
+  } catch {
+    throw new UpstreamError('Platega');
+  }
+
+  const body = (await response.json().catch(() => null)) as PlategaTransaction | null;
+  if (!response.ok || !body) {
+    throw new Error(`Platega ${response.status}`);
   }
   return body;
 }
@@ -250,6 +305,39 @@ async function updateSubscription(id: Subscription['id'], patch: Partial<Subscri
   });
 }
 
+async function reconcileOneTimePayment(subscription: Subscription) {
+  const transaction = await getPlategaTransaction(subscription.transaction_id);
+  const currency = String(transaction.paymentDetails?.currency || '').toUpperCase();
+  const plan = findOneTimePlan(transaction);
+
+  if (
+    transaction.id !== subscription.transaction_id ||
+    transaction.status !== 'CONFIRMED' ||
+    currency !== 'RUB' ||
+    !plan
+  ) {
+    return subscription;
+  }
+
+  const expiredAt = addMonths(new Date(), plan.durationMonths).toISOString();
+  await updateSubscription(subscription.id, { expired_at: expiredAt });
+  return { ...subscription, expired_at: expiredAt };
+}
+
+function findOneTimePlan(transaction: PlategaTransaction) {
+  const chargedAmount = normalizeAmount(transaction.paymentDetails?.amount);
+  if (chargedAmount === null) return null;
+
+  const directPlan = findBillingPlanByAmount(chargedAmount, false);
+  if (directPlan) return directPlan;
+
+  const commission = normalizeAmount(transaction.comission);
+  if (transaction.comissionType !== 0 || commission === null) return null;
+
+  const merchantAmount = Math.round((chargedAmount - commission) * 100) / 100;
+  return findBillingPlanByAmount(merchantAmount, false);
+}
+
 function validSecret(headers: Headers) {
   const expectedMerchant = process.env.PLATEGA_MERCHANT_ID?.trim();
   const expectedSecret = process.env.PLATEGA_SECRET?.trim();
@@ -267,26 +355,16 @@ function validSecret(headers: Headers) {
 export async function handleWebhook(
   request: Request,
   kind: 'payment' | 'charge' | 'status',
-  options: { audit?: boolean } = {},
 ) {
-  const { rawBody, body } = await readWebhookBody(request);
-
-  if (options.audit) {
-    logWebhook(kind, 'incoming', {
-      headers: redactHeaders(request.headers),
-      rawBody,
-    });
-  }
+  const body = await readWebhookBody(request);
 
   if (!validSecret(request.headers)) {
-    logWebhook(kind, 'unauthorized', {
-      headers: redactHeaders(request.headers),
-    });
+    logWebhook(kind, 'unauthorized');
     return new Response('Unauthorized', { status: 401 });
   }
 
   if (!body) {
-    logWebhook(kind, 'invalid body', { rawBody });
+    logWebhook(kind, 'invalid body');
     return new Response('Invalid callback', { status: 400 });
   }
 
@@ -319,7 +397,7 @@ export async function handleWebhook(
       amount,
       currency,
       status,
-      body,
+      paymentMethod,
     });
     return new Response('Invalid callback', { status: 400 });
   }
@@ -331,14 +409,14 @@ export async function handleWebhook(
       amount,
       currency,
       status,
-      body,
+      paymentMethod,
     });
     return new Response('Unknown transaction', { status: 404 });
   }
 
   if (kind === 'status') {
     if (paymentMethod !== 6) {
-      logWebhook(kind, 'invalid payment method', { paymentMethod, body });
+      logWebhook(kind, 'invalid payment method', { paymentMethod });
       return new Response('Invalid callback', { status: 400 });
     }
     if (status === 'SUBSCRIPTION_CANCELLED') {
@@ -347,26 +425,71 @@ export async function handleWebhook(
     return new Response('OK');
   }
 
-  const plan = findBillingPlanByAmount(amount, kind === 'charge');
-  if (!plan || subscription.is_prologation !== (kind === 'charge')) {
+  if (subscription.is_prologation !== (kind === 'charge')) {
     logWebhook(kind, 'invalid transaction', {
       transactionId,
-      amount,
-      currency,
       status,
-      subscription,
-      body,
+      reason: 'payment type mismatch',
     });
     return new Response('Invalid transaction', { status: 400 });
   }
+
+  if (kind === 'payment' && paymentMethod !== 2) {
+    logWebhook(kind, 'invalid payment method', { transactionId, paymentMethod });
+    return new Response('Invalid callback', { status: 400 });
+  }
+
+  let plan = findBillingPlanByAmount(amount, kind === 'charge');
+
   if (status === 'CONFIRMED') {
+    if (kind === 'payment') {
+      const transaction = await getPlategaTransaction(transactionId);
+      const originalCurrency = String(
+        transaction.paymentDetails?.currency || '',
+      ).toUpperCase();
+      plan = findOneTimePlan(transaction);
+
+      if (
+        transaction.id !== transactionId ||
+        transaction.status !== 'CONFIRMED' ||
+        originalCurrency !== 'RUB'
+      ) {
+        plan = null;
+      }
+    }
+
+    if (!plan) {
+      logWebhook(kind, 'invalid transaction', {
+        transactionId,
+        status,
+        callbackAmount: amount,
+      });
+      return new Response('Invalid transaction', { status: 400 });
+    }
+
     const expiry = kind === 'charge'
       ? new Date(String(getBodyField(body, ['NextChargeAt'])))
-      : addMonths(new Date(), plan.durationMonths);
-    if (!Number.isNaN(expiry.getTime()) &&
-        (!subscription.expired_at || expiry > new Date(subscription.expired_at))) {
-      await updateSubscription(subscription.id, { expired_at: expiry.toISOString() });
+      : subscription.expired_at
+        ? new Date(subscription.expired_at)
+        : addMonths(new Date(), plan.durationMonths);
+    if (Number.isNaN(expiry.getTime())) {
+      logWebhook(kind, 'invalid expiry', { transactionId });
+      return new Response('Invalid callback', { status: 400 });
     }
+
+    if (!subscription.expired_at || expiry > new Date(subscription.expired_at)) {
+      await updateSubscription(subscription.id, {
+        expired_at: expiry.toISOString(),
+      });
+    }
+    logWebhook(kind, 'confirmed', {
+      transactionId,
+      callbackAmount: amount,
+      expiresAt: expiry.toISOString(),
+    });
+  } else if (status === 'CHARGEBACKED' && subscription.expired_at) {
+    await updateSubscription(subscription.id, { expired_at: new Date().toISOString() });
+    logWebhook(kind, 'chargebacked', { transactionId });
   }
   return new Response('OK');
 }

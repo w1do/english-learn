@@ -7,9 +7,10 @@ import { cabinetCategories } from '../../lib/cabinet-mock';
 interface ExerciseFormProps {
   themeId: string;
   categoryId?: string;
+  isSubscribed: boolean;
 }
 
-const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
+const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId, isSubscribed }) => {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [themeTitle, setThemeTitle] = useState('');
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -70,6 +71,10 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
       themeQuestions = questionsMock[categoryId];
     }
 
+    if (!isSubscribed) {
+      themeQuestions = themeQuestions.slice(0, 1);
+    }
+
     setQuestions(themeQuestions);
     setThemeTitle(title || 'Упражнение');
     // Продолжить с последнего: стартуем с индекса = кол-во успешных ответов
@@ -92,7 +97,7 @@ const ExerciseForm: React.FC<ExerciseFormProps> = ({ themeId, categoryId }) => {
     setUserInput('');
     setShowResult(false);
     setHintCount(3);
-  }, [themeId]);
+  }, [themeId, categoryId, isSubscribed]);
 
   useEffect(() => {
     const handlePopState = () => {

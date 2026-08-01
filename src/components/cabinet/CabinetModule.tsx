@@ -3,10 +3,13 @@ import React, { useState, useEffect } from 'react';
 import CabinetSidebar from './CabinetSidebar';
 import ExerciseForm from './ExerciseForm';
 import { cabinetCategories } from '../../lib/cabinet-mock';
+import { useSubscription } from '../../hooks/useSubscription';
+import { canAccessExercise } from '../../lib/subscription-access';
 
 const CabinetModule: React.FC = () => {
   const [selectedThemeId, setSelectedThemeId] = useState<string | null>(null);
   const [selectedCategoryId, setSelectedCategoryId] = useState<string | null>(null);
+  const { isSubscribed, loading: subscriptionLoading } = useSubscription();
 
   useEffect(() => {
     const syncFromUrl = () => {
@@ -94,8 +97,27 @@ const CabinetModule: React.FC = () => {
       <CabinetSidebar onSelectTheme={handleSelectTheme} />
       <main className="main-secondary">
         <div id="tasks-list">
-          {selectedThemeId ? (
-            <ExerciseForm themeId={selectedThemeId} categoryId={selectedCategoryId || undefined} />
+          {subscriptionLoading ? (
+            <div className="list-view">
+              <div className="question-title">Проверяю доступ…</div>
+            </div>
+          ) : selectedThemeId && canAccessExercise(selectedThemeId, isSubscribed) ? (
+            <ExerciseForm
+              themeId={selectedThemeId}
+              categoryId={selectedCategoryId || undefined}
+              isSubscribed={isSubscribed}
+            />
+          ) : selectedThemeId ? (
+            <div className="list-view">
+              <div className="question-title">Это упражнение доступно после оплаты</div>
+              <div className="quest-flex d-flex">
+                <div className="box question-box" data-exercise-owner="react">
+                  <div className="text" style={{ textAlign: 'center', padding: '40px' }}>
+                    <a className="btn btn-blue" href="/checkout">Выбрать тариф</a>
+                  </div>
+                </div>
+              </div>
+            </div>
           ) : (
             <div className="list-view">
               <div className="question-title">Выберите тему в сайдбаре, чтобы начать</div>
