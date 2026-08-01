@@ -1,4 +1,4 @@
-import { createHash, timingSafeEqual } from 'node:crypto';
+import { createHash, randomUUID, timingSafeEqual } from 'node:crypto';
 import { setDefaultResultOrder } from 'node:dns';
 import type { BillingPlan } from '../billing/plans';
 import { findBillingPlanByAmount } from '../billing/plans';
@@ -37,6 +37,60 @@ export interface Subscription {
 export class UpstreamError extends Error {
   constructor(public readonly service: string, public readonly status = 503) {
     super(`${service} request failed`);
+  }
+}
+
+function redactHeaders(headers: Headers) {
+  return Object.fromEntries(
+    [...headers.entries()].map(([key, value]) => [
+      key,
+      /^(authorization|cookie|x-secret)$/i.test(key) ? '[redacted]' : value,
+    ]),
+  );
+}
+
+function logWebhook(kind: 'payment' | 'charge' | 'status', message: string, details?: unknown) {
+  console.info(`[platega:${kind}] ${message}`, details);
+}
+
+function getBodyField(body: Record<string, unknown>, names: string[]) {
+  for (const name of names) {
+    const value = body[name];
+    if (value !== undefined && value !== null) {
+      return value;
+    }
+  }
+  return undefined;
+}
+
+function normalizeAmount(value: unknown) {
+  if (typeof value === 'number' && Number.isFinite(value)) {
+    return value;
+  }
+  if (typeof value === 'string' && value.trim()) {
+    const parsed = Number(value.replace(',', '.'));
+    if (Number.isFinite(parsed)) {
+      return parsed;
+    }
+  }
+  return null;
+}
+
+async function readWebhookBody(request: Request) {
+  const rawBody = await request.clone().text().catch(() => '');
+
+  if (!rawBody.trim()) {
+    return { rawBody, body: null as Record<string, unknown> | null };
+  }
+
+  try {
+    const parsed = JSON.parse(rawBody) as unknown;
+    if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) {
+      return { rawBody, body: null as Record<string, unknown> | null };
+    }
+    return { rawBody, body: parsed as Record<string, unknown> };
+  } catch {
+    return { rawBody, body: null as Record<string, unknown> | null };
   }
 }
 
@@ -143,7 +197,7 @@ export async function startPayment(plan: BillingPlan, userId: string) {
   const result = await platega<{ transactionId: string; redirect?: string; url?: string }>(
     '/transaction/process',
     {
-      paymentMethod: 2,
+      paymentMethod: plan.recurring ? 6 : 2,
       paymentDetails: {
         amount: plan.amount,
         currency: 'RUB',
@@ -151,7 +205,7 @@ export async function startPayment(plan: BillingPlan, userId: string) {
       description: plan.description,
       return: returnUrl,
       failedUrl,
-      payload: crypto.randomUUID(),
+      payload: randomUUID(),
       metadata: { userId },
     },
   );
@@ -213,26 +267,80 @@ function validSecret(headers: Headers) {
 export async function handleWebhook(
   request: Request,
   kind: 'payment' | 'charge' | 'status',
+  options: { audit?: boolean } = {},
 ) {
-  if (!validSecret(request.headers)) return new Response('Unauthorized', { status: 401 });
-  const body = (await request.json().catch(() => null)) as Record<string, unknown> | null;
-  if (!body) return new Response('Invalid callback', { status: 400 });
+  const { rawBody, body } = await readWebhookBody(request);
 
-  const transactionId = kind === 'payment' ? body.id : body.SubscriptionId || body.Id;
-  const amount = kind === 'payment' ? body.amount : body.Amount;
-  const status = kind === 'payment' ? body.status : body.Status;
+  if (options.audit) {
+    logWebhook(kind, 'incoming', {
+      headers: redactHeaders(request.headers),
+      rawBody,
+    });
+  }
+
+  if (!validSecret(request.headers)) {
+    logWebhook(kind, 'unauthorized', {
+      headers: redactHeaders(request.headers),
+    });
+    return new Response('Unauthorized', { status: 401 });
+  }
+
+  if (!body) {
+    logWebhook(kind, 'invalid body', { rawBody });
+    return new Response('Invalid callback', { status: 400 });
+  }
+
+  const transactionId =
+    kind === 'payment'
+      ? getBodyField(body, ['id', 'Id'])
+      : kind === 'charge'
+        ? getBodyField(body, ['SubscriptionId'])
+        : getBodyField(body, ['SubscriptionId', 'Id', 'id']);
+  const amount = normalizeAmount(
+    kind === 'payment'
+      ? getBodyField(body, ['amount', 'Amount'])
+      : getBodyField(body, ['Amount', 'amount']),
+  );
+  const currency = String(
+    getBodyField(body, ['currency', 'Currency']) || '',
+  ).toUpperCase();
+  const status = getBodyField(body, ['status', 'Status']);
+  const paymentMethod = normalizeAmount(
+    getBodyField(body, ['paymentMethod', 'PaymentMethod']),
+  );
   if (
     typeof transactionId !== 'string' ||
-    typeof amount !== 'number' ||
-    body[kind === 'payment' ? 'currency' : 'Currency'] !== 'RUB' ||
+    amount === null ||
+    currency !== 'RUB' ||
     typeof status !== 'string'
-  ) return new Response('Invalid callback', { status: 400 });
+  ) {
+    logWebhook(kind, 'invalid callback', {
+      transactionId,
+      amount,
+      currency,
+      status,
+      body,
+    });
+    return new Response('Invalid callback', { status: 400 });
+  }
 
   const subscription = await findSubscription(transactionId);
-  if (!subscription) return new Response('Unknown transaction', { status: 404 });
+  if (!subscription) {
+    logWebhook(kind, 'unknown transaction', {
+      transactionId,
+      amount,
+      currency,
+      status,
+      body,
+    });
+    return new Response('Unknown transaction', { status: 404 });
+  }
 
   if (kind === 'status') {
-    if (body.PaymentMethod !== 6) return new Response('Invalid callback', { status: 400 });
+    if (paymentMethod !== 6) {
+      logWebhook(kind, 'invalid payment method', { paymentMethod, body });
+      return new Response('Invalid callback', { status: 400 });
+    }
     if (status === 'SUBSCRIPTION_CANCELLED') {
       await updateSubscription(subscription.id, { is_prologation: false });
     }
@@ -241,11 +349,19 @@ export async function handleWebhook(
 
   const plan = findBillingPlanByAmount(amount, kind === 'charge');
   if (!plan || subscription.is_prologation !== (kind === 'charge')) {
+    logWebhook(kind, 'invalid transaction', {
+      transactionId,
+      amount,
+      currency,
+      status,
+      subscription,
+      body,
+    });
     return new Response('Invalid transaction', { status: 400 });
   }
   if (status === 'CONFIRMED') {
     const expiry = kind === 'charge'
-      ? new Date(String(body.NextChargeAt))
+      ? new Date(String(getBodyField(body, ['NextChargeAt'])))
       : addMonths(new Date(), plan.durationMonths);
     if (!Number.isNaN(expiry.getTime()) &&
         (!subscription.expired_at || expiry > new Date(subscription.expired_at))) {

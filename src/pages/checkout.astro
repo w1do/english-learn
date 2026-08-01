@@ -3,6 +3,9 @@ import PageLayout from '../layouts/PageLayout.astro';
 import ProtectedPageGuard from '../components/auth/ProtectedPageGuard.astro';
 import CheckoutButton from '../components/billing/CheckoutButton';
 import SubscriptionStatus from '../components/billing/SubscriptionStatus';
+import { BILLING_PLANS } from '../lib/billing/plans';
+
+const rub = new Intl.NumberFormat('ru-RU');
 ---
 <PageLayout title="Оформить подписку — MySimpleEnglish" description="Выберите подходящий тариф и получите доступ ко всем материалам платформы MySimpleEnglish.">
 <Fragment slot="head">
@@ -46,12 +49,12 @@ import SubscriptionStatus from '../components/billing/SubscriptionStatus';
                                                                     <div class="desc">
                                         Для знакомства                                    </div>
                                                                 <div class="name">
-                                    1 месяц                                </div>
+                                    {BILLING_PLANS.month.title}                                </div>
                             </div>
                                                             <div class="text">
-                                     Попробуйте и почувствуйте прогресс с первых дней.                                </div>
+                                     {BILLING_PLANS.month.description}                                </div>
                                                         <div class="price">
-                                <div class="current">990 ₽</div>
+                                <div class="current">{rub.format(BILLING_PLANS.month.amount)} ₽</div>
                                                                                             </div>
                             <div class="promo">
                                 <input type="text" class="promo-input" name="promo-input" value="" placeholder="Введите код ..." data-subscription-id="1">                                <div class="hint-promo"></div>
@@ -66,12 +69,12 @@ import SubscriptionStatus from '../components/billing/SubscriptionStatus';
                                                                     <div class="desc">
                                         Самый популярный                                    </div>
                                                                 <div class="name">
-                                    3 месяца                                </div>
+                                    {BILLING_PLANS.quarter.title}                                </div>
                             </div>
                                                             <div class="text">
-                                    Первые реальные результаты и уверенность в языке.                                </div>
+                                    {BILLING_PLANS.quarter.description}                                </div>
                                                         <div class="price">
-                                <div class="current">2 590 ₽</div>
+                                <div class="current">{rub.format(BILLING_PLANS.quarter.amount)} ₽</div>
                                                                     <div class="old">3 000 ₽</div>
                                                                                                     <div class="econom">Экономия 127₽ в месяц (13%)</div>
                                                             </div>
@@ -87,12 +90,12 @@ import SubscriptionStatus from '../components/billing/SubscriptionStatus';
                                                                     <div class="desc">
                                         Самый выгодный                                    </div>
                                                                 <div class="name">
-                                    12 месяцев                                </div>
+                                    {BILLING_PLANS.year.title}                                </div>
                             </div>
                                                             <div class="text">
-                                    Полное погружение, карьерный рост и новые возможности.                                </div>
+                                    {BILLING_PLANS.year.description}                                </div>
                                                         <div class="price">
-                                <div class="current">8 990 ₽</div>
+                                <div class="current">{rub.format(BILLING_PLANS.year.amount)} ₽</div>
                                                                     <div class="old">12 000 ₽</div>
                                                                                                     <div class="econom">Экономия 241₽ в месяц (24%)</div>
                                                             </div>

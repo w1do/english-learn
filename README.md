@@ -44,6 +44,7 @@
 - `DIRECTUS_SERVICE_TOKEN` — токен с правами на запись в `subscriptions`.
 - `MINIO` — базовый URL S3-хранилища для проксирования `/uploads/`.
 - `PLATEGA_SECRET` и другие `PLATEGA_*` — параметры интеграции с платежной системой.
+- Планы и тестовую цену для `month` смотри в `src/lib/billing/config.ts`.
 
 Подробное описание настройки оплаты и подписок находится в [docs/platega-directus.md](./docs/platega-directus.md).
 
