@@ -16,7 +16,7 @@ export const BILLING_PLANS: Record<BillingPlanId, BillingPlan> = {
     description: 'Доступ к MySimpleEnglish на 1 месяц',
     amount: 1,
     durationMonths: 1,
-    IS_RECCCURENT: false,
+    IS_RECCCURENT: true,
   },
   quarter: {
     id: 'quarter',
@@ -24,7 +24,7 @@ export const BILLING_PLANS: Record<BillingPlanId, BillingPlan> = {
     description: 'Доступ к MySimpleEnglish на 3 месяца',
     amount: 2590,
     durationMonths: 3,
-    IS_RECCCURENT: false,
+    IS_RECCCURENT: true,
   },
   year: {
     id: 'year',
@@ -32,7 +32,7 @@ export const BILLING_PLANS: Record<BillingPlanId, BillingPlan> = {
     description: 'Доступ к MySimpleEnglish на 12 месяцев',
     amount: 8990,
     durationMonths: 12,
-    IS_RECCCURENT: false,
+    IS_RECCCURENT: true,
   },
 };
 
